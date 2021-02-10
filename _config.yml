@@ -1,4 +1,6 @@
-theme: jekyll-theme-leap-day
+# we wish we could add a theme like this one
+# theme: jekyll-theme-leap-day
+# but we need to learn how to match them with layouts.
 
 collections:
   authors:

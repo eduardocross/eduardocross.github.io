@@ -1,5 +1,7 @@
 - name: Home
   link: /
+- name: Tutorial
+  link: /JerkyllTutor.html
 - name: About
   link: /about.html
 - name: Blog
