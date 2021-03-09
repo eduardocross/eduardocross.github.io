@@ -1,0 +1,40 @@
+---
+title: DdsDecDateField.DateSeperator Property
+
+Id: amfDdsDecDateFieldClassDateSeperatorProperty
+TocParent: amfDdsDecDateFieldClassProperties
+TocOrder: 16
+
+keywords: DateSeperator property
+keywords: DdsDecDateField.DateSeperator property
+keywords: Web server controls [ASNA.Monarch], date field sperator
+keywords: how to, set datefield control seperator
+keywords: display files, setting date field control seperator
+keywords: web controls, setting date field control seperator
+keywords: field controls, date fields, seperator
+
+---
+
+Gets or sets the character to use as a seperator for this field. The default is '/'.
+
+#### Syntax
+<pre class="prettyprint"> **BegProp DateSeperator Access(*Public) Type(*Char)
+   BegGet;  BegSet** </pre>
+
+#### Property Values
+Character to be used as a separator in the displayed date. '/', '.', '\' and '-' are the supported options.
+
+#### Remarks
+To set this property at design time, click on the right side of the property window and enter the default value.
+
+#### Requirements
+**Namespace:** [ASNA.Monarch.WebDspF](amfWebDspFNamespace.html)
+
+**Assembly:** ASNA.Monarch.WebDspF.DLL
+
+**Platforms:** Windows Server 2012, Windows Server 2012 R2, Windows Server 2016, Windows 7, Windows 8 Pro, Windows 10 Pro
+
+#### See Also
+[ DdsDecDateField Class](amfDdsDecDateFieldClass.html) <br /> [ DdsDecDateField Class Members](amfDdsDecDateFieldClassMembers.html) <br /> [ ASNA.Monarch.WebDspF Namespace](amfWebDspFNamespace.html) 
+<!-- last one -->
+

@@ -2,26 +2,28 @@
 # theme: jekyll-theme-leap-day
 # but we need to learn how to match them with layouts.
 
-collections:
-  authors:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
 
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  
+# For local development, we build css with the "expanded" format to produce
+# human-readable output for easier debugging.
+sass:
+  sass_dir: _scss
+  style: expanded
+  
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: docs
+      toc_min: 2
+      toc_max: 3
+
+      
+collections:
+  samples:
+    output: true
+

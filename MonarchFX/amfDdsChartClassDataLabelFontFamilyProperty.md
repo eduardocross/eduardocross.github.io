@@ -1,0 +1,33 @@
+---
+title: DdsChart.DataLabelFontFamily Property
+
+Id: amfDdsChartClassDataLabelFontFamilyProperty
+TocParent: amfDdsChartClassPropertiesMain
+TocOrder: 41
+
+keywords: DataLabelFontFamily property
+keywords: DdsChart.DataLabelFontFamily property
+
+---
+
+Gets or sets the font family of the chart's data label (numbering of each data point).
+
+#### Syntax
+<pre class="prettyprint"> **BegProp DataLabelFontFamily Access(*Public) Type(*string)
+   BegGet;  BegSet** </pre>
+
+#### Property Values
+String defining the font family of the data label. Any font family available in Visual Studio is valid for this property. Defaults to **Arial** .
+
+#### Remarks
+Sets the font family of the label attached to each data point. Often best to use the same value as the other font family chart properties (AxisTitleFontFamily, ChartTitleFontFamily, et'c).
+
+#### Requirements
+**Namespace:** [ASNA.Monarch.WebDspF](amfWebDspFNamespace.html)
+
+**Assembly:** ASNA.Monarch.WebDspF.DLL
+
+**Platforms:** Windows Server 2012, Windows Server 2012 R2, Windows Server 2016, Windows 7, Windows 8 Pro, Windows 10 Pro
+
+#### See Also
+[DdsChart Description](amfUnderstandingCharts.html)<br /> [ DdsChart Class](amfDdsChartClass.html) <br /> [ DdsChart Class Members](amfDdsChartClassMembers.html) <br /> [ ASNA.Monarch.WebDspF Namespace](amfWebDspFNamespace.html) 

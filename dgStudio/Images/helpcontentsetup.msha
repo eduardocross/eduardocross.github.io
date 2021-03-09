@@ -1,0 +1,23 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Manifest created 8/24/2011 12:15:16 PM by www.helpware.net help tools.</title>
+</head>
+<body class="vendor-book">
+  <div class="details">
+    <span class="vendor">ASNA</span>
+    <span class="locale">en-us</span>
+    <span class="product">DataGate Studio</span>
+    <span class="name">dgStudio101</span>
+  </div>
+  <div class="package-list">
+    <div class="package">
+      <span class="name">dgStudio</span>
+      <a class="current-link" href="dgStudio.cab">dgStudio.cab</a>
+    </div>
+    <div class="package">
+      <span class="name">dgStudio</span>
+      <a class="current-link" href="dgStudio.mshc">dgStudio.mshc</a>
+    </div>
+  </div>
+</body>
+</html>
