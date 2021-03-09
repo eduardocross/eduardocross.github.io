@@ -16,4 +16,4 @@ This document contains information on ASNA Monarch Core
 - [DataGate Component Suite](/DCS/welcome.html)
 - [DataGate for SQL Server](/DSS/Welcome.html)
 - [Monarch Framework](/MonarchFX/Welcome.html)
-- [SNA DataGate Studio](/dgStudio/Welcome.html)
+- [DataGate Studio](/dgStudio/Welcome.html)
