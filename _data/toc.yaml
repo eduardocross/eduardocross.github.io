@@ -710,7 +710,7 @@ DCS:
                 path: /DCS/HTML/dcsIAdgTransactionClass.html
               - title: IAdgTransaction Members
                 path: /DCS/HTML/dcsIAdgTransactionMembers.html
-              - title: *** dcsIDataAreaMembers.md ***
+              - title: dcsIDataAreaMembers.md
                 path: /DCS/HTML/dcsIDataAreaMembers.html
               - sectiontitle: IAdgTransaction Methods
                 section:
