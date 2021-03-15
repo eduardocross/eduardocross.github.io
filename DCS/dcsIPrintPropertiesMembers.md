@@ -23,7 +23,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetBoundType](dcsIPrintPropertiesClassGetBoundTypeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetBoundType](dcsIPrintPropertiesClassGetBoundTypeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Returns the CLR type of a print control associated with a field.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetTypedObject](dcsIPrintPropertiesClassGetTypedObjectMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetTypedObject](dcsIPrintPropertiesClassGetTypedObjectMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Returns a reference to the print control object associated with a field.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetValue](dcsIPrintPropertiesClassGetValueMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetValue](dcsIPrintPropertiesClassGetValueMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ Access a print control property value.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SetValue](dcsIPrintPropertiesClassSetValueMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SetValue](dcsIPrintPropertiesClassSetValueMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

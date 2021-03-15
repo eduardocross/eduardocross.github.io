@@ -28,7 +28,7 @@ This members page does not include the inheritied members from System.Web.UI.Web
 			WebControl.)</td>
             </tr>
            <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <a href="amfDdsLinkClassAppTypeProperty.html)
             </td>
             <td>Gets or sets the type of application for the Link to contact.</td>
@@ -111,7 +111,7 @@ This members page does not include the inheritied members from System.Web.UI.Web
             </tr>
 
            <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <a href="amfDdsLinkClassLinkStyleProperty.html)</td>
             <td>Gets or sets the style of the link.</td>
           </tr>
@@ -129,7 +129,7 @@ This members page does not include the inheritied members from System.Web.UI.Web
             </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <a href="amfDdsLinkClassTextFieldLengthProperty.html)
             </td>
             <td>Gets or sets the total

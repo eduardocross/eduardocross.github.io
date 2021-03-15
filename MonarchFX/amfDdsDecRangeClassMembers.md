@@ -23,7 +23,7 @@ This document lists the members of the DdsDecRange class. It does not include pr
                  <th>Description</th>
           </tr>
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />
               [
               DdsDecRange](amfDdsDecRangeClassConstructors.html)
             </td>
@@ -52,7 +52,7 @@ This document lists the members of the DdsDecRange class. It does not include pr
             DdsDataField.)</td>
           </tr>
 <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               InteractionStyle](amfDdsDecRangeClassInteractionStyleProperty.html)
             </td>
@@ -60,20 +60,20 @@ This document lists the members of the DdsDecRange class. It does not include pr
 			   or step buttons.</td>
           </tr>
 			          <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Length](amfDdsDecRangeClassLengthProperty.html)
             </td>
             <td>Defines the number of digits in the Numeric Value.</td>
           </tr>
 		   <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [Max](amfDdsDecRangeClassMaxProperty.html)
             </td>
             <td>Defines the Maximum value the field will accept.</td>
           </tr>
                  <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Min](amfDdsDecRangeClassMinProperty.html)
             </td>
@@ -81,28 +81,28 @@ This document lists the members of the DdsDecRange class. It does not include pr
 Minimum value the field will accept.</td>
           </tr>
 		                   <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               NumericValueStyle](amfDdsDecRangeClassNumericValueStyleProperty.html)
             </td>
             <td>Sets the style of the numeric value left,  right, center, or hidden.</td>
           </tr>
 		    <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Step](amfDdsDecRangeClassStepProperty.html)
             </td>
             <td>Sets the amount by which to change the Numeric Value when the step buttons are pressed or the slider is operated. </td>
           </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Type](amfDdsDecRangeClassTypeProperty.html)
             </td>
             <td>Gets or sets the Type of the field.</td>
           </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [Value](amfDdsDecRangeClassValueProperty.html)
             </td>
             <td>Gets or sets the value of this field.</td>

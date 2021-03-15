@@ -26,7 +26,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
             <tr>
-            <td style="height: 31px">![public property](../Images/property.bmp" /> [AidKey](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
+            <td style="height: 31px">![public property](Images/property.bmp" /> [AidKey](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -76,7 +76,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             button. (Inherited from DdsBaseDate.)</td>
           </tr>
 			<tr>
-            <td style="height: 31px"><img src="../Images/property.bmp) [CodeFieldLength](http://msdn.microsoft.com/en-us/library/system.web.ui.control.clientidmode(v=vs.110).aspx">ClientIDMode</a></td>
+            <td style="height: 31px"><img src="Images/property.bmp) [CodeFieldLength](http://msdn.microsoft.com/en-us/library/system.web.ui.control.clientidmode(v=vs.110).aspx">ClientIDMode</a></td>
             <td style="height: 31px">Sets the algorithm used to determine the ClientID Property. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -192,7 +192,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
 			Display file.</td>
           </tr>
           <tr>
- <td style="width: 196px"><img alt="public property" src="../Images/property.bmp" /> [VisibleCondition](amfDdsPanelClassVisibleConditionProperty.html)
+ <td style="width: 196px"><img alt="public property" src="Images/property.bmp" /> [VisibleCondition](amfDdsPanelClassVisibleConditionProperty.html)
             </td>
             <td>Gets or sets a
             conditional indicator expression that will be evaluated

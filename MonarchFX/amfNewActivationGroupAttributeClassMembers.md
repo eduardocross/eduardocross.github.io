@@ -25,7 +25,7 @@ keywords: ASNA.Monarch.NewActivationGroupAttribute class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               NewActivationGroupAttribute](amfNewActivationGroupAttributeClassConstructors.html)
             </td>

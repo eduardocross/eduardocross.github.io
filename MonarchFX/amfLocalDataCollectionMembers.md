@@ -25,7 +25,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
             <th>Description</th>
           </tr>
 <!-- end copy BUT put in extra div and end of table -->          <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               LocalDataCollection](amfLocalDataCollectionClassConstructors.html)
             </td>
@@ -47,7 +47,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr valign="top">
-            <td><img id="IMG2" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="IMG2" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               Add](amfLocalDataCollectionClassAddMethod.html)
             </td>
@@ -55,7 +55,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
             collection with the provided name and value pair.</td>
           </tr>
           <tr>
-            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               Clear](amfLocalDataCollectionClassClearMethod.html)
             </td>
@@ -63,7 +63,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
  **IDictionary**  collection.</td>
           </tr>
           <tr>
-            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               Contains](amfLocalDataCollectionClassContainsMethod.html)
             </td>
@@ -73,7 +73,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
             the name specified.</td>
           </tr>
           <tr>
-            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               GetEnumerator](amfLocalDataCollectionClassGetEnumeratorMethod.html)
             </td>
@@ -81,7 +81,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
             can iterate through the elements in a dictionary.</td>
           </tr>
           <tr>
-            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               Remove](amfLocalDataCollectionClassRemoveMethod.html)
             </td>
@@ -90,7 +90,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
             specified.</td>
           </tr>
           <tr>
-            <td><img id="Img1" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img1" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               RemoveAll](amfLocalDataCollectionClassRemoveAllMethod.html)
             </td>
@@ -113,7 +113,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr valign="top">
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               Count](amfLocalDataCollectionClassCountProperty.html)
             </td>
@@ -122,7 +122,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
  **ICollection** .</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               this](amfLocalDataCollectionClassthisProperty.html)
             </td>
@@ -130,7 +130,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
             element with the specified name.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               Names](amfLocalDataCollectionClassNamesProperty.html)
             </td>
@@ -140,7 +140,7 @@ keywords: members [ASNA.Monarch], LocalDataCollection class
  **IDictionary** .</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               Values](amfLocalDataCollectionClassValuesProperty.html)
             </td>

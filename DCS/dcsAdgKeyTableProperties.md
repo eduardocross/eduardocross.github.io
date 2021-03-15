@@ -20,7 +20,7 @@ Public Properties
           </colgroup>
           <tr valign="top">
             <td colspan="1" rowspan="1">
-              <img alt="public property" src="../Images/property.bmp"  width="16" height="16" border="0" />
+              <img alt="public property" src="Images/property.bmp"  width="16" height="16" border="0" />
               [
 								DataTable](dcsAdgKeyTableClassDataTableProperty.html)
             </td>
@@ -31,7 +31,7 @@ The **DataTable** object used to contain key values (Inherited from [ AdgTable](
           </tr>
           <tr>
             <td colspan="1" rowspan="1">
-              <img alt="public property" src="../Images/property.bmp"  width="16" height="16" border="0" />
+              <img alt="public property" src="Images/property.bmp"  width="16" height="16" border="0" />
               [
 								KeyPartCount](dcsAdgKeyTableClassKeyPartCountProperty.html)
             </td>
@@ -42,7 +42,7 @@ Gets or sets the number of fields composing the key.
           </tr>
           <tr>
             <td colspan="1" rowspan="1">
-              <img alt="public property" src="../Images/property.bmp"  width="16" height="16" border="0" />
+              <img alt="public property" src="Images/property.bmp"  width="16" height="16" border="0" />
               [
 								Row](dcsAdgKeyTableClassRowProperty.html)
             </td>

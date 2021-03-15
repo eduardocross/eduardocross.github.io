@@ -23,7 +23,7 @@ Public Constructors
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ FileOpenAttr](dcsFileOpenAttrClassConstructors.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ FileOpenAttr](dcsFileOpenAttrClassConstructors.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -44,7 +44,7 @@ Public Fields
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OmitBlocking](dcsFileOpenAttrClassOmitBlockingField.html) 
+<img height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OmitBlocking](dcsFileOpenAttrClassOmitBlockingField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -54,7 +54,7 @@ This constant, when assigned to the **BlockingFactor** property, causes DataGate
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OptimalBlockingFactor](dcsFileOpenAttrClassOptimalBlockingFactorField.html) 
+<img height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OptimalBlockingFactor](dcsFileOpenAttrClassOptimalBlockingFactorField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -75,7 +75,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ BlockingFactor](dcsFileOpenAttrClassBlockingFactorProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ BlockingFactor](dcsFileOpenAttrClassBlockingFactorProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -85,7 +85,7 @@ Specify network blocking feature in the open file.
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FileLocks](dcsFileOpenAttrClassFileLocksProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FileLocks](dcsFileOpenAttrClassFileLocksProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -95,7 +95,7 @@ Specify record locking mechanisms in opened files.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FormatIDs](dcsFileOpenAttrClassFormatIDsProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FormatIDs](dcsFileOpenAttrClassFormatIDsProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -105,7 +105,7 @@ The set of binary format identifiers associated with the set of formats availabl
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ InhibitWrites](dcsFileOpenAttrClassInhibitWriteProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ InhibitWrites](dcsFileOpenAttrClassInhibitWriteProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -115,7 +115,7 @@ Specify write-access enabling on the open file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ ShareTypes](dcsFileOpenAttrClassShareTypesProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ ShareTypes](dcsFileOpenAttrClassShareTypesProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -125,7 +125,7 @@ Specify concurrent access on the open file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForEOF](dcsFileOpenAttrClassWaitForEOFProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForEOF](dcsFileOpenAttrClassWaitForEOFProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -135,7 +135,7 @@ Time, in seconds, that a process will wait for more records at end of file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForFile](dcsFileOpenAttrClassWaitForFileProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForFile](dcsFileOpenAttrClassWaitForFileProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -145,7 +145,7 @@ Time, in seconds, that a process will wait to access a file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForRecord](dscFileOpenAttrClassWaitForRecordProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForRecord](dscFileOpenAttrClassWaitForRecordProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

@@ -24,7 +24,7 @@ This document lists the members of the DdsSubfileControl class. It does not incl
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               DdsSubfileControl](amfDdsSubfileControlClassConstructors.html)
             </td>
@@ -44,18 +44,18 @@ This document lists the members of the DdsSubfileControl class. It does not incl
           <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ActualMode](amfDdsSubfileControlClassActualModeProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ActualMode](amfDdsSubfileControlClassActualModeProperty.html)</td>
             <td>Gets the subfile drop or
             fold state of the subfile control.</td>
           </tr>
           <tr>
-            <td style="height: 30px"><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Alias](amfDdsRecordClassAliasProperty.html)</td>
+            <td style="height: 30px"><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Alias](amfDdsRecordClassAliasProperty.html)</td>
             <td style="height: 30px">Gets or sets an alternate
             format name to be used by the compiler. (Inherited from
             DdsRecord.)</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               AttnKeys](amfDdsRecordClassAttnKeysProperty.html)
             </td>
@@ -66,7 +66,7 @@ This document lists the members of the DdsSubfileControl class. It does not incl
             DdsRecord.)</td>
           </tr>
           <tr>
-            <td style="height: 28px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" />
+            <td style="height: 28px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" />
               [
               ChangeInd](amfDdsDataFieldClassChangeIndProperty.html)
             </td>
@@ -248,20 +248,20 @@ This document lists the members of the DdsSubfileControl class. It does not incl
             subfile record.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SflFoldKey](amfDdsSubfileControlClassSflFoldKeyProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SflFoldKey](amfDdsSubfileControlClassSflFoldKeyProperty.html)</td>
             <td>Gets or sets the function
             key to press to switch between
             a folded and truncated display of the subfile
             record.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SflMode](amfDdsSubfileControlClassSflModeProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SflMode](amfDdsSubfileControlClassSflModeProperty.html)</td>
             <td>Gets or sets the name
             of the field in which the state of the subfile will be
             contained.</td>
           </tr>
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [ShowRecordAtTop](amfDdsSubfileControlClassShowRecordAtTopProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [ShowRecordAtTop](amfDdsSubfileControlClassShowRecordAtTopProperty.html)</td>
             <td>Gets or sets a boolean
             value to indicate if the record number, contained
             in the hidden field in the 
@@ -299,7 +299,7 @@ This document lists the members of the DdsSubfileControl class. It does not incl
             form.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SubfileFold](amfDdsSubfileControlClassSubfileFoldProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SubfileFold](amfDdsSubfileControlClassSubfileFoldProperty.html)</td>
             <td>Gets or sets a set of
             conditional indicators that determine when
             the display of the subfile records is in folded
@@ -482,7 +482,7 @@ This document lists the members of the DdsSubfileControl class. It does not incl
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetSubfileMessage](amfDdsSubfileControlClassResetSubfileMessageMethod.html)
             </td>
@@ -491,7 +491,7 @@ This document lists the members of the DdsSubfileControl class. It does not incl
             SubfileMessage](amfddsSubfileControlClassSubfileMessageProperty.html) property to default values.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetSubfileMessageId](amfDdsSubfileControlClassResetSubfileMessageIdMethod.html)
             </td>

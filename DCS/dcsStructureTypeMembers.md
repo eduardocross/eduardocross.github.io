@@ -21,7 +21,7 @@ Public Constructors
           <tr valign="top" style="x-cell-content-align: top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" /> [ StructureType](dcsStructureTypeConstructorsMain.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" /> [ StructureType](dcsStructureTypeConstructorsMain.html) 
 </td>
             <td colspan="1" rowspan="1">
 

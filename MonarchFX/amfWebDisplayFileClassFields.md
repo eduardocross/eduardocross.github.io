@@ -24,7 +24,7 @@ keywords: fields [ASNA.Monarch], WebDisplayFile class
             <th>Description</th>
           </tr>
           <tr>
-            <td>              <img alt="public fields" src="../Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
+            <td>              <img alt="public fields" src="Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
               [
               Device](amfWebDisplayFileClassDeviceField.html)
             </td>
@@ -36,7 +36,7 @@ keywords: fields [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile**  object.</td>
           </tr>
           <tr>
-            <td>              <img alt="public fields" src="../Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
+            <td>              <img alt="public fields" src="Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
               [
               FileName](amfWebDisplayFileClassFileNameField.html)
             </td>
@@ -46,7 +46,7 @@ keywords: fields [ASNA.Monarch], WebDisplayFile class
             the '.aspx' file containing the web form.</td>
           </tr>
           <tr>
-            <td>              <img alt="public fields" src="../Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
+            <td>              <img alt="public fields" src="Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
               [
               PageName](amfWebDisplayFileClassPageNameField.html)
             </td>

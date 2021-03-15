@@ -25,7 +25,7 @@ keywords: methods [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             DeleteOverride](amfJobClassDeleteOverrideMethods.html)
             </td>
@@ -34,7 +34,7 @@ keywords: methods [ASNA.Monarch], Job class
           previously applied to the job.</td>
           </tr>
           <tr>
-            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             Dispose](amfJobClassDisposeMethod.html)
             </td>
@@ -43,19 +43,19 @@ keywords: methods [ASNA.Monarch], Job class
           Job.</td>
           </tr>
           <tr>
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [EndPrograms](amfJobClassEndProgramsMethod.html)
             </td>
             <td>De-activates any program that
           is still active.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> GetLdaField</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> GetLdaField</td>
             <td>Deprecated. Use the Visual
           RPG "IN" command.</td>
           </tr>
           <tr>
-            <td><img id="Img10" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img10" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             GetSwitch](amfJobClassGetSwitchMethod.html)
             </td>
@@ -64,7 +64,7 @@ keywords: methods [ASNA.Monarch], Job class
           switch.</td>
           </tr>
           <tr>
-            <td><img id="Img11" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img11" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [GetSwitches](amfJobClassGetSwitchesMethod.html)
             </td>
             <td>Returns a string of 8
@@ -72,7 +72,7 @@ keywords: methods [ASNA.Monarch], Job class
           represents one of the job attributes switches.</td>
           </tr>
           <tr>
-            <td><img id="Img12" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img12" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             OverrideFile](amfJobClassOverrideFileMethods.html)
             </td>
@@ -80,12 +80,12 @@ keywords: methods [ASNA.Monarch], Job class
           override options.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> SetLdaField</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> SetLdaField</td>
             <td>Deprecated. Use the Visual
           RPG "OUT" command.</td>
           </tr>
           <tr>
-            <td><img id="Img18" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img18" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             SetSwitch](amfJobClassSetSwitchMethod.html)
             </td>
@@ -94,7 +94,7 @@ keywords: methods [ASNA.Monarch], Job class
           switch.</td>
           </tr>
           <tr>
-            <td><img id="Img19" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img19" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             ShutDown](amfJobClassShutDownMethod.html)
             </td>
@@ -117,7 +117,7 @@ keywords: methods [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             getADO_Connection](amfJobClassgetADO_ConnectionMethod.html)
             </td>
@@ -128,7 +128,7 @@ keywords: methods [ASNA.Monarch], Job class
           ADO connection to a database.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" border="0" x-maintain-ratio="TRUE" />
               <a href="amfJobClassgetDatabaseMethod.html)
             </td>
             <td>Returns a new instance of
@@ -136,7 +136,7 @@ keywords: methods [ASNA.Monarch], Job class
           job.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             getPrinterDB](amfJobClassgetPrinterDBMethod.html)
             </td>

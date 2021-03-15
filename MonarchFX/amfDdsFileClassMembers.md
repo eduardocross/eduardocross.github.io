@@ -25,7 +25,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [DdsFile](amfDdsFileClassConstructors.html)
             </td>
             <td>Constructs a new instance
@@ -43,7 +43,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               AddErrorMessage](amfDdsFileClassAddErrorMessageMethod.html)
             </td>
@@ -51,23 +51,23 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             the control.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> [AddValidationMessage](amfDdsFileClassAddValidationMessageMethod.html)</td>
+            <td><img alt="public method" src="Images/Methods.bmp" /> [AddValidationMessage](amfDdsFileClassAddValidationMessageMethod.html)</td>
             <td>Adds a validation message
             to the control.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> [GetMessageText](amfDdsFileClassGetMessageTextMethod.html)</td>
+            <td><img alt="public method" src="Images/Methods.bmp" /> [GetMessageText](amfDdsFileClassGetMessageTextMethod.html)</td>
             <td>Retrieves the message text
             from the ASNA.Monarch.WebDspF.ErrorMessageInfo
             object</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> [IsKeyEnabled](amfDdsFileClassIsKeyEnabledMethod.html)</td>
+            <td><img alt="public method" src="Images/Methods.bmp" /> [IsKeyEnabled](amfDdsFileClassIsKeyEnabledMethod.html)</td>
             <td>Returns True if the aidkey
             indicated is enabled; otherwise False.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" border="0" /> [LoadPostData](amfDdsFileClassLoadPostDataMethod.html)</td>
+            <td><img alt="public method" src="Images/Methods.bmp" border="0" /> [LoadPostData](amfDdsFileClassLoadPostDataMethod.html)</td>
             <td>Processes post back data
             for an ASP.NET server control and returns 
  **True**  if the server control's state
@@ -75,7 +75,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
  **False** .</td>
           </tr>
           <tr valign="top">
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
               [
               RaisePostDataChangedEvent](amfDdsFileClassRaisePostDataChangedEventMethod.html)
             </td>
@@ -84,7 +84,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             of the control has changed.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> [WasKeyEnabled](amfDdsFileClassWasKeyEnabledMethod.html)</td>
+            <td><img alt="public method" src="Images/Methods.bmp" /> [WasKeyEnabled](amfDdsFileClassWasKeyEnabledMethod.html)</td>
             <td>Returns True if the aidkey
             indicated was enabled; otherwise False.</td>
           </tr>
@@ -104,7 +104,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [AttnID](amfDdsFileClassAttnIdProperty.html)
             </td>
             <td>Gets the identification of
@@ -112,7 +112,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             control.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               AttnKeys](amfDdsFileClassAttnKeysProperty.html)
             </td>
@@ -157,7 +157,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             key other than "enter".</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               CursorField](amfDdsFileClassCursorFieldProperty.html)
             </td>
@@ -166,7 +166,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             position.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               CursorLocation](amfDdsFileClassCursorLocationProperty.html)
             </td>
@@ -174,7 +174,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             cursor within the current field.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               CursorRecord](amfDdsFileClassCursorRecordProperty.html)
             </td>
@@ -184,7 +184,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
           <tr>
-            <td style="height: 52px"><img alt="public property" src="../Images/property.bmp" /> [DisableControlsOnSubmit](amfDdsFileClassDisableControlsOnSubmitProperty.html)</td>
+            <td style="height: 52px"><img alt="public property" src="Images/property.bmp" /> [DisableControlsOnSubmit](amfDdsFileClassDisableControlsOnSubmitProperty.html)</td>
             <td style="height: 52px">Gets or sets the
             boolean value to disable or enable web
             controls when submitting the form.  The default
@@ -192,7 +192,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
  **True** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" /> [DisplayErrorMessages](amfDdsFileClassDisplayErrorMessagesProperty.html)</td>
+            <td><img alt="public property" src="Images/property.bmp" /> [DisplayErrorMessages](amfDdsFileClassDisplayErrorMessagesProperty.html)</td>
             <td>Gets or sets a boolean
             value 
  **True**  if messages will be rendered
@@ -232,7 +232,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             instances of the messages defined for the file.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               PopUpWindows](amfDdsFileClassPopUpWindowsProperty.html)
             </td>
@@ -255,7 +255,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
 	  saved when the file is suspended.</td>
           </tr>
                       <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               SetDefaultFocus](amfDdsFileClassSetDefaultFocusProperty.html)
             </td>
@@ -264,7 +264,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" /> [ValidateError](amfDdsFileClassValidateErrorProperty.html)</td>
+            <td><img alt="public property" src="Images/property.bmp" /> [ValidateError](amfDdsFileClassValidateErrorProperty.html)</td>
             <td>Gets a boolean value 
  **True**  if there is a validation
             error, otherwise 
@@ -284,7 +284,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public field" src="../Images/Field.bmp" width="16" height="16" border="0" />
+            <td><img alt="public field" src="Images/Field.bmp" width="16" height="16" border="0" />
               [
               InputDataAvailable](amfDdsFileClassInputDataAvailableField.html)
             </td>

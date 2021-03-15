@@ -22,7 +22,7 @@ keywords: properties [ASNA.Monarch.WebDspF], KeyProperty class
           <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public properties" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public properties" src="Images/property.bmp" width="16" border="0" />
               [Text](amfKeyPropertyClassTextProperty.html)
             </td>
             <td>Gets the additional text

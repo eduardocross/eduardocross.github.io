@@ -23,7 +23,7 @@ keywords: fields [ASNA.Monarch.WebDspF], DdsButton class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public fields" src="../Images/Field.bmp" />[
+            <td><img alt="public fields" src="Images/Field.bmp" />[
               IsDesignTime](amfDdsButtonClassIsDesignTimeField.html)
             </td>
             <td>A boolean value indicating

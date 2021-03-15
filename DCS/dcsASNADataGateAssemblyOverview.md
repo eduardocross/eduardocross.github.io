@@ -17,7 +17,7 @@ This model depicts an overview of the DCS classes that are used for each functio
 
 [Database Access](dcsAdgConnectionClass.html) 
 
-<img id="IMG1" src="../Images/DATABASE%20ACCESS.bmp" x-maintain-ratio="TRUE" style="WIDTH:195px; HEIGHT:100px" width="195" height="100" border="0" /> 
+<img id="IMG1" src="Images/DATABASE%20ACCESS.bmp" x-maintain-ratio="TRUE" style="WIDTH:195px; HEIGHT:100px" width="195" height="100" border="0" /> 
 
 [Stored Procedure Call](dcsAs400ProgramClass.html) 
 

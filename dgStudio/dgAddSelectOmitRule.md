@@ -35,7 +35,7 @@ If the *TRUE rule is omitted, the default action is to presume you want all rema
 3. Select the **Select/Omit**  tab in the lower right panel to display the select/omit grid
 				as shown below.			
 
-![](../images/KeysGrid.bmp)
+![](Images/KeysGrid.bmp)
 4. Scroll to the bottom of the select/omit grid, if necessary. Select the **New Row**  
 				(the last row of the grid) by clicking on the leftmost column of the row.
 5. Select the **rule**  verb by clicking on the drop-down box in the **Verb**  cell. Change 

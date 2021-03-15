@@ -18,7 +18,7 @@ A database must be "Named" in order to be accessed and used in applications. Nam
 Database names can also be used in DataGate Explorer to create database connections. Database connections allow you to perform database management tasks and to design database and print files in DataGate projects.
 
 DataGate Explorer displays all database names registered on the local computer under the Local Database Names node, as shown below.
-![](../images/LocalDBNames.bmp)
+![](Images/LocalDBNames.bmp)
 
 You have two ways of creating database names with DataGate Studio.
 

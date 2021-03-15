@@ -22,7 +22,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsFile class
           <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
               [
               AddErrorMessage](amfDdsFileClassAddErrorMessageMethod.html)
             </td>
@@ -30,14 +30,14 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsFile class
             the control.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" /> 
             [
             AddValidationMessage](amfDdsFileClassAddValidationMessageMethod.html)</td>
             <td>Adds a validation message
             to the control.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" /> 
             [
             GetMessageText](amfDdsFileClassGetMessageTextMethod.html)</td>
             <td>Retrieves the message text
@@ -45,14 +45,14 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsFile class
             object.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" /> 
             [
             IsKeyEnabled](amfDdsFileClassIsKeyEnabledMethod.html)</td>
             <td>Returns True if the aidkey
             indicated is enabled; otherwise False.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" /> 
             [
             LoadPostData](amfDdsFileClassLoadPostDataMethod.html)</td>
             <td>Processes post back data
@@ -62,7 +62,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsFile class
  **False** .</td>
           </tr>
           <tr valign="top">
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
               [
               RaisePostDataChangedEvent](amfDdsFileClassRaisePostDataChangedEventMethod.html)
             </td>
@@ -71,7 +71,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsFile class
             of the control has changed.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" /> 
             [
             WasKeyEnabled](amfDdsFileClassWasKeyEnabledMethod.html)</td>
             <td>Returns True if the aidkey

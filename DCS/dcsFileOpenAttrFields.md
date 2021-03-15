@@ -22,7 +22,7 @@ Public Fields
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OmitBlocking](dcsFileOpenAttrClassOmitBlockingField.html) 
+<img height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OmitBlocking](dcsFileOpenAttrClassOmitBlockingField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -32,7 +32,7 @@ This constant, when assigned to the [ BlockingFactor](dcsFileOpenAttrClassBlocki
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OptimalBlockingFactor](dcsFileOpenAttrClassOptimalBlockingFactorField.html) 
+<img height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OptimalBlockingFactor](dcsFileOpenAttrClassOptimalBlockingFactorField.html) 
 </td>
             <td colspan="1" rowspan="1">
 

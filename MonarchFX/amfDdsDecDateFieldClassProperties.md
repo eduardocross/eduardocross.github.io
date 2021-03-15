@@ -24,13 +24,13 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           <th>Description</th>
           </tr>          
            <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp" /> [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp" /> [
               Alias](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <a href="amfDdsDataFieldClassAliasProperty.html)
             </td>
             <td>Gets or sets an alternate
@@ -68,7 +68,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             keyboard shortcut). (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
             [
             ButtonCssClass](amfDdsBaseDateClassButtonCssClassProperty.html)</td>
             <td>Gets or sets the css
@@ -76,7 +76,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             button. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ButtonID](amfDdsBaseDateClassButtonIDProperty.html)
             </td>
@@ -86,7 +86,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ButtonSuffix](amfDdsBaseDateClassButtonSuffixProperty.html)
             </td>
@@ -98,13 +98,13 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp) [ButtonTabIndex](amfDdsBaseDateClassButtonTabIndexProperty.html)</td>
+            <td>![public property](Images/property.bmp) [ButtonTabIndex](amfDdsBaseDateClassButtonTabIndexProperty.html)</td>
             <td>Gets or sets the tab order
             of the date control button. (Inherited from
             DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ChangeInd](amfDdsDataFieldClassChangeIndProperty.html)
             </td>
@@ -113,7 +113,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsDataField.)</td>
           </tr>
            <tr>
-            <td>![public property](../Images/property.bmp) [Color](http://msdn.microsoft.com/en-us/library/system.web.ui.control.clientidmode(v=vs.110).aspx">ClientIDMode</a></td>
+            <td>![public property](Images/property.bmp) [Color](http://msdn.microsoft.com/en-us/library/system.web.ui.control.clientidmode(v=vs.110).aspx">ClientIDMode</a></td>
             <td>Sets the algorithm used to determine the ClientID Property. (Inherited from ASP.NET 
 			WebControl.)</td>
            </tr>
@@ -126,7 +126,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Comment](amfDdsFieldClassCommentProperty.html)
             </td>
@@ -135,7 +135,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Compare](amfDdsDataFieldClassCompareProperty.html)
             </td>
@@ -144,7 +144,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsDataField.)</td>
           </tr>
            <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp" style="height: 16px) [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp" style="height: 16px) [
               DateFieldButtonStyle](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.CssClass(v=vs.110).aspx">CssClass</a></td>
             <td style="height: 31px">Gets or sets the CSS Class of the control. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -158,7 +158,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             for the field. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateFormat](amfDdsDecDateFieldClassDateFormatProperty.html)
             </td>
@@ -167,7 +167,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             field.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateSeparator](amfDdsBaseDateClassDateSeparatorProperty.html)
             </td>
@@ -177,7 +177,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             date field. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateValueID](amfDdsBaseDateClassDateValueIDProperty.html)
             </td>
@@ -188,7 +188,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             field. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateValueSuffix](amfDdsBaseDateClassDateValueSuffixProperty.html)
             </td>
@@ -200,7 +200,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DefaultValue](amfDdsDecDateFieldClassDefaultValueProperty.html)
             </td>
@@ -209,7 +209,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             default is zero.</td>
           </tr>
            <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp) [
+            <td style="width: 218px">![public property](Images/property.bmp) [
               ErrorMessage](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.enabled(v=vs.110).aspx">Enabled</a></td>
             <td>Sets whether or not the control is enabled. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -233,7 +233,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ErrorMessageId](amfDdsFieldClassErrorMessageIdProperty.html)
             </td>
@@ -243,7 +243,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsField.)</td>
           </tr>
            <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp) [
+            <td style="width: 218px">![public property](Images/property.bmp) [
               FirstDayOfWeek](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.font(v=vs.110).aspx">Font</a></td>
             <td>Sets the font for the control. (Inherited from ASP.NET WebControl.)</td>
             </tr>
@@ -261,7 +261,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             date control field. (Inherited from DdsBaseDate.)</td>
           </tr>
            <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp) [
+            <td style="width: 218px">![public property](Images/property.bmp) [
               ImageHeight](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.height(v=vs.110).aspx">Height</a></td>
             <td>Sets the height of the control. (Inherited from ASP.NET WebControl.)</td>
             </tr>
@@ -274,7 +274,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ImagePath](amfDdsBaseDateClassImagePathProperty.html)
             </td>
@@ -285,7 +285,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
  ** *Image* ** . (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ImageWidth](amfDdsBaseDateClassImageHeightProperty.html)
             </td>
@@ -293,7 +293,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             of the button image. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Length](amfDdsDecDateFieldClassLengthProperty.html)
             </td>
@@ -301,7 +301,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             the field.</td>
           </tr>
 		  		            <tr>
-            <td>![public property](../Images/property.bmp)[
+            <td>![public property](Images/property.bmp)[
               MandatoryEnter](amfDdsDataFieldClassMandatoryEnterProperty.html)
             </td>
             <td>Determines whether the field must have a value entered into it for operations to continue. (Inherited from DdsDataField.)</td>
@@ -323,7 +323,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             used. (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
 			[
             NoDateText](amfDdsBaseDateClassNoDateTextProperty.html)</td>
             <td>Gets or sets the text
@@ -331,7 +331,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td style="height: 52px">![public property](../Images/property.bmp)
+            <td style="height: 52px">![public property](Images/property.bmp)
               [
               PositionCursor](amfDdsDataFieldClassPositionCursorProperty.html)
             </td>
@@ -341,7 +341,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Protect](amfDdsDataFieldClassProtectProperty.html)
             </td>
@@ -351,7 +351,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsDataField.)</td>
           </tr>          
            <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [SuppressLeadingZeroes](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [SuppressLeadingZeroes](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
             <td style="height: 31px">Gets or sets the skin to use on the control. (Inherited from ASP.NET control.)</td>
             </tr>
           <tr>
@@ -362,7 +362,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
 			value are suppressed (defaults to **False** ).</td>
           </tr>
            <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [Text](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.tabindex(v=vs.110).aspx">TabIndex</a></td>
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [Text](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.tabindex(v=vs.110).aspx">TabIndex</a></td>
             <td style="height: 31px">Sets the Tab Index for this control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -375,7 +375,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsDataField.)</td>
           </tr>
            <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp) [
+            <td style="width: 218px">![public property](Images/property.bmp) [
               Type](http://www.w3schools.com/aspnet/prop_webcontrol_standard_tooltip.asp">Tooltip</a></td>
             <td>Sets the tooltip text for this control. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -389,7 +389,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             Packed or Decimal.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Usage](amfDdsDataFieldClassUsageProperty.html)
             </td>
@@ -398,7 +398,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             hidden. (Inherited from DdsDataField.)</td>
           </tr>
            <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               UseNativePicker](amfDdsDateFieldClassUseNativePickerProperty.html)
             </td>
@@ -406,7 +406,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
 			available). (Inherited from DdsDateField.)</td>
            </tr>
 		   <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [
               Value](http://msdn.microsoft.com/en-us/library/system.web.ui.control.validaterequestmode(v=vs.110).aspx">ValidateRequestMode</a></td>
             <td style="height: 31px">Sets whether the control checks client input from the browser for potentially dangerous values. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -419,7 +419,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             this field.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Values](amfDdsDataFieldClassValuesProperty.html)
             </td>
@@ -428,7 +428,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ValuesStyle](amfDdsDataFieldClassValuesStyleProperty.html)
             </td>
@@ -443,7 +443,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ValuesText](amfDdsDataFieldClassValuesTextProperty.html)
             </td>
@@ -455,7 +455,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsDataField.)</td>
           </tr>
            <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [
               VirtualRowCol](http://msdn.microsoft.com/en-us/library/system.web.ui.control.viewstatemode(v=vs.110).aspx">ViewStateMode</a></td>
             <td style="height: 31px">Gets or sets the view-state mode of the 
 			control. (Inherited from ASP.NET WebControl.)</td>
@@ -469,7 +469,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             file. (Inherited from DdsDataField.)</td>
           </tr>
            <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               VisibleCondition](amfDdsFieldClassVisibleConditionProperty.html)
             </td>
@@ -479,7 +479,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             from DdsField.)</td>
            </tr>
 		   <tr>
-            <td style="height: 31px; width: 218px;"><img src="../Images/property.bmp) [
+            <td style="height: 31px; width: 218px;"><img src="Images/property.bmp) [
       DdsDecDateField Class](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.width(v=vs.110).aspx">Width</a></td>
             <td style="height: 31px">Sets the width of the control. (Inherited from ASP.NET WebControl.)</td>
            </tr>

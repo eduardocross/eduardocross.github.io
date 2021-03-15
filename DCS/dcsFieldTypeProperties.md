@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ ByteLength](dcsFieldTypeClassByteLengthProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ ByteLength](dcsFieldTypeClassByteLengthProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The length of the field in bytes.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ DataType](dcsFieldTypeClassDataTypeProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ DataType](dcsFieldTypeClassDataTypeProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ The data type for this field given as one of the values of [ DataTypes](dcsDataT
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ DateTime](dcsFieldTypeClassDateTimeProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ DateTime](dcsFieldTypeClassDateTimeProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ The date and time format of the field given as one of the values of [ DateTimeFo
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Dbcs](dcsFieldTypeClassDbcsProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Dbcs](dcsFieldTypeClassDbcsProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ The length of the field in bytes given as one of the values of [ DbcsFormat](dcs
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Precision](dcsFieldTypeClassPrecisionProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Precision](dcsFieldTypeClassPrecisionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ The maximum number of digits for decimal fields.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Scale](dcsFieldTypeClassScaleProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Scale](dcsFieldTypeClassScaleProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

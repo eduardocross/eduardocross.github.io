@@ -22,7 +22,7 @@ Public Constructors
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [DatabaseName()](dcsDatabaseNameConstructors.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [DatabaseName()](dcsDatabaseNameConstructors.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -45,7 +45,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Deserialize](dcsDatabaseNameClassDeserializeMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Deserialize](dcsDatabaseNameClassDeserializeMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -55,7 +55,7 @@ Reads the XML text and generates an **SourceProfile** object from its XML repres
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ FromSourceProfile](dcsDatabaseNameClassFromSourceProfileMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ FromSourceProfile](dcsDatabaseNameClassFromSourceProfileMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -65,7 +65,7 @@ Returns a **SourceProfile** object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetNames](dcsDatabaseNameClassGetNamesMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetNames](dcsDatabaseNameClassGetNamesMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -75,7 +75,7 @@ Returns the currently registered database names available for use in a program.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetSourceProfiles](dcsDatabaseNameClassGetSourceProfilesMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetSourceProfiles](dcsDatabaseNameClassGetSourceProfilesMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -85,7 +85,7 @@ Returns an array of **SourceProfile** objects currently registered for the datab
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Register](dcsDatabaseNameClassRegisterMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Register](dcsDatabaseNameClassRegisterMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -95,7 +95,7 @@ Saves the contents of the **SourceProfile** object to the system registry as a d
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Serialize](dcsDatabaseNameClassSerializeMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Serialize](dcsDatabaseNameClassSerializeMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -105,7 +105,7 @@ Converts the **SourceProfile** object into its XML representation to store an ob
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ToSourceProfile](dcsDatabaseNameClassToSourceProfileMethods.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ToSourceProfile](dcsDatabaseNameClassToSourceProfileMethods.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -115,7 +115,7 @@ Overloaded. Converts the named database into a **SourceProfile** object
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Unregister](dcsDatabaseNameClassUnregisterMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Unregister](dcsDatabaseNameClassUnregisterMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

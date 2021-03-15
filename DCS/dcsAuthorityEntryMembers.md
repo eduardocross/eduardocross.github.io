@@ -23,7 +23,7 @@ Public Constructors
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AuthorityEntry](dcsAuthorityEntryClassAuthorityEntryConstructors.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AuthorityEntry](dcsAuthorityEntryClassAuthorityEntryConstructors.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -44,7 +44,7 @@ Public Fields
           <tr>
             <td colspan="1" rowspan="1" style="height: 47px">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ AuthorityType](dcsAuthorityEntryClassAuthorityTypeField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ AuthorityType](dcsAuthorityEntryClassAuthorityTypeField.html) 
 </td>
             <td colspan="1" rowspan="1" style="height: 47px">
 
@@ -54,7 +54,7 @@ Public Fields
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ IsGroupAccount](dcsAuthorityEntryClassUsernameField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ IsGroupAccount](dcsAuthorityEntryClassUsernameField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -64,7 +64,7 @@ Public Fields
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ UserName](dcsAuthorityEntryClassUsernameField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ UserName](dcsAuthorityEntryClassUsernameField.html) 
 </td>
             <td colspan="1" rowspan="1">
 

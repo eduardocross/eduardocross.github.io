@@ -43,7 +43,7 @@ Note:
 
 DDS **ERRMSG** keyword allows specifying a response-indicator using the following format: ERRMSG('message-text' [response-indicator]), where [response-indicator] is an optional numeric indicator from 01 to 99. Monarch migrates **ERRMSG** as a property called **ErrorMessage** where the message-text *is not* quoted and the optional response-indicator is separated by blank space. The format used is the following: ErrorMessage='message-text [response-indicator] : conditional-indicator-expression'. For example, 30 (at position 7 and 8) and ERRMSG('Re-enter your selection') keyword, where the error message is conditioned on option indicator 30, and no response indicator is specified, would be migrated as ErrorMessage='Re-enter your selection : 30'. If the 'message-text' happens to end in a word that *looks like* an option indicator; for example 'Re-enter selection for Customer 07', then, instead of migrating the keyword as ErrorMessage='Re-enter selection for Customer 07 : 30' which the runtime would confuse 07 as a response indicator, it is necessary to resolve the ambiguity and migrate the keyword as ErrorMessage='Re-enter selection for Customer 07. : 30', thus eliminating the possibility of 07 to be confused with response indicator 07 - notice the dot appended at the end of the message-text -.
 
-<img id="IMG1" src="../Images/zzErrorMessagePropertyEditor.jpg" /> 
+<img id="IMG1" src="Images/zzErrorMessagePropertyEditor.jpg" /> 
 
 **Runtime Considerations for DdsCharField and DdsDecField:** 
 

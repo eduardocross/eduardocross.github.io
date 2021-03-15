@@ -22,7 +22,7 @@ Constructors
           </colgroup>
           <tr valign="top">
             <td colspan="1" rowspan="1">
-              <img alt="public property" src="../Images/property.bmp"  width="16" height="16" border="0" /> dgException
+              <img alt="public property" src="Images/property.bmp"  width="16" height="16" border="0" /> dgException
 						</td>
             <td colspan="1" rowspan="1">
 
@@ -42,7 +42,7 @@ Public Properties
           </colgroup>
           <tr valign="top">
             <td colspan="1" rowspan="1">
-              <img alt="public property" src="../Images/property.bmp"  width="16" height="16" border="0" />
+              <img alt="public property" src="Images/property.bmp"  width="16" height="16" border="0" />
               [
 								Message](dcsdgExceptionClassMessageProperty.html)
             </td>
@@ -65,7 +65,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" style="FLOAT: none; WIDTH: 15px; HEIGHT: 11px; " width="15" height="11" border="0" /> [ GetVerboseText](dcsdgExceptionClassGetVerboseTextMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" style="FLOAT: none; WIDTH: 15px; HEIGHT: 11px; " width="15" height="11" border="0" /> [ GetVerboseText](dcsdgExceptionClassGetVerboseTextMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

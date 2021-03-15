@@ -24,7 +24,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr> 
 
            <tr>
-            <td style="width: 218px"><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td style="width: 218px"><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               Alias](amfDdsDataFieldClassAliasProperty.html)
             </td>
@@ -33,13 +33,13 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td style="width: 218px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td style="width: 218px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
 			 [Decimals](amfDdsDecRangeClassDecimalsProperty.html)</td>
             <td>Defines the number of decimal places in the field.</td>
           </tr>
             <tr>
             <td style="width: 218px">
-			![public property](../Images/property.bmp" class="auto-style1" /> [BlanksInd](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.backcolor(v=vs.110).aspx">BackColor</a></td>
+			![public property](Images/property.bmp" class="auto-style1" /> [BlanksInd](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.backcolor(v=vs.110).aspx">BackColor</a></td>
             <td>Sets the background for this control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -72,7 +72,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsDataField.)</td>
           </tr>
             <tr>
-            <td>![public property](../Images/property.bmp) [Color](http://msdn.microsoft.com/en-us/library/system.web.ui.control.clientidmode(v=vs.110).aspx">ClientIDMode</a></td>
+            <td>![public property](Images/property.bmp) [Color](http://msdn.microsoft.com/en-us/library/system.web.ui.control.clientidmode(v=vs.110).aspx">ClientIDMode</a></td>
             <td>Sets the algorithm used to determine the ClientID Property. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -85,7 +85,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Comment](amfDdsFieldClassCommentProperty.html)
             </td>
@@ -93,7 +93,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             associated with the field. (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Compare](amfDdsDataFieldClassCompareProperty.html)
             </td>
@@ -103,7 +103,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
             <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp" style="height: 16px) [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp" style="height: 16px) [
               DefaultValue](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.CssClass(v=vs.110).aspx">CssClass</a></td>
             <td style="height: 31px">Gets or sets the CSS Class of the control. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -117,7 +117,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
             <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp) [
+            <td style="width: 218px">![public property](Images/property.bmp) [
               ErrorMessage](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.enabled(v=vs.110).aspx">Enabled</a></td>
             <td>Sets whether or not the control is enabled. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -141,7 +141,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             field. (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               ErrorMessageId](amfDdsFieldClassErrorMessageIdProperty.html)
             </td>
@@ -151,7 +151,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsField.)</td>
           </tr>
             <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp) [
+            <td style="width: 218px">![public property](Images/property.bmp) [
               InteractionStyle](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.font(v=vs.110).aspx">Font</a></td>
             <td>Sets the font for the control. (Inherited from ASP.NET WebControl.)</td>
             </tr>
@@ -172,20 +172,20 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
 			   or step buttons.</td>
           </tr>
 			          <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Length](amfDdsDecRangeClassLengthProperty.html)
             </td>
             <td>Gets or sets the number of digits in the Numeric Value.</td>
           </tr>
 		   <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [Max](amfDdsDecRangeClassMaxProperty.html)
             </td>
             <td>Gets or sets the Maximum value the field will accept.</td>
           </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               MessageId](amfDdsDataFieldClassMessageIdProperty.html)
             </td>
@@ -195,21 +195,21 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsDataField.)</td>
           </tr>
 		        <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               Min](amfDdsDecRangeClassMinProperty.html)
             </td>
             <td>Sets the minimum numeric value.</td>
           </tr>
 		                   <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               NumericValueStyle](amfDdsDecRangeClassNumericValueStyleProperty.html)
             </td>
             <td>Sets the style of the numeric value left,  right, center, or hidden.</td>
           </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               PositionCursor](amfDdsDataFieldClassPositionCursorProperty.html)
             </td>
@@ -219,7 +219,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsDataField.)</td>
           </tr>
             <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [
               Steps](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
             <td style="height: 31px">Gets or sets the skin to use on the control. (Inherited from ASP.NET control.)</td>
             </tr>
@@ -231,7 +231,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <td>Sets the amount by which to change the Numeric Value when the step buttons are pressed or the slider is operated. </td>
           </tr>
 			<tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [
               Type](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.tabindex(v=vs.110).aspx">TabIndex</a></td>
             <td style="height: 31px">Sets the Tab Index for this control. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -250,7 +250,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
             <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [Value](http://msdn.microsoft.com/en-us/library/system.web.ui.control.validaterequestmode(v=vs.110).aspx">ValidateRequestMode</a></td>
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [Value](http://msdn.microsoft.com/en-us/library/system.web.ui.control.validaterequestmode(v=vs.110).aspx">ValidateRequestMode</a></td>
             <td style="height: 31px">Sets whether the control checks client input from the browser for potentially dangerous values. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -262,7 +262,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
            <tr>
-            <td style="height: 31px; width: 218px;">![public property](../Images/property.bmp) [
+            <td style="height: 31px; width: 218px;">![public property](Images/property.bmp) [
               VisibleCondition](http://msdn.microsoft.com/en-us/library/system.web.ui.control.viewstatemode(v=vs.110).aspx">ViewStateMode</a></td>
             <td style="height: 31px">Gets or sets the view-state mode of the 
 			control. (Inherited from ASP.NET WebControl.)</td>
@@ -278,7 +278,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsField.)</td>
             </tr>
           <tr>
-            <td style="width: 218px">![public property](../Images/property.bmp)
+            <td style="width: 218px">![public property](Images/property.bmp)
               [
               VirtualRowCol](amfDdsDataFieldClassVirtualRowColProperty.html)
             </td>
@@ -287,7 +287,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             file. (Inherited from DdsDataField.)</td>
           </tr>
             <tr>
-            <td style="height: 31px; width: 218px;"><img src="../Images/property.bmp) [DdsDecRange
+            <td style="height: 31px; width: 218px;"><img src="Images/property.bmp) [DdsDecRange
       Class](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.width(v=vs.110).aspx">Width</a></td>
             <td style="height: 31px">Sets the width of the control. (Inherited from ASP.NET WebControl.)</td>
             </tr>

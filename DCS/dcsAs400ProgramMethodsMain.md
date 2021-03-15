@@ -22,7 +22,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AppendParm](dcsAs400ProgramClassAppendParmMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AppendParm](dcsAs400ProgramClassAppendParmMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -32,7 +32,7 @@ Appends a parameter to the parameter list for the program.
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AppendParms](dcsAs400ProgramClassAppendParmsMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AppendParms](dcsAs400ProgramClassAppendParmsMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -42,7 +42,7 @@ Appends an array of parameters to the parameter list for the program.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Dispose](dcsAs400ProgramClassDisposeMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Dispose](dcsAs400ProgramClassDisposeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -52,7 +52,7 @@ Release unmanaged resources associated with As400Program. This method is provide
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ObjectToParm](dcsAs400ProgramClassExecuteMethod.htm "> Execute</a> 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ObjectToParm](dcsAs400ProgramClassExecuteMethod.htm "> Execute</a> 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -62,7 +62,7 @@ Runs the database program.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> <a href="dcsAs400ProgramClassObjectToParmMethodMain.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> <a href="dcsAs400ProgramClassObjectToParmMethodMain.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -72,7 +72,7 @@ Converts an object or value type to a parameter list value
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ParmToObject](dcsAs400ProgramClassParmToObjectMethodMain.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ParmToObject](dcsAs400ProgramClassParmToObjectMethodMain.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -82,7 +82,7 @@ Returns an object of a specific type from the program parameter list.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ SetParmsZeroValue](dcsAs400ProgramClassSetParmsZeroValueMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ SetParmsZeroValue](dcsAs400ProgramClassSetParmsZeroValueMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ Protected Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="15" alt="public property" src="../Images/protectedmethod.gif" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetParmByName](dcsAs400ProgramClassGetParmByNameMethod.html) 
+<img height="15" alt="public property" src="Images/protectedmethod.gif" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetParmByName](dcsAs400ProgramClassGetParmByNameMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

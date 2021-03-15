@@ -25,7 +25,7 @@ keywords: members [ASNA.Monarch], Program class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr valign="top">
-            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="constructor" src="../Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="constructor" src="Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               Program](amfProgramClassProgramConstructors.html)
             </td>
@@ -49,22 +49,22 @@ keywords: members [ASNA.Monarch], Program class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />DataArea_In</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />DataArea_In</td>
             <td>Deprecated. Use the Visual
             RPG "IN" command.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />DataArea_Out</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />DataArea_Out</td>
             <td>Deprecated. Use the Visual
             RPG "OUT" command.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />DataArea_Unlock</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />DataArea_Unlock</td>
             <td>Deprecated. Use the Visual
             RPG "UNLOCK" command.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               ExecCommand](amfProgramClassExecCommandMethod.html)
             </td>
@@ -73,12 +73,12 @@ keywords: members [ASNA.Monarch], Program class
  *cmdText* .</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />GetLdaField</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />GetLdaField</td>
             <td>Deprecated.  Use the
             Visual RPG "IN" command.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               RemoveMessage](amfProgramClassRemoveMessageMethods.html)
             </td>
@@ -87,7 +87,7 @@ keywords: members [ASNA.Monarch], Program class
             caller or specific program message queue.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SendExternalMessage](amfProgramClassSendExternalMessageMethod.html)
             </td>
@@ -95,7 +95,7 @@ keywords: members [ASNA.Monarch], Program class
             the external message queue.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SendProgramMessage](amfProgramClassSendProgramMessageMethods.html)
             </td>
@@ -105,7 +105,7 @@ keywords: members [ASNA.Monarch], Program class
             caller or to the specified program message queue.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />SetLdaField</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />SetLdaField</td>
             <td>Deprecated. Use the Visual
             RPG "OUT" command.</td>
           </tr>
@@ -125,7 +125,7 @@ keywords: members [ASNA.Monarch], Program class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr valign="top">
-            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [Dispose](amfProgramClassDisposeMethod.html)
             </td>
             <td>Releases managed and
@@ -133,7 +133,7 @@ keywords: members [ASNA.Monarch], Program class
             object.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
               ExecuteSQL_Query](amfProgramClassExecuteSQL_QueryMethods.html)
             </td>
@@ -141,7 +141,7 @@ keywords: members [ASNA.Monarch], Program class
             execute a SQL query command.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
               ExecuteSQL_QueryVerbatim](amfProgramClassExecuteSQL_QueryVerbatimMethods.html)
             </td>
@@ -151,7 +151,7 @@ keywords: members [ASNA.Monarch], Program class
             legacy source code</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
               ExecuteSQL_Statement](amfProgramClassExecuteSQL_StatementMethods.html)
             </td>
@@ -159,7 +159,7 @@ keywords: members [ASNA.Monarch], Program class
             execute a SQL command statement.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
               ExecuteSQL_StatementVerbatim](amfProgramClassExecuteSQL_StatementVerbatimMethods.html)
             </td>
@@ -181,7 +181,7 @@ keywords: members [ASNA.Monarch], Program class
             <col span="1" style="WIDTH: 70%" />
           </colgroup>
           <tr valign="top">
-            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="protected property" src="../Images/
+            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="protected property" src="Images/
 Protectedproperty.bmp" border="0" x-maintain-ratio="TRUE" />
               [
               MonarchJob](amfProgramClassMonarchJobProperty.html)
@@ -204,7 +204,7 @@ Protectedproperty.bmp" border="0" x-maintain-ratio="TRUE" />
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SqlQueryResults](amfProgramClassSqlQueryResultsField.html)
             </td>
@@ -224,7 +224,7 @@ Protectedproperty.bmp" border="0" x-maintain-ratio="TRUE" />
             <th>Description</th>
           </tr>
           <tr>
-            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> 
+            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> 
             [
             SQLCA](amfProgramClassSQLCAField.html)</td>
             <td>[
@@ -234,7 +234,7 @@ Protectedproperty.bmp" border="0" x-maintain-ratio="TRUE" />
  **Program** .</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               StartupMoment](amfProgramClassStartupMomentField.html)
             </td>

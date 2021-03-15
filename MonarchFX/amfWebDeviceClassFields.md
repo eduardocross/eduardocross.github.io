@@ -24,7 +24,7 @@ keywords: fields [ASNA.Monarch], WebDevice class
             <th>Description</th>
           </tr>
           <tr>
-            <td>              <img  id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               <code>[AbEnd](amfWebDeviceClassAbEndField.html)</code>
             </td>
             <td>Boolean. 
@@ -33,7 +33,7 @@ keywords: fields [ASNA.Monarch], WebDevice class
             terminated, otherwise <code> **False** </code>.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               <code>[
               AbEndMessage](amfWebDeviceClassAbEndMessageField.html)</code>
             </td>
@@ -41,7 +41,7 @@ keywords: fields [ASNA.Monarch], WebDevice class
             termination message.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               <code>[
               AbEndStack](amfWebDeviceClassAbEndStackField.html)</code>
             </td>
@@ -49,7 +49,7 @@ keywords: fields [ASNA.Monarch], WebDevice class
             terminating application.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               <code>[
               DeviceIsOpen](amfWebDeviceClassDeviceIsOpenField.html)</code>
             </td>
@@ -60,7 +60,7 @@ keywords: fields [ASNA.Monarch], WebDevice class
             <code> **false** </code>.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img1" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img1" style="WIDTH: 16px; HEIGHT: 16px" alt="field" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               <code>[
               OutsidePages](amfWebDeviceClassOutsidePagesField.html)</code>
             </td>

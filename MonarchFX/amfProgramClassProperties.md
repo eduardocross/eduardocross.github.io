@@ -25,7 +25,7 @@ keywords: properties [ASNA.Monarch], Program class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr valign="top">
-            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="protected property" src="../Images/Protectedproperty.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="protected property" src="Images/Protectedproperty.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               MonarchJob](amfProgramClassMonarchJobProperty.html)
             </td>

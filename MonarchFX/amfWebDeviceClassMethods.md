@@ -24,7 +24,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             <th>Description</th>
           </tr>
           <tr>
-            <td>              <img  id="IMG2" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="IMG2" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [Attach](amfWebDeviceClassAttachMethods.html)
             </td>
             <td>Overloaded. Attaches a
@@ -34,7 +34,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             file.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img1" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img1" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [Detach](amfWebDeviceClassDetachMethods.html)
             </td>
             <td>Overloaded. Detaches a
@@ -44,7 +44,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
  **WebDevice** .</td>
           </tr>
           <tr>
-            <td>              <img  id="Img3" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img3" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [Dispose](amfWebDeviceClassDisposeMethod.html)
             </td>
             <td
@@ -54,7 +54,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
  **WebDevice** .</td>
           </tr>
           <tr>
-            <td>              <img  id="Img8" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
+            <td>              <img  id="Img8" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
             [
             GetRecordIndex](amfWebDeviceClassGetRecordIndexMethod.html)</td>
             <td>Gets an integer
@@ -62,7 +62,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             format specified.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img8" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
+            <td>              <img  id="Img8" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
             [
             GetRecordIndicators](amfWebDeviceClassGetRecordIndicatorsMethod.html)</td>
             <td>pending Gets an array
@@ -71,7 +71,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             format specified.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img4" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img4" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               GetSharedFile](amfWebDeviceClassGetSharedFileMethod.html)
             </td>
@@ -80,7 +80,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             specified.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img6" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img6" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               GetThreadDevice](amfWebDeviceClassGetThreadDeviceMethod.html)
             </td>
@@ -90,7 +90,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
  **WebDevice**  thread object.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img7" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img7" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [Read](amfWebDeviceClassReadMethod2.html)
             </td>
             <td
@@ -100,7 +100,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
  **WebDevice** .</td>
           </tr>
           <tr>
-            <td>              <img  id="Img8" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
+            <td>              <img  id="Img8" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
             [
             SetRecordIndex](amfWebDeviceClassSetRecordIndexMethod.html)</td>
             <td
@@ -112,7 +112,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             <td
 
  height="23">
-              <img  id="Img8" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
+              <img  id="Img8" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" /> 
             [
             SetRecordIndicators](amfWebDeviceClassSetRecordIndicatorsMethod.html)</td>
             <td
@@ -123,7 +123,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             record format specified.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img8" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img8" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               SetRecordState](amfWebDeviceClassSetRecordStateMethod.html)
             </td>
@@ -135,7 +135,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             record format specified.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img9" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img9" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               SignalDataReadyForProgram](amfWebDeviceClassSignalDataReadyForProgramMethod.html)
             </td>
@@ -146,7 +146,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             data from a program event.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img10" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img10" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               SignalDataReadyForUser](amfWebDeviceClassSignalDataReadyForUserMethod.html)
             </td>
@@ -157,7 +157,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             data from a user event.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img11" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img11" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               WaitForDataForProgram](amfWebDeviceClassWaitForDataForProgramMethod.html)
             </td>
@@ -168,7 +168,7 @@ keywords: methods [ASNA.Monarch], WebDevice class
             data from a program event.</td>
           </tr>
           <tr>
-            <td>              <img  id="Img12" height="16" alt="public property" src="../Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td>              <img  id="Img12" height="16" alt="public property" src="Images/Methods.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               WaitForDataForUser](amfWebDeviceClassWaitForDataForUserMethod.html)
             </td>

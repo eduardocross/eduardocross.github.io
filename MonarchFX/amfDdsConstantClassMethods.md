@@ -23,7 +23,7 @@ This topic contains a listing of the methods of the [DdsConstant Class](amfDdsCo
             <th>Description</th>
           </tr>
           <tr>
-            <td>![public methods](../Images/Methods.bmp)[
+            <td>![public methods](Images/Methods.bmp)[
               EncodedLiteral](amfDdsConstantClassEncodedLiteralMethod.html)
             </td>
             <td>Takes a string value and
@@ -33,7 +33,7 @@ This topic contains a listing of the methods of the [DdsConstant Class](amfDdsCo
             replaced with "&amp;nbsp;".</td>
           </tr>
           <tr>
-            <td>![public methods](../Images/Methods.bmp)[
+            <td>![public methods](Images/Methods.bmp)[
               EncodedNonBlank](amfDdsConstantClassEncodedNonBlankMethod.html)
             </td>
             <td>Takes a string value and
@@ -42,7 +42,7 @@ This topic contains a listing of the methods of the [DdsConstant Class](amfDdsCo
             respectively.</td>
           </tr>
           <tr>
-            <td>![public methods](../Images/Methods.bmp)[
+            <td>![public methods](Images/Methods.bmp)[
               ResetText](amfDdsConstantClassResetTextMethod.html)
             </td>
             <td>Resets the 

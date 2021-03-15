@@ -23,7 +23,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [Message](dcsdgExceptionClassMessageProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [Message](dcsdgExceptionClassMessageProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

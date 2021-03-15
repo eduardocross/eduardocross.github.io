@@ -24,7 +24,7 @@ This member's page includes members inherited from System.Web.UI.WebControls.Web
           <th>Description</th>
           </tr>
             <tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [
             Alias](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -37,7 +37,7 @@ This member's page includes members inherited from System.Web.UI.WebControls.Web
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AutoPostBack](amfddsTimestampFieldClassAutoPostBackProperty.html)</td>
             <td>Gets or sets a boolean
@@ -46,7 +46,7 @@ This member's page includes members inherited from System.Web.UI.WebControls.Web
             output-only.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AutoPostBackKey](amfddsTimestampFieldClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the

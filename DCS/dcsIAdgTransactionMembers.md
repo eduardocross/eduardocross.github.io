@@ -22,7 +22,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Connection](dcsIAdgTransactionClassConnectionProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Connection](dcsIAdgTransactionClassConnectionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -32,7 +32,7 @@ The connection to the database representing the transaction context.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Name](dcsIAdgTransactionClassNameProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Name](dcsIAdgTransactionClassNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -42,7 +42,7 @@ The name of the transaction.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ TransactionLevel](dcsIAdgTransactionClassTransactionLevelProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ TransactionLevel](dcsIAdgTransactionClassTransactionLevelProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Commit](dcsIAdgTransactionClassCommitMethods.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Commit](dcsIAdgTransactionClassCommitMethods.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ Overloaded. Accept changes to the database that have been performed within the c
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Rollback](dcsIAdgTransactionClassRollbackMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Rollback](dcsIAdgTransactionClassRollbackMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

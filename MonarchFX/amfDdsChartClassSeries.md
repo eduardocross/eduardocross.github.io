@@ -41,51 +41,51 @@ Each Series has the following properties:
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               Color](amfDdsChartClassSeriesColorProperty.html)</td>
             <td style="height: 31px">Gets or sets the color associated with the 
 			series.</td>
           </tr>
 
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
              ColorField](amfDdsChartClassSeriesColorFieldProperty.html)</td>
             <td style="height: 31px">Gets or sets the IFS field from which the 
 			data for the color will be drawn.</td>
           </tr>
               <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               D<span class="auto-style1">ataField</span>](amfDdsChartClassSeriesDataFieldProperty.html)</td>
             <td style="height: 31px">Gets or sets the IFS field from which the 
 			data for the series will be drawn.</td>
           </tr>
             <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               D<span class="auto-style1">ecimals</span>](amfDdsChartClassSeriesDecimalsProperty.html)</td>
             <td style="height: 31px">Gets or sets the number of decimal places 
 			to use (must be exact)</td>
           </tr>
                        <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               Legend](amfDdsChartClassSeriesLegendProperty.html)</td>
             <td style="height: 31px">Gets or sets the text used to describe this 
 			series in the legend.</td>
           </tr>
 
             <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
              LegendField](amfDdsChartClassSeriesLegendFieldProperty.html)</td>
             <td style="height: 31px">Gets or sets the IFS field from which the 
 			Legend data will be drawn.</td>
           </tr>
                <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[ 
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[ 
 			LegendFieldLength](amfDdsChartClassSeriesLegendFieldLengthProperty.html)</td>
             <td style="height: 31px">Gets or sets the length of IFS legend 
 			field.</td>
           </tr>
             <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               Length](amfDdsChartClassSeriesLengthProperty.html)</td>
             <td style="height: 31px">Gets or sets the length (in pixels) of the data field.</td>
           </tr>

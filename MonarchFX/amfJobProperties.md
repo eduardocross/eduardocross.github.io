@@ -25,7 +25,7 @@ keywords: properties [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               ADO_Connection](amfJobClassADO_ConnectionProperty.html)
             </td>
@@ -36,14 +36,14 @@ keywords: properties [ASNA.Monarch], Job class
             an ADO connection to a database.</td>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public property" src="../Images/property.bmp" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" border="0" />
               <a href="amfJobClassCurrentJobProperty.html)
             </td>
             <td>Gets the Job object
             corresponding to this Job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [Database](amfJobClassDatabaseProperty.html)
             </td>
             <td>Gets the
@@ -51,7 +51,7 @@ keywords: properties [ASNA.Monarch], Job class
             corresponding to this Job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               MesssageFileFolder](amfJobClassMessageFileFolderProperty.html)
             </td>
@@ -60,7 +60,7 @@ keywords: properties [ASNA.Monarch], Job class
             job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [PrinterDB](amfJobClassPrinterDBProperty.html)
             </td>
             <td>Gets the
@@ -68,7 +68,7 @@ keywords: properties [ASNA.Monarch], Job class
             the printer corresponding to this Job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               StartupMoment](amfJobClassStartupMomentProperty.html)
             </td>

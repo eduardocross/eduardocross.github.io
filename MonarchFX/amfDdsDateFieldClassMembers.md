@@ -23,7 +23,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
                  <th>Description</th>
           </tr>
           <tr>
-            <td>![public property](../Images/Methods.bmp" />
+            <td>![public property](Images/Methods.bmp" />
               [
               DdsDateField](amfDdsDateFieldClassConstructors.html)
             </td>
@@ -44,7 +44,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th>Description</th>
           </tr>          
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               Alias](amfDdsDataFieldClassAliasProperty.html)
             </td>
@@ -60,13 +60,13 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             keyboard shortcut). (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp) [ButtonCssClass](amfDdsBaseDateClassButtonCssClassProperty.html)</td>
+            <td>![public property](Images/property.bmp) [ButtonCssClass](amfDdsBaseDateClassButtonCssClassProperty.html)</td>
             <td>Gets or sets the css
             class to be applied to the date control
             button. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp) [
+            <td>![public property](Images/property.bmp) [
               ButtonID](amfDdsBaseDateClassButtonIDProperty.html)
             </td>
             <td>Gets the button
@@ -76,7 +76,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ButtonSuffix](amfDdsBaseDateClassButtonSuffixProperty.html)
             </td>
@@ -88,13 +88,13 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp) [ButtonTabIndex](amfDdsBaseDateClassButtonTabIndexProperty.html)</td>
+            <td>![public property](Images/property.bmp) [ButtonTabIndex](amfDdsBaseDateClassButtonTabIndexProperty.html)</td>
             <td>Gets or sets the tab order
             of the date control button. (Inherited from
             DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ChangeInd](amfDdsDataFieldClassChangeIndProperty.html)
             </td>
@@ -103,7 +103,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [Color](amfDdsFieldClassColorProperty.html)
             </td>
             <td>Gets or sets the
@@ -111,7 +111,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Comment](amfDdsFieldClassCommentProperty.html)
             </td>
@@ -120,7 +120,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Compare](amfDdsDateFieldClassCompareProperty.html)
             </td>
@@ -128,14 +128,14 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             operator and value used to validate user data input.</td>
           </tr>
 		            <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               CompareAllowBlanks](amfDdsDateFieldClassCompareAllowBlanksProperty.html)
             </td>
             <td>If <code>True</code>, skips the compare validation if the decfield is blank.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateFieldButtonStyle](amfDdsBaseDateClassDateFieldButtonStyleProperty.html)
             </td>
@@ -144,7 +144,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             for the field. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateFormat](amfDdsBaseDateClassDateFormatProperty.html)
             </td>
@@ -153,7 +153,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateSeparator](amfDdsBaseDateClassDateSeparatorProperty.html)
             </td>
@@ -163,7 +163,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             date field. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateValueID](amfDdsBaseDateClassDateValueIDProperty.html)
             </td>
@@ -174,7 +174,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             field. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DateValueSuffix](amfDdsBaseDateClassDateValueSuffixProperty.html)
             </td>
@@ -186,7 +186,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DefaultValue](amfDdsDateFieldClassDefaultValueProperty.html)
             </td>
@@ -195,7 +195,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
  **System.DateTime**  for this field.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ErrorMessage](amfDdsFieldClassErrorMessageProperty.html)
             </td>
@@ -204,7 +204,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ErrorMessageId](amfDdsFieldClassErrorMessageIdProperty.html)
             </td>
@@ -214,7 +214,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               FirstDayOfWeek](amfDdsBaseDateClassFirstDayOfWeekProperty.html)
             </td>
@@ -223,7 +223,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             date control field. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ImageHeight](amfDdsBaseDateClassImageHeightProperty.html)
             </td>
@@ -232,7 +232,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ImagePath](amfDdsBaseDateClassImagePathProperty.html)
             </td>
@@ -243,7 +243,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
  ** *Image* ** . (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ImageWidth](amfDdsBaseDateClassImageHeightProperty.html)
             </td>
@@ -251,7 +251,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             of the button image. (Inherited from DdsBaseDate.)</td>
           </tr>
 		  		            <tr>
-            <td>![public property](../Images/property.bmp)[
+            <td>![public property](Images/property.bmp)[
               MandatoryEnter](amfDdsDataFieldClassMandatoryEnterProperty.html)
             </td>
             <td>Determines whether the field must have a value entered into it for operations to continue. (Inherited from DdsDataField.)</td>
@@ -263,7 +263,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             <td>Determines whether a character must be entered each position in the field. (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td><img src="../Images/property.bmp)
+            <td><img src="Images/property.bmp)
               [
               MessageId](amfDdsDataFieldClassMessageIdProperty.html)
             </td>
@@ -273,13 +273,13 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             used. (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp) [NoDateText](amfDdsBaseDateClassNoDateTextProperty.html)</td>
+            <td>![public property](Images/property.bmp) [NoDateText](amfDdsBaseDateClassNoDateTextProperty.html)</td>
             <td>Gets or sets the text
             to be interpreted as a 'no date' value. (Inherited from
             DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp) [
+            <td>![public property](Images/property.bmp) [
               PositionCursor](amfDdsDataFieldClassPositionCursorProperty.html)
             </td>
             <td>Gets or sets a string
@@ -288,7 +288,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Protect](amfDdsDataFieldClassProtectProperty.html)
             </td>
@@ -298,7 +298,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [Text](amfDdsDataFieldClassTextProperty.html)
             </td>
             <td>Gets or sets the value (in
@@ -306,7 +306,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Usage](amfDdsDataFieldClassUsageProperty.html)
             </td>
@@ -315,14 +315,14 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             hidden. (Inherited from DdsDataField.)</td>
           </tr>
 		  <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               UseNativePicker](amfDdsDataFieldClassUseNativePickerProperty.html)
             </td>
             <td>Determines whether this field will use a date picker native to the end-user's platform.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Value](amfDdsDateFieldClassValueProperty.html)
             </td>
@@ -330,7 +330,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
  **System.DateTime**  for this field.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Values](amfDdsDataFieldClassValuesProperty.html)
             </td>
@@ -339,7 +339,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ValuesStyle](amfDdsDataFieldClassValuesStyleProperty.html)
             </td>
@@ -354,7 +354,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ValuesText](amfDdsDataFieldClassValuesTextProperty.html)
             </td>
@@ -366,7 +366,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               VirtualRowCol](amfDdsDataFieldClassVirtualRowColProperty.html)
             </td>
@@ -375,7 +375,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             file. (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Visible](amfDdsBaseDateClassVisibleProperty.html)
             </td>
@@ -384,7 +384,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             the page. (Inherited from DdsBaseDate.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               VisibleCondition](amfDdsFieldClassVisibleConditionProperty.html)
             </td>

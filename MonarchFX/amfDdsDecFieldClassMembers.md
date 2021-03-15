@@ -23,7 +23,7 @@ This document lists the members of the DdsDecField class. It does not include pr
                  <th>Description</th>
           </tr>
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />
               [
               DdsDecField](amfDdsDecFieldClassConstructors.html)
             </td>
@@ -52,33 +52,33 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsDecFieldClassAutoPostBackProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsDecFieldClassAutoPostBackProperty.html)</td>
             <td>Gets or sets a boolean
             value that if true, causes the control to generate a
             post back to the server when the field is
             output-only.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDecFieldClassAutoPostBackKeyProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDecFieldClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the
             aidkey to return to the server when 
             <a> **AutoPostBack** </a> is True.</td>
           </tr>
             <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDecFieldClassAutoPostBackKeyProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDecFieldClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the
             aidkey to return to the server when 
             <a> **AutoPostBack** </a> is True.</td>
             </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               BlanksInd](amfDdsDataFieldClassBlanksIndProperty.html)
             </td>
             <td>Gets or sets the response indicator to set &#39;on&#39; if this field contains blanks instead of zeroes. </td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [Color](amfDdsFieldClassColorProperty.html)
             </td>
             <td>Gets or sets the
@@ -86,7 +86,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Comment](amfDdsFieldClassCommentProperty.html)
             </td>
@@ -95,7 +95,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Compare](amfDdsDataFieldClassCompareProperty.html)
             </td>
@@ -104,7 +104,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             (Inherited from DdsDataField.)</td>
           </tr>
 		  <tr>
-            <td>![public property](../Images/property.bmp" />[
+            <td>![public property](Images/property.bmp" />[
               CompareAllowBlanks](amfDdsDecFieldClassCompareAllowBlanksProperty.html)
             </td>
             <td>It <code>True</code>, skips the compare validation if the decfield is blank.</td>
@@ -118,7 +118,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             decimals in the field.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               DefaultValue](amfDdsDecFieldClassDefaultValueProperty.html)
             </td>
@@ -126,7 +126,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             value for the field.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               EditCode](amfDdsDecFieldClassEditCodeProperty.html)
             </td>
@@ -135,7 +135,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             according to the standard RPG edit code rules.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               EditWord](amfDdsDecFieldClassEditWordProperty.html)
             </td>
@@ -145,7 +145,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             words.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ErrorMessage](amfDdsFieldClassErrorMessageProperty.html)
             </td>
@@ -154,7 +154,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             field. (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ErrorMessageId](amfDdsFieldClassErrorMessageIdProperty.html)
             </td>
@@ -164,7 +164,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsField.)</td>
           </tr>
 		   <tr>
-            <td>![public property](../Images/property.bmp)[
+            <td>![public property](Images/property.bmp)[
               LeftPad](amfDdsDecFieldClassLeftPadProperty.html)
             </td>
             <td>Prepends field contents with blanks or zeroes to fill out the field length.</td>
@@ -178,7 +178,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             the field.</td>
           </tr>
 		  		            <tr>
-            <td>![public property](../Images/property.bmp)[
+            <td>![public property](Images/property.bmp)[
               MandatoryEnter](amfDdsDataFieldClassMandatoryEnterProperty.html)
             </td>
             <td>Determines whether the field must have a value entered into it for operations to continue. (Inherited from DdsDataField.)</td>
@@ -190,7 +190,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             <td>Determines whether a character must be entered each position in the field. (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td><img src="../Images/property.bmp)
+            <td><img src="Images/property.bmp)
               [
               MessageId](amfDdsDataFieldClassMessageIdProperty.html)
             </td>
@@ -200,7 +200,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               PositionCursor](amfDdsDataFieldClassPositionCursorProperty.html)
             </td>
@@ -210,7 +210,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Protect](amfDdsDataFieldClassProtectProperty.html)
             </td>
@@ -220,7 +220,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
 			[
             SubmitValue](amfDdsDecFieldClassSubmitValueProperty.html)</td>
             <td>Gets or sets a value for
@@ -229,7 +229,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             &lt;enter&gt;.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [Text](amfDdsDataFieldClassTextProperty.html)
             </td>
             <td>Gets or sets the value (in
@@ -237,7 +237,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [Type](amfDdsDecFieldClassTypeProperty.html)
             </td>
             <td>Gets or sets the type of
@@ -245,7 +245,7 @@ This document lists the members of the DdsDecField class. It does not include pr
  **Zoned** .</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Usage](amfDdsDataFieldClassUsageProperty.html)
             </td>
@@ -254,14 +254,14 @@ This document lists the members of the DdsDecField class. It does not include pr
             hidden. (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [Value](amfDdsDecFieldClassValueProperty.html)
             </td>
             <td>Gets or sets the value of
             this field.</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               Values](amfDdsDataFieldClassValuesProperty.html)
             </td>
@@ -270,7 +270,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ValuesStyle](amfDdsDataFieldClassValuesStyleProperty.html)
             </td>
@@ -285,7 +285,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               ValuesText](amfDdsDataFieldClassValuesTextProperty.html)
             </td>
@@ -297,7 +297,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               VirtualRowCol](amfDdsDataFieldClassVirtualRowColProperty.html)
             </td>
@@ -306,7 +306,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             file. (Inherited from DdsDataField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
             Visible](amfDdsFieldClassVisibleProperty.html) </td>
             <td>Gets or sets a boolean
@@ -314,7 +314,7 @@ This document lists the members of the DdsDecField class. It does not include pr
             the page. (Inherited from DdsField.)</td>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp)
+            <td>![public property](Images/property.bmp)
               [
               VisibleCondition](amfDdsFieldClassVisibleConditionProperty.html)
             </td>

@@ -24,7 +24,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
           <tr valign="top">
             <td><img
- class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+ class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [DdsLink](amfDdsLinkClassConstructors.html)
             </td>
             <td>Creates a new instance of a
@@ -43,7 +43,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
           <tr valign="top">
             <td><img
- class="hcp4" alt="public methods" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+ class="hcp4" alt="public methods" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               ResetVisibleCondition](amfDdsLinkClassResetVisibleConditionMethod.html)
             </td>
@@ -63,7 +63,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th>Description</th>
           </tr>
            <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               AppType](amfDdsLinkClassAppTypeProperty.html)
             </td>
@@ -71,27 +71,27 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
                <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               Image](amfDdsLinkClassImageProperty.html)</td>
             <td>Gets or sets the path to the image used for the link.</td>
           </tr>
 <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               ImageAlign](amfDdsLinkClassImageAlignProperty.html)</td>
             <td>Gets or sets the alignment of the image.</td>
           </tr>
 
            <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />
               [
               LinkStyle](amfDdsLinkClassLinkStyleProperty.html)</td>
             <td style="height: 31px">Gets or sets the style of the link.</td>
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               TextFieldLength](amfDdsLinkClassTextFieldLengthProperty.html)
             </td>

@@ -23,7 +23,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewDirectory](dcsAdgFactoryClassNewDirectoryMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewDirectory](dcsAdgFactoryClassNewDirectoryMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The **NewDirectory** method creates a new instance of [ IDirectory](dcsIDirector
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewFile](dcsAdgFactoryClassNewFileMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewFile](dcsAdgFactoryClassNewFileMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ The **NewFile** method creates a new instance of [ IFileObject](dcsIFileObjectCl
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewLibraryList](dcsAdgFactoryClassNewLibraryListMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewLibraryList](dcsAdgFactoryClassNewLibraryListMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ The **NewLibraryList** method creates a new instance of [ ILibraryList](dcsILibr
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewMember](dcsAdgFactoryClassNewMemberMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewMember](dcsAdgFactoryClassNewMemberMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ The **NewMember** method creates a new instance of [ IMember](dcsIMemberClass.ht
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadXml](dcsAdgFactoryClassReadXmlMethods.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadXml](dcsAdgFactoryClassReadXmlMethods.html)
 </td>
             <td colspan="1" rowspan="1">
 

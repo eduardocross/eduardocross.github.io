@@ -22,7 +22,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsSubfile class
           <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               GetConditionedValue](amfDdsSubfileClassGetConditionedValueMethod.html)
             </td>
@@ -30,7 +30,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsSubfile class
             the conditional values for a specific field.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               IsNotFalse](amfDdsSubfileClassIsNotFalseMethod.html)
             </td>
@@ -39,7 +39,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsSubfile class
             false.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [IsTrue](amfDdsSubfileClassIsTrueMethod.html)
             </td>
             <td>Returns 
@@ -47,14 +47,14 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsSubfile class
             true.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ReadBrowser](amfDdsSubfileClassReadBrowserMethod.html)
             </td>
             <td>Reads the browser.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetDataOnly](amfDdsSubfileClassResetDataOnlyMethod.html)
             </td>
@@ -63,7 +63,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsSubfile class
             (*False).</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetNextChanged](amfDdsSubfileClassResetNextChangedMethod.html)
             </td>

@@ -23,7 +23,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ ActiveRow](dcsAdgDataSetClassActiveRowProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ ActiveRow](dcsAdgDataSetClassActiveRowProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The DataRow object currently established as the active row.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ CurrentFormatIndex](dcsAdgDataSetClassCurrentFormatIndexProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ CurrentFormatIndex](dcsAdgDataSetClassCurrentFormatIndexProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ The current format index of the AdgDataSet.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ CurrentFormatName](dcsAdgDataSetClassCurrentFormatNameProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ CurrentFormatName](dcsAdgDataSetClassCurrentFormatNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ The current format name of the AdgDataSet.
           <tr>
             <td colspan="1" rowspan="1" style="height: 47px">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ FormatIDs](dcsAdgDataSetClassFormatIDsProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ FormatIDs](dcsAdgDataSetClassFormatIDsProperty.html) 
 </td>
             <td colspan="1" rowspan="1" style="height: 47px">
 
@@ -63,7 +63,7 @@ The set of binary format identifiers associated with the set of formats containe
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Formats](dcsAdgDataSetClassFormatsProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Formats](dcsAdgDataSetClassFormatsProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

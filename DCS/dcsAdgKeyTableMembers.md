@@ -21,7 +21,7 @@ Public Constructors
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AdgKeyTable](dcsAdgKeyTableClassAdgKeyTableConstructor.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AdgKeyTable](dcsAdgKeyTableClassAdgKeyTableConstructor.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -41,7 +41,7 @@ Public Properties
           </colgroup>
           <tr valign="top">
             <td colspan="1" rowspan="1">
-              <img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+              <img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
 								DataTable](dcsAdgKeyTableClassDataTableProperty.html)
             </td>
@@ -52,7 +52,7 @@ The **DataTable** object used to contain key values (Inherited from [ AdgTable](
           </tr>
           <tr>
             <td colspan="1" rowspan="1">
-              <img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+              <img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
 								KeyPartCount](dcsAdgKeyTableClassKeyPartCountProperty.html)
             </td>
@@ -63,7 +63,7 @@ Gets or sets the number of fields composing the key.
           </tr>
           <tr>
             <td colspan="1" rowspan="1">
-              <img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+              <img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
 								Row](dcsAdgKeyTableClassRowProperty.html)
             </td>

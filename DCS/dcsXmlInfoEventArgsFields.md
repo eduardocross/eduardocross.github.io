@@ -23,7 +23,7 @@ Public Fields
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [Message](dcsXmlInfoEventArgsClassMessageField.html)
+<img height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [Message](dcsXmlInfoEventArgsClassMessageField.html)
 </td>
             <td colspan="1" rowspan="1">The **Message**  field contains the text of a status 
 							report of an XML operation.</td>
@@ -31,7 +31,7 @@ Public Fields
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [Type](dcsXmlInfoEventArgsClassTypeField.html)
+<img height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [Type](dcsXmlInfoEventArgsClassTypeField.html)
 </td>
             <td colspan="1" rowspan="1">
 

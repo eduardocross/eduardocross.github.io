@@ -26,7 +26,7 @@ This document lists the members of the DdsChart class. It does not include prope
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsChart](amfDdsChartClassConstructors.html)</td>
             <td>Creates a new instance of a
             DdsChart.</td>
@@ -47,56 +47,56 @@ This document lists the members of the DdsChart class. It does not include prope
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisLabelFontColor](amfDdsChartClassAxisLabelFontColorProperty.html)</td>
             <td style="height: 31px">Gets or sets the font color of the chart's 
 			axis label.</td>
           </tr>
 
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisLabelFontFamily](amfDdsChartClassAxisLabelFontFamilyProperty.html)</td>
             <td style="height: 31px">Gets or sets the font family of the chart's 
 			axis label.</td>
           </tr>
 
               <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisLabelFontSize](amfDdsChartClassAxisLabelFontSizeProperty.html)</td>
             <td style="height: 31px">Gets or sets the font size of the chart's 
 			axis label.</td>
           </tr>
 
             <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisLabelFontStyle](amfDdsChartClassAxisLabelFontStyleProperty.html)</td>
             <td style="height: 31px">Gets or sets the font style of the chart's 
 			axis label.</td>
           </tr>
 
               <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontColor](amfDdsChartClassAxisTitleFontColorProperty.html)</td>
             <td style="height: 31px">Gets or sets the font color for the axis 
 			title.</td>
           </tr>
 
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontFamily](amfDdsChartClassAxisTitleFontFamilyProperty.html)</td>
             <td style="height: 31px">Gets or sets the font family for the axis 
 			title.</td>
           </tr>
 
             <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontSize](amfDdsChartClassAxisTitleFontSizeProperty.html)</td>
             <td style="height: 31px">Gets or sets the font size for the axis 
 			title.</td>
           </tr>
 
            <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontStyle](amfDdsChartClassAxisTitleFontStyleProperty.html)</td>
             <td style="height: 31px">Gets or sets the font style fot the axis 
 			title.</td>
@@ -108,23 +108,23 @@ This document lists the members of the DdsChart class. It does not include prope
 			to draw the data for the Category from.</td>
           </tr>
            <tr>
-            <td style="height: 52px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryFieldLength](amfDdsChartClassCategoryFieldLengthProperty.html)</td>
+            <td style="height: 52px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryFieldLength](amfDdsChartClassCategoryFieldLengthProperty.html)</td>
             <td style="height: 52px">Gets or sets the length of the field the Category data will be drawn 
 	  from.</td>
           </tr>
 
           <tr>
-            <td style="height: 31px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryTitle](amfDdsChartClassCategoryTitleProperty.html)</td>
+            <td style="height: 31px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryTitle](amfDdsChartClassCategoryTitleProperty.html)</td>
             <td style="height: 31px">Gets or sets the text of the category title column-header.</td>
           </tr>
                     <tr>
-            <td style="height: 31px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryTitleField](amfDdsChartClassCategoryTitleFieldProperty.html)</td>
+            <td style="height: 31px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryTitleField](amfDdsChartClassCategoryTitleFieldProperty.html)</td>
             <td style="height: 31px">Gets or sets a CharField in an IBM i record 
 			to draw the data for the Category Title from.</td>
           </tr>
 
                     <tr>
-            <td style="height: 52px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryTitleFieldLength](amfDdsChartClassCategoryTitleFieldLengthProperty.html)</td>
+            <td style="height: 52px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryTitleFieldLength](amfDdsChartClassCategoryTitleFieldLengthProperty.html)</td>
             <td style="height: 52px">Gets or sets the length of the field the Category 
 			Title data will be drawn 
 	  from.</td>

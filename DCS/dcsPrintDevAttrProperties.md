@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1" style="height: 47px">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Collate](dcsPrintDevAttrClassCollateProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Collate](dcsPrintDevAttrClassCollateProperty.html) 
 </td>
             <td colspan="1" rowspan="1" style="height: 47px">
 
@@ -33,7 +33,7 @@ Output produced by capable printers should be collated when this property is Tru
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Color](dcsPrintDevAttrClassColorProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Color](dcsPrintDevAttrClassColorProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Non-monochrome output is to be produced by color-capable printers when this prop
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Copies](dcsPrintDevAttrClassCopiesProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Copies](dcsPrintDevAttrClassCopiesProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ Count of copies to be produced by the printer.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ DefaultSource](dcsPrintDevAttrClassDefaultSourceProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ DefaultSource](dcsPrintDevAttrClassDefaultSourceProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ Standard tray source of paper in the printer. Valid values are defined by the Sy
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Duplex](dcsPrintDevAttrClassDuplexProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Duplex](dcsPrintDevAttrClassDuplexProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ Standard duplex setting for use by capable printers. Valid values are defined by
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ FormName](dcsPrintDevAttrClassFormNameProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ FormName](dcsPrintDevAttrClassFormNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ The name of the print format to use, such as "A4", "Letter", "Tabloid", "Ledger"
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ LeftMargin](dcsPrintDevAttrClassLeftMarginProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ LeftMargin](dcsPrintDevAttrClassLeftMarginProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ Size of left margin in output produced by the printer.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Length](dcsPrintDevAttrClassLengthProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Length](dcsPrintDevAttrClassLengthProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ Length of paper in the printer.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [Orientation](dcsPrintDevAttrClassOrientationProperty.html)
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [Orientation](dcsPrintDevAttrClassOrientationProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -113,7 +113,7 @@ Landscape/portrait orientation of paper in the printer. Valid values are defined
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ PrinterName](dcsPrintDevAttrClassPrinterNameProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ PrinterName](dcsPrintDevAttrClassPrinterNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -123,7 +123,7 @@ The name of an accessible printer device.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Quality](dcsPrintDevAttrClassQualityProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Quality](dcsPrintDevAttrClassQualityProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -133,7 +133,7 @@ Standard quality rating for output produced by the printer. Valid values are def
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Scale](dcsPrintDevAttrClassScaleProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Scale](dcsPrintDevAttrClassScaleProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -143,7 +143,7 @@ The percentage factor by which the printed output is to be scaled.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Size](dcsPrintDevAttrClassSizeProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Size](dcsPrintDevAttrClassSizeProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -153,7 +153,7 @@ Standard sheet size of paper in the printer. Valid values are defined by the Sys
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ TopMargin](dcsPrintDevAttrClassTopMarginProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ TopMargin](dcsPrintDevAttrClassTopMarginProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -163,7 +163,7 @@ Size of top margin in output produced by the printer.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ TTOption](dcsPrintDevAttrClassTTOptionProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ TTOption](dcsPrintDevAttrClassTTOptionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -173,7 +173,7 @@ Options for using TrueType fonts in documents output by capable printers. Valid 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Width](dcsPrintDevAttrClassWidthProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Width](dcsPrintDevAttrClassWidthProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -183,7 +183,7 @@ Width of paper in the printer.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ YResolution](dcsPrintDevAttrClassYResolutionProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ YResolution](dcsPrintDevAttrClassYResolutionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

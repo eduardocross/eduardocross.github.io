@@ -67,7 +67,7 @@ The **WebJob** class, which extends [ASNA.Monarch.Job](amfJobClass.html), provid
 The **WebDevice** is responsible for coordinating the job's thread with the one assigned by ASP.NET to produce the response to the browser's request. The following figure depicts the area of responsibility for the two threads.
 <dl><dd>
         <img alt="image of the yellow thread versus the procedural blue thread" 
-		src="../Images/zzASPX_YellowThreadVSProceduralBlueThreat.JPG" /></dd>
+		src="Images/zzASPX_YellowThreadVSProceduralBlueThreat.JPG" /></dd>
 </dl>
 
 The thread on the left (Yellow) is called the ASPX Thread; it is responsible for running the code behind the ASPX pages. At each request, this thread might be different and the ASPX engine is responsible for managing it. The thread on the right (Blue) is known as the Procedural Thread; responsible for running the procedural RPG code.

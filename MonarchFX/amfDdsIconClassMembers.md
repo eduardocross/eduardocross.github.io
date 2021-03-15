@@ -26,7 +26,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsIcon](amfDdsIconClassConstructors.html)</td>
             <td>Creates a new instance of a
             DdsIcon.</td>

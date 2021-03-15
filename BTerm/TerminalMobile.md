@@ -62,21 +62,21 @@ BTerm's Mobile Support includes a number of features that make interacting with 
 - **Options Pane**  &#8211; By dragging up the small white bar visbile at the
                         bottom of the emulator the user can access a small Options
                         pane.<br />
-                        <img align="center" src="../images/BTermOptions.png" />
+                        <img align="center" src="Images/BTermOptions.png" />
                         <br />Each item on it can be set to either Yes or No by tapping on the slider to the right of it.
                         It contains the following items:
 - **FKey Hotspots**  &#8211; Each Function key command listed in the display file is converted
                         into a button.  Clicking the button sends that Function key command to the IBM i.<br />
-                        <img align="center" src="../images/BTermButtons.png" />
+                        <img align="center" src="Images/BTermButtons.png" />
 - **Enter/Reset Buttons**  &#8211;
                         Creates an Enter button at the lower right of the
                         display. In circumstances where the Reset key would be activated, a Reset button will
                         appear on the lower left as well
 - **IBMKeypad**  &#8211; Shows or hides the IBM Keypad, described below.
-                        <img align="center" src="../images/IBMKeypad.png" />
+                        <img align="center" src="Images/IBMKeypad.png" />
 - **Colors**  &#8211; Clicking this opens a color-picker panel where users can customize
                         the appearance of the BTerm emulator.
-                        <img align="center" src="../images/colorpicker.png" />
+                        <img align="center" src="Images/colorpicker.png" />
 
 **Warning &#8211;** Not all browsers offer full support for BTerm. The default browser for Android 4.0 (Ice cream sandwich) and earlier does not properly support the automatic keyboard. 
 
@@ -86,7 +86,7 @@ By tapping on the left or right edge of the screen, or the status bar at the bot
 The IBM keypad has three fixed buttons (on the left) and five configurable buttons to the right. Tapping on a fixed button will bring up a list of keystrokes included under that button (Function keys for F1-12 and F13-F22, and IBM keys for Special). From there a user can either slide their finger to the key they wish to use or tap it directly (the list will stay in place until another keystroke moves it). 
 
 The five buttons to the right can be activated by tapping on the desired button. They can also be swapped out by pressing and holding the button to be swapped out, which will cause a panel containing all keys on an IBM i terminal to appear. 
-<img align="center" src="../images/KeyPadList.png" />
+<img align="center" src="Images/KeyPadList.png" />
 
 Tap on a key, and it will replace whichever key was in that slot before (tap outside the pane or on the blank area just above the Keypad to go back without making changes). 
 

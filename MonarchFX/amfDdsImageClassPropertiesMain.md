@@ -24,7 +24,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsImage class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
 			<tr>
-            <td style="height: 31px; width: 218px;">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [CssClassUploadButton](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
+            <td style="height: 31px; width: 218px;">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [CssClassUploadButton](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -66,22 +66,22 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsImage class
             </tr>
 
           			<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CssClassUploadCaption](amfDdsImageClassCssClassUploadCaptionProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CssClassUploadCaption](amfDdsImageClassCssClassUploadCaptionProperty.html)</td>
             <td style="height: 31px">The CSS style name to use for the Hyperlink.</td>
             </tr>
 
 		<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Directory](amfDdsImageClassDirectoryProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Directory](amfDdsImageClassDirectoryProperty.html)</td>
             <td style="height: 31px">Gets or sets a string that defines the IFS location of the 
 			image.</td>
             </tr>
 			<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [DirectoryField](amfDdsImageClassDirectoryFieldProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [DirectoryField](amfDdsImageClassDirectoryFieldProperty.html)</td>
             <td style="height: 31px">Gets or sets the IFS path to a field that defines the image to 
 			be displayed.</td>
             </tr>
             		<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [DirectoryFieldLength](amfDdsImageClassDirectoryFieldLengthProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [DirectoryFieldLength](amfDdsImageClassDirectoryFieldLengthProperty.html)</td>
             <td style="height: 31px">Gets or sets the length of the 
 			[PathField](amfDdsImageClassDirectoyFieldProperty.html) that 
 			contains the name of the image to 
@@ -89,7 +89,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsImage class
             </tr>
 
             <tr>
-            <td style="width: 218px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [
+            <td style="width: 218px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [
               ImageLocation](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.enabled(v=vs.110).aspx">Enabled</a></td>
             <td>Sets whether or not the control is enabled. (Inherited from ASP.NET 
 			WebControl.)</td>
@@ -129,29 +129,29 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsImage class
 			be displayed.</td>
             </tr>
 			<tr>
-            <td style="width: 219px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [NameField](amfDdsImageClassNameFieldProperty.html)</td>
+            <td style="width: 219px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [NameField](amfDdsImageClassNameFieldProperty.html)</td>
             <td>Gets or sets the IFS path to a field that contaims the name of the image to 
 			be displayed.</td>
             </tr>
 			<tr>
-            <td style="width: 219px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [NameFieldLength](amfDdsImageClassNameFieldLengthProperty.html)</td>
+            <td style="width: 219px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [NameFieldLength](amfDdsImageClassNameFieldLengthProperty.html)</td>
             <td>Gets or sets the length of the [NameField](amfDdsImageClassNameFieldProperty.html) that 
 			contains the name of the image to 
 			be displayed.</td>
             </tr>
 
 			<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ImageLocation](amfDdsImageClassImageLocationProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ImageLocation](amfDdsImageClassImageLocationProperty.html)</td>
             <td style="height: 31px">Gets or sets the location of the Image 
 			file.</td>
             </tr>
             			<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [MaxImages](amfDdsImageClassMaxImagesProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [MaxImages](amfDdsImageClassMaxImagesProperty.html)</td>
             <td style="height: 31px">Gets or sets the maximum number of image 
 			files to send to the browser.</td>
             </tr>
 			<tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [UploadButtonText](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [UploadButtonText](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
             <td style="height: 31px">Gets or sets the skin to use on the control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -171,44 +171,44 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsImage class
             </tr>
 
 			<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadCaption](amfDdsImageClassUploadCaptionProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadCaption](amfDdsImageClassUploadCaptionProperty.html)</td>
             <td style="height: 31px">Text for the hyperlink (to show the image 
 			selection from the gallery or camera).</td>
             </tr>
              <tr>
-            <td style="width: 219px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadCondition](amfDdsImageClassUploadConditionProperty.html)</td>
+            <td style="width: 219px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadCondition](amfDdsImageClassUploadConditionProperty.html)</td>
             <td>An indicator expression enabling the upload capability of the control.</td>
             </tr>
                     <tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadImageType](amfDdsImageClassUploadImageTypeProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadImageType](amfDdsImageClassUploadImageTypeProperty.html)</td>
             <td style="height: 31px">Sets the filetype to convert to when uploading.</td>
             </tr>
 			<tr>
-            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadMaxH<span class="auto-style1">eight</span>](amfDdsImageClassUploadedNameFieldProperty.html)</td>
+            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadMaxH<span class="auto-style1">eight</span>](amfDdsImageClassUploadedNameFieldProperty.html)</td>
             <td style="height: 29px">Sets the vertical measurement to reduce the 
 			image to (in pixels).</td>
             </tr>
 
 			<tr>
-            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadM<span class="auto-style1">axWidth</span>](amfDdsImageClassUploadedNameFieldProperty.html)</td>
+            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadM<span class="auto-style1">axWidth</span>](amfDdsImageClassUploadedNameFieldProperty.html)</td>
             <td style="height: 29px">Sets the horizontal measurement to reduce 
 			the image to (in pixels).</td>
             </tr>
 
 			<tr>
-            <td style="width: 219px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadedNameFieldLength](amfDdsImageClassUploadedNameFieldLengthProperty.html)</td>
+            <td style="width: 219px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadedNameFieldLength](amfDdsImageClassUploadedNameFieldLengthProperty.html)</td>
                        <td>Gets or sets the length of the 
 			[UploadNameField](amfDdsImageClassUploadNameFieldProperty.html) that 
 			contains the name of the image to 
 			be displayed.</td>
             </tr>
 			<tr>
-            <td style="width: 219px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadKey](amfDdsImageClassUploadKeyProperty.html)</td>
+            <td style="width: 219px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadKey](amfDdsImageClassUploadKeyProperty.html)</td>
             <td>Gets or sets the function key that will be relayed to the IBM i 
 			when the upload button is touched.</td>
             </tr>
 			<tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [ViewType](http://msdn.microsoft.com/en-us/library/system.web.ui.control.validaterequestmode(v=vs.110).aspx">ValidateRequestMode</a></td>
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [ViewType](http://msdn.microsoft.com/en-us/library/system.web.ui.control.validaterequestmode(v=vs.110).aspx">ValidateRequestMode</a></td>
             <td style="height: 31px">Sets whether the control checks client input from the browser for potentially dangerous values. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -222,7 +222,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsImage class
             <td style="height: 31px">Defines whether the images will be displayed in a standard gallery, a swipe gallery, or not at all.</td>
             </tr>
 			<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [VisibleCondition](amfDdsImageClassVisibleConditionProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [VisibleCondition](amfDdsImageClassVisibleConditionProperty.html)</td>
             <td style="height: 31px">Provide a set of conditional indicators 
 			determining whether the image(s) are visible and rendered.</td>
             </tr>

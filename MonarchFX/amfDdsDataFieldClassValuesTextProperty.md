@@ -39,13 +39,13 @@ For the user to see the entries in the **ValuesText** property, the **ValuesStyl
 With **ValuesStyle** set to **DropdownBoth** , **Values** set to **A B C D** , and **ValuesText** set to **Add Browse Change Delete** , the following will display for the user:
 <blockquote dir="ltr">
 
-<img alt="" src="../Images/DropdownBoth.jpg" border="0" /> 
+<img alt="" src="Images/DropdownBoth.jpg" border="0" /> 
 </blockquote>
 
 With **ValuesStyle** set to **DropdownText** and **ValuesText** set to **Add Browse Change Delete** , the following will display for the user:
 <blockquote dir="ltr">
 
-<img alt="" src="../Images/ValuesText_entries.jpg" border="0" /> 
+<img alt="" src="Images/ValuesText_entries.jpg" border="0" /> 
 </blockquote>
 
 ***Note:** If there are no entries in the **Values** property, then regardless if there are entries for the **ValuesStyle** and **ValuesText** properties, they will be disregarded and the field will display as a **TextBox** .* 

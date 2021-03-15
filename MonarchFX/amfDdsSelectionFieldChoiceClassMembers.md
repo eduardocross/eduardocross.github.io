@@ -24,7 +24,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" width="16" height="16" border="0" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" width="16" height="16" border="0" /> 
             [
             DdsSelectionFieldChoice](amfDdsSelectionFieldChoiceClassConstructors.html)</td>
             <td>Creates a new instance of a       

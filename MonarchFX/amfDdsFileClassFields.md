@@ -21,7 +21,7 @@ keywords: fields [ASNA.Monarch.WebDspF], DdsFile class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />
               [
               InputDataAvailable](amfDdsFileClassInputDataAvailableField.html)
             </td>

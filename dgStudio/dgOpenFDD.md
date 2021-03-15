@@ -23,7 +23,7 @@ The Database File Definition Designer is DataGate Studio's graphical user interf
 The designer is strictly for editing file definition source files. When you make changes in the designer, you are changing a file definition source file in your DataGate project, not a DataGate database file. You cannot directly create or modify database files in the File Definition Designer. After designing a file definition, you save changes to the source file in the DataGate project, which can then be used with a separate project command to create a database file.
 
 ### Designer Layout
-![" align="middle](../images/FDDlayout.bmp)		
+![" align="middle](Images/FDDlayout.bmp)		
 
 The primary layout of the designer features a tree view on the left, and details panel on the right. The tree view displays a high-level view of the file definition. The root node represents the file type (physical, simple logical, multiformat, join, or SQL logical) and the file-level attributes of the definition. Under the root node, you will see nodes representing major functional components of the file. In the case of the physical file definition shown above, three tree nodes are displayed under the root node, representing the field reference file, record format, and file creation attributes.
 

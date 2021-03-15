@@ -23,7 +23,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               DdsMessagePanel](amfDdsMessagePanelClassConstructors.html)
             </td>
@@ -42,7 +42,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th>Description</th>
           </tr>
           <tr>
-            <td>![public property](../Images/property.bmp" />
+            <td>![public property](Images/property.bmp" />
               [
               DefaultButton](amfDdsMessagePanelClassDefaultButtonProperty.html)
             </td>
@@ -56,7 +56,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             use to reset the default button.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp)
+            <td><img alt="public property" src="Images/property.bmp)
               [
               Visible](amfDdsMessagePanelClassVisibleProperty.html)
             </td>

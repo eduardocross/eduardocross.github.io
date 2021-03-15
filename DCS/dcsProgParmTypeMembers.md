@@ -21,7 +21,7 @@ Public Constructors
           <tr valign="top" style="x-cell-content-align: top">
             <td style="height: 47px" >
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ProgParmType](dcsProgParmTypeConstructorsMain.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ProgParmType](dcsProgParmTypeConstructorsMain.html) 
 </td>
             <td style="height: 47px" >
 

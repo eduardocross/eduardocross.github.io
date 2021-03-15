@@ -25,7 +25,7 @@ This document lists the members of the DdsSubfile class. It does not include pro
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               DdsSubfile](amfDdsSubfileClassConstructors.html)
             </td>
@@ -45,13 +45,13 @@ This document lists the members of the DdsSubfile class. It does not include pro
           <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Alias](amfDdsRecordClassAliasProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Alias](amfDdsRecordClassAliasProperty.html)</td>
             <td>Gets or sets an alternate
             format name to be used by the compiler. (Inherited from
             DdsRecord.)</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               AttnKeys](amfDdsRecordClassAttnKeysProperty.html)
             </td>
@@ -309,7 +309,7 @@ This document lists the members of the DdsSubfile class. It does not include pro
           <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               GetConditionedValue](amfDdsSubfileClassGetConditionedValueMethod.html)
             </td>
@@ -317,7 +317,7 @@ This document lists the members of the DdsSubfile class. It does not include pro
             the conditional values for a specific field.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               IsNotFalse](amfDdsSubfileClassIsNotFalseMethod.html)
             </td>
@@ -326,7 +326,7 @@ This document lists the members of the DdsSubfile class. It does not include pro
             false.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [IsTrue](amfDdsSubfileClassIsTrueMethod.html)
             </td>
             <td>Returns 
@@ -334,14 +334,14 @@ This document lists the members of the DdsSubfile class. It does not include pro
             true.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ReadBrowser](amfDdsSubfileClassReadBrowserMethod.html)
             </td>
             <td>Reads the browser.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetDataOnly](amfDdsSubfileClassResetDataOnlyMethod.html)
             </td>
@@ -350,7 +350,7 @@ This document lists the members of the DdsSubfile class. It does not include pro
             (*False).</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetNextChanged](amfDdsSubfileClassResetNextChangedMethod.html)
             </td>

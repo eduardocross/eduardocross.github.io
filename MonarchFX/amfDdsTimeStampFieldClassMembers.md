@@ -24,7 +24,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               DdsTimestampField](amfDdsTimeStampFieldClassConstructors.html)
             </td>
@@ -44,7 +44,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />  
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />  
             [
             LoadPostData](amfDdsTimestampFieldClassLoadPostDataMethod.html)</td>
             <td>Processes post back data
@@ -54,7 +54,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
  **False** .</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />  
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />  
             [
             ValueToString](amfDdsTimestampFieldClassValueToStringMethod.html)</td>
             <td>Return the value for the
@@ -72,7 +72,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             Alias](amfDdsDataFieldClassAliasProperty.html)</td>
             <td>Gets or sets an alternate
@@ -80,7 +80,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AutoPostBack](amfddsTimestampFieldClassAutoPostBackProperty.html)</td>
             <td>Gets or sets a boolean
@@ -89,7 +89,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             output-only.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AutoPostBackKey](amfddsTimestampFieldClassAutoPostBackKeyProperty.html)</td>
                 <td>Gets or sets the

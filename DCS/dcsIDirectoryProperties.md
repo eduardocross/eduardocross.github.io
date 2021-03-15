@@ -21,7 +21,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ ItemList](dcsIDirectoryClassItemListProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ ItemList](dcsIDirectoryClassItemListProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -31,7 +31,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ RemotePathName](dcsIDirectoryClassRemotePathNameProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ RemotePathName](dcsIDirectoryClassRemotePathNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

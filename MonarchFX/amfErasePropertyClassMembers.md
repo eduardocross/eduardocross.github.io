@@ -22,7 +22,7 @@ keywords: ASNA.Monarch.WebDspF.EraseProperty class
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               EraseProperty](amfErasePropertyClassConstructors.html)
             </td>
@@ -42,7 +42,7 @@ keywords: ASNA.Monarch.WebDspF.EraseProperty class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               GetValidValues](amfErasePropertyClassGetValidValuesMethod.html)
             </td>
@@ -52,7 +52,7 @@ keywords: ASNA.Monarch.WebDspF.EraseProperty class
        object.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               NewInstance](amfErasePropertyClassNewInstanceMethod.html)
             </td>

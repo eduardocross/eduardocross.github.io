@@ -49,7 +49,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" /> [AidKey](amfDdsButtonClassAidKeyProperty.html)</td>
+            <td><img alt="public property" src="Images/property.bmp" /> [AidKey](amfDdsButtonClassAidKeyProperty.html)</td>
             <td>Gets or sets
             the function key defined in the 
  **DdsRecord**  to which this button control
@@ -154,7 +154,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
 <!-- end copy BUT put in extra div and end of table -->
 
           <tr valign="top">
-            <td><img alt="public fields" src="../Images/field.bmp" /> [IsDesignTime](amfDdsButtonClassIsDesignTimeField.html)
+            <td><img alt="public fields" src="Images/field.bmp" /> [IsDesignTime](amfDdsButtonClassIsDesignTimeField.html)
             </td>
             <td>A boolean value indicating
             if the field is a design-time only field.</td>

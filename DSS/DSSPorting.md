@@ -91,7 +91,7 @@ Each one of these databases will be presented through DSS for .NET as individual
 
 The following figure shows a Database Name called **Ontario** pointing to the **SQL Server** engine in **My Computer** 
 
-<img alt = "" border="0" width="468" height="300" src="../Images/dss_image018.jpg" /> 
+<img alt = "" border="0" width="468" height="300" src="Images/dss_image018.jpg" /> 
 
 You can use <code> ***DOMAIN** </code> for your user name or you can supply one of the login names recognized by SQL Server with its corresponding password. 
 
@@ -99,11 +99,11 @@ Open the Database:
 
 Test your Database Name by opening the database with Database Manager. You should see something like the following: 
 
-<img alt="" src="../Images/dss_image020.png" width="420" height="193" /> 
+<img alt="" src="Images/dss_image020.png" width="420" height="193" /> 
 
 When you open a database for the first time, Database Manager prompts you for your viewing preferences for the database with a dialog like the following. 
 
-<img alt="" border="0" width="300" height="229" src="../Images/dss_image022.jpg" /> 
+<img alt="" border="0" width="300" height="229" src="Images/dss_image022.jpg" /> 
 
 Notice in particular the checkbox **Show system objects** . It controls whether to or not to display a set of *SQL Server* objects called **sysxxxx** . For IBM i databases, this option shows or hides objects like <code>QSYS</code>. 
 
@@ -135,12 +135,12 @@ Logical files have extra restrictions. Make sure that the key fields are not sub
 ####  Issue the Copy Command and Note if there are any Problems 
 If you choose the second option, uncheck the **Copy Data Records** in the **Copy Library** dialog to speed up the process. Take note of any problem and after fixing it, delete the target library and issue the **Copy Library** command again, this time copying the data records. You can view the result of the copy in the **Message Log** window. 
 
-<img alt="" border="0" width="576" height="170" src="../Images/dss_image024.png" /> 
+<img alt="" border="0" width="576" height="170" src="Images/dss_image024.png" /> 
 
 ####  Copy Library: 
 Once you have modified your files to comply with the limitations stated above, you can use the **Copy Library** menu option. 
 
-<img alt="" border="0" width="420" height="193" src="../Images/dss_image026.png" /> 
+<img alt="" border="0" width="420" height="193" src="Images/dss_image026.png" /> 
 
 All files stored under *SQL Server* must reside inside a **'Library'** just like files on an IBM i. DataGate&#174; Engine has allowed files to be placed at the 'root' level of the database and under subfolders inside a library. If you have files in places other than first level libraries, you'll have to adapt your application (or the library list) to point to the new locations. 
 
@@ -162,7 +162,7 @@ If you use a field reference file as part of your data file definitions, you sho
 13. Drag the field reference file to the target database taking care of specifying <code> ***FieldRef** </code> as the file name to be
         created. DSS will notice the special name and add the fields to the data dictionary.
 
-<img alt="" border="0" width="420" height="209" src="../Images/dss_image028.png" />
+<img alt="" border="0" width="420" height="209" src="Images/dss_image028.png" />
 
 After you have populated the data dictionary, you can view the type definitions by clicking on the <code>*FieldRef</code> file in the target library.<br /> If you don't see the <code>*FieldRef</code> file in the library, ensure that the option to **Show System Objects** checked ON in the options dialog. 
 
@@ -173,7 +173,7 @@ To assist in finding areas in code that will potentially cause an error, a new I
 
 Select the **Enable DataGate&#174; for SQL Server Warnings** option so that a check mark appears in the check box and select **OK** . 
 
-<img alt="" border="0" width="404" height="207" src="../images/dss_image030.png" /> 
+<img alt="" border="0" width="404" height="207" src="Images/dss_image030.png" /> 
 
 ###  Change your <code>DCLDISKFILE</code> Statements: 
 Depending upon your application, the following are some changes you will/may need to make to your <code>DCLDISKFILE</code> statements. 
@@ -208,7 +208,7 @@ The behavior of DSS when the file is opened for update is similar to DG for IBM 
 
 These differences bear the following considerations: 
 
-<img alt="" border="0" width="576" height="337" src="../Images/dss_image032.png" /> 
+<img alt="" border="0" width="576" height="337" src="Images/dss_image032.png" /> 
 
 <span style="font-size: 8pt;"> Loops involving <code> **SetLL-SetGT** </code> and <code> **Read-ReadE-ReadPE** </code> should be re-coded to use the <code>Range</code> operations. </span> 
 

@@ -25,7 +25,7 @@ keywords: SQL_CommunicationsArea class, members
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
             [
             SQL_CommunicationsArea](amfProgramSQL_CommunicationsAreaClassConstructors.html)</td>
             <td>Overloaded. Creates a
@@ -44,7 +44,7 @@ keywords: SQL_CommunicationsArea class, members
             <th>Field</th>
             <th>Description</th>
           </tr>          <tr valign="top">
-            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SQL_Exception](amfProgramSQL_CommunicationsAreaClassSQL_ExceptionField.html)
             </td>
@@ -54,14 +54,14 @@ keywords: SQL_CommunicationsArea class, members
             for the last SQL statement executed.</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               <a href="amfProgramSQL_CommunicationsAreaClassSQLCODField.html)
             </td>
             <td>The status code of the last
             SQL statement executed.</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SqlCommandText](amfProgramSQL_CommunicationsAreaClassSqlCommandTextField.html)
             </td>
@@ -69,7 +69,7 @@ keywords: SQL_CommunicationsArea class, members
             command text executed.</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SQLSTT](amfProgramSQL_CommunicationsAreaClassSQLSTTField.html)
             </td>

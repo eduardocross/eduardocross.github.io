@@ -23,7 +23,7 @@ keywords: SqlPreparedStatement class, fields
             <th>Field</th>
             <th>Description</th>
           </tr>          <tr>
-            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
             cmd](amfProgramSqlPreparedStatementClasscmdField.html)
             </td>
@@ -32,7 +32,7 @@ keywords: SqlPreparedStatement class, fields
           executed against the data source.</td>
           </tr>
           <tr>
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             SQLCA](amfProgramSqlPreparedStatementClassSQLCAField.html)
             </td>

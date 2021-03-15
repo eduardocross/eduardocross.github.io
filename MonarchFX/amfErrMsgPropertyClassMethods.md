@@ -20,7 +20,7 @@ keywords: methods [ASNA.Monarch.WebDspF], ErrMsgProperty class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               GetValidValues](amfErrMsgPropertyClassGetValidValuesMethod.html)
             </td>
@@ -30,7 +30,7 @@ keywords: methods [ASNA.Monarch.WebDspF], ErrMsgProperty class
        object.</td>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               NewInstance](amfErrMsgPropertyClassNewInstanceMethod.html)
                   </td>

@@ -26,13 +26,13 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
             <tr>
-            <td class="auto-style3">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [
+            <td class="auto-style3">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [
               Alias](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
 <tr>
-            <td class="auto-style2"><img alt="public property" src="../Images/property.bmp" /><a href="amfDdsDataFieldClassAliasProperty.html)
+            <td class="auto-style2"><img alt="public property" src="Images/property.bmp" /><a href="amfDdsDataFieldClassAliasProperty.html)
             </td>
             <td>Gets or sets an alternate
             field name for the field. (Inherited from
@@ -59,7 +59,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             output-only.</td>
           </tr>
           <tr>
-            <td class="auto-style2"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsCharFieldClassAutoPostBackKeyProperty.html)</td>
+            <td class="auto-style2"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsCharFieldClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the
             aidkey to return to the server when 
             <a> **AutoPostBack** </a> is True.</td>

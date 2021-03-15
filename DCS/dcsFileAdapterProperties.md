@@ -23,7 +23,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ AccessMode](dcsFileAdapterClassAccessModeProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ AccessMode](dcsFileAdapterClassAccessModeProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The declared mode of access enforced by the database when the file is open.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ Connection](dcsFileAdapterClassConnectionProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ Connection](dcsFileAdapterClassConnectionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ The current [AdgConnection](dcsAdgConnectionClass.html) associated with this **F
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ CurrentFormatIndex](dcsFileAdapterClassCurrentFormatIndexProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ CurrentFormatIndex](dcsFileAdapterClassCurrentFormatIndexProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ An integer containing the index for the record format of the record most recentl
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ ExactSeek](dcsFileAdapterClassExactSeekProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ ExactSeek](dcsFileAdapterClassExactSeekProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ This property is **True** if the seek operation resulted in an exact match.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ ExtendedResults](dcsFileAdapterClassExtendedResultsProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ ExtendedResults](dcsFileAdapterClassExtendedResultsProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ Specialized collection of status information associated with the file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ FileLength](dcsFileAdapterClassFileLengthProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ FileLength](dcsFileAdapterClassFileLengthProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ The number of deleted and non-deleted records in the open database file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ FileName](dcsFileAdapterClassFileNameProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ FileName](dcsFileAdapterClassFileNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ The file path name of the database file excluding the member name (see **MemberN
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [FormatRequested](dcsFileAdapterClassFormatRequestedProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [FormatRequested](dcsFileAdapterClassFormatRequestedProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ Reflects the most recent format specified in a **SetFormat** or **ResetFormat** 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ MemberName](dcsFileAdapterClassMemberNameProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ MemberName](dcsFileAdapterClassMemberNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -113,7 +113,7 @@ The name of the database member of the currently-opened file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ OpenAttributes](dcsFileAdapterClassOpenAttributesProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ OpenAttributes](dcsFileAdapterClassOpenAttributesProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -123,7 +123,7 @@ Contains a set of file properties which influence the way a file is opened.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [RecordCount](dcsFileAdapterClassRecordCountProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [RecordCount](dcsFileAdapterClassRecordCountProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -133,7 +133,7 @@ The number of non-deleted records in the open database file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ RRN](dcsFileAdapterClassRRNProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ RRN](dcsFileAdapterClassRRNProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -143,7 +143,7 @@ The relative record number of the member of the currently-opened file.
           <tr>
             <td colspan="1" rowspan="1" style="height: 47px">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ Status](dcsFileAdapterClassStatusProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ Status](dcsFileAdapterClassStatusProperty.html) 
 </td>
             <td colspan="1" rowspan="1" style="height: 47px">
 

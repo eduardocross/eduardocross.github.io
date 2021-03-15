@@ -21,7 +21,7 @@ A key determines the order in which records will be retrieved from the file.
 				below with the RCMMASTER record format.
 3. Select the Keys tab in the lower right panel to display the keys grid as shown below.
 
-![](../images/KeysGrid.bmp)
+![](Images/KeysGrid.bmp)
 4. Scroll to the bottom of the keys grid, if necessary. Select the **New Row**  (the last
 				row of the grid) by clicking on the leftmost column of the row.
 5. Select the name of the key part to add by clicking on the drop-down box in the

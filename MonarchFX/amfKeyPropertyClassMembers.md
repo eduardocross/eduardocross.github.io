@@ -22,7 +22,7 @@ keywords: ASNA.Monarch.WebDspF.KeyProperty class
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               KeyProperty](amfKeyPropertyClassConstructors.html)
             </td>
@@ -42,7 +42,7 @@ keywords: ASNA.Monarch.WebDspF.KeyProperty class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               GetValidValues](amfKeyPropertyClassGetValidValuesMethod.html)
             </td>
@@ -52,7 +52,7 @@ keywords: ASNA.Monarch.WebDspF.KeyProperty class
        object.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               NewInstance](amfKeyPropertyClassNewInstanceMethod.html)
             </td>
@@ -75,7 +75,7 @@ keywords: ASNA.Monarch.WebDspF.KeyProperty class
           <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public properties" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public properties" src="Images/property.bmp" width="16" border="0" />
               [Text](amfKeyPropertyClassTextProperty.html)
             </td>
             <td>Gets the additional text

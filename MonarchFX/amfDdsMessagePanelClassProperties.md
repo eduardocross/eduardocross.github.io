@@ -150,7 +150,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
 			WebControl.)</td>
             </tr>
 			<tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <a href="amfDdsMessagePanelClassVisibleProperty.html)
             </td>
             <td>Gets or sets a boolean

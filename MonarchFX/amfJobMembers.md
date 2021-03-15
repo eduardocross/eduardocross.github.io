@@ -24,7 +24,7 @@ keywords: members [ASNA.Monarch], Job class
             <th>Description</th>
           </tr>
 <!-- end copy BUT put in extra div and end of table -->          <tr valign="top">
-            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="constructor" src="../Images/Constructor.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="constructor" src="Images/Constructor.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             Job](amfJobClassJobConstructors.html)
             </td>
@@ -47,7 +47,7 @@ keywords: members [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             DeleteOverride](amfJobClassDeleteOverrideMethods.html)
             </td>
@@ -56,7 +56,7 @@ keywords: members [ASNA.Monarch], Job class
           previously applied to the job.</td>
           </tr>
           <tr>
-            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img21" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             Dispose](amfJobClassDisposeMethod.html)
             </td>
@@ -65,19 +65,19 @@ keywords: members [ASNA.Monarch], Job class
           Job.</td>
           </tr>
           <tr>
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [EndPrograms](amfJobClassEndProgramsMethod.html)
             </td>
             <td>De-activates any program that
           is still active.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />GetLdaField</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />GetLdaField</td>
             <td>Deprecated. Use the Visual
           RPG "IN" command.</td>
           </tr>
           <tr>
-            <td><img id="Img10" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img10" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             GetSwitch](amfJobClassGetSwitchMethod.html)
             </td>
@@ -86,7 +86,7 @@ keywords: members [ASNA.Monarch], Job class
           switch.</td>
           </tr>
           <tr>
-            <td><img id="Img11" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img11" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [GetSwitches](amfJobClassGetSwitchesMethod.html)
             </td>
             <td>Returns a string of 8
@@ -94,7 +94,7 @@ keywords: members [ASNA.Monarch], Job class
           represents one of the job attributes switches.</td>
           </tr>
           <tr>
-            <td><img id="Img12" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img12" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             OverrideFile](amfJobClassOverrideFileMethods.html)
             </td>
@@ -102,12 +102,12 @@ keywords: members [ASNA.Monarch], Job class
           override options.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> SetLdaField</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> SetLdaField</td>
             <td>Deprecated. Use the Visual
           RPG "OUT" command.</td>
           </tr>
            <tr>
-            <td><img id="Img18" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img18" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             Request](amfJobClassRequestMethod.html)
             </td>
@@ -115,7 +115,7 @@ keywords: members [ASNA.Monarch], Job class
           </tr>
 
           <tr>
-            <td><img id="Img18" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img18" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             SetSwitch](amfJobClassSetSwitchMethod.html)
             </td>
@@ -124,7 +124,7 @@ keywords: members [ASNA.Monarch], Job class
           switch.</td>
           </tr>
           <tr>
-            <td><img id="Img19" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="../Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img19" style="WIDTH: 16px; HEIGHT: 16px" alt="method" src="Images/Methods.bmp" border="0" x-maintain-ratio="TRUE" />
               [
             ShutDown](amfJobClassShutDownMethod.html)
             </td>
@@ -147,7 +147,7 @@ keywords: members [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/promethod.bmp
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/promethod.bmp
 " border="0" x-maintain-ratio="TRUE" />
               [
             getADO_Connection](amfJobClassgetADO_ConnectionMethod.html)
@@ -159,7 +159,7 @@ keywords: members [ASNA.Monarch], Job class
           ADO connection to a database.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/promethod.bmp
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/promethod.bmp
 " border="0" x-maintain-ratio="TRUE" />
               <a href="amfJobClassgetDatabaseMethod.html)
             </td>
@@ -168,7 +168,7 @@ keywords: members [ASNA.Monarch], Job class
           job.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/promethod.bmp
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/promethod.bmp
 " border="0" x-maintain-ratio="TRUE" />
               [
             getPrinterDB](amfJobClassgetPrinterDBMethod.html)
@@ -193,7 +193,7 @@ keywords: members [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
             ADO_Connection](amfJobClassADO_ConnectionProperty.html)
             </td>
@@ -203,14 +203,14 @@ keywords: members [ASNA.Monarch], Job class
           ADO connection to a database.</td>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public property" src="../Images/property.bmp" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" border="0" />
               <a href="amfJobClassCurrentJobProperty.html)
             </td>
             <td>Gets the Job object
           corresponding to this Job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
             Database](amfJobClassDatabaseProperty.html)
             </td>
@@ -219,7 +219,7 @@ keywords: members [ASNA.Monarch], Job class
           corresponding to this Job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
             MesssageFileFolder](amfJobClassMessageFileFolderProperty.html)
             </td>
@@ -227,7 +227,7 @@ keywords: members [ASNA.Monarch], Job class
           folder containing the message file for this job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [PrinterDB](amfJobClassPrinterDBProperty.html)
             </td>
             <td>Gets the
@@ -235,7 +235,7 @@ keywords: members [ASNA.Monarch], Job class
           printer corresponding to this Job.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
             StartupMoment](amfJobClassStartupMomentProperty.html)
             </td>
@@ -258,7 +258,7 @@ keywords: members [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr valign="top">
-            <td style="height: 29px"><img id="Img8" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="../Images/Field.bmp
+            <td style="height: 29px"><img id="Img8" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="Images/Field.bmp
 " border="0" x-maintain-ratio="TRUE" />
               [
             ExternalQueue](amfJobClassExternalQueueField.html)
@@ -270,7 +270,7 @@ keywords: members [ASNA.Monarch], Job class
           message queue for this job.</td>
           </tr>
           <tr>
-            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="../Images/Field.bmp
+            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="Images/Field.bmp
 " border="0" x-maintain-ratio="TRUE" />
               [LDC](amfJobClassLDCField.html)
             </td>
@@ -281,7 +281,7 @@ keywords: members [ASNA.Monarch], Job class
           name/value pairs.</td>
           </tr>
           <tr>
-            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="../Images/Field.bmp
+            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="Images/Field.bmp
 " border="0" x-maintain-ratio="TRUE" />
               [
             PsdsJobName](amfJobClassPsdsJobNameField.html)
@@ -290,7 +290,7 @@ keywords: members [ASNA.Monarch], Job class
           field in the program status data structure.</td>
           </tr>
           <tr>
-            <td><img id="Img22" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="../Images/Field.bmp
+            <td><img id="Img22" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="Images/Field.bmp
 " border="0" x-maintain-ratio="TRUE" />
               [
             PsdsJobNumber](amfJobClassPsdsJobNumberField.html)
@@ -299,7 +299,7 @@ keywords: members [ASNA.Monarch], Job class
           in the program status data structure.</td>
           </tr>
           <tr>
-            <td><img id="Img23" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="../Images/Field.bmp
+            <td><img id="Img23" style="WIDTH: 16px; HEIGHT: 16px" alt="public fields" src="Images/Field.bmp
 " border="0" x-maintain-ratio="TRUE" />
               [
             PsdsJobUser](amfJobClassPsdsJobUserField.html)
@@ -323,7 +323,7 @@ keywords: members [ASNA.Monarch], Job class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
             FileOverrideTable](amfJobClassFileOverrideTableField.html)
             </td>
@@ -332,11 +332,11 @@ keywords: members [ASNA.Monarch], Job class
           the file overrides for the job.</td>
           </tr>
           <tr>
-            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="../Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />Lda</td>
+            <td><img style="WIDTH: 16px; HEIGHT: 16px" alt="protected method" src="Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />Lda</td>
             <td>Deprecated.</td>
           </tr>
           <tr>
-            <td><img id="Img25" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img25" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
             messageFileFolder](amfJobClassmessageFileFolderField.html)
             </td>

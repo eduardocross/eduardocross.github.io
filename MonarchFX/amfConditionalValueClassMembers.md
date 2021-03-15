@@ -26,7 +26,7 @@ keywords: ASNA.Monarch.WebDspF.ConditionalValue class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="constructor" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img alt="constructor" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               ConditionalValue](amfConditionalValueClassConditionalValueConstructors.html)
             </td>
@@ -47,7 +47,7 @@ keywords: ASNA.Monarch.WebDspF.ConditionalValue class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               ToString](amfConditionalValueClassToStringMethod.html)
             </td>
@@ -66,7 +66,7 @@ keywords: ASNA.Monarch.WebDspF.ConditionalValue class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               Condition](amfConditionalValueClassConditionProperty.html)
             </td>

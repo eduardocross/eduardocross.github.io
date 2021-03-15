@@ -22,7 +22,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetSubfileMessage](amfDdsSubfileControlClassResetSubfileMessageMethod.html)
             </td>
@@ -31,7 +31,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             SubfileMessage](amfddsSubfileControlClassSubfileMessageProperty.html) property to default values.</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" />
+            <td><img alt="public method" src="Images/Methods.bmp" />
               [
               ResetSubfileMessageId](amfDdsSubfileControlClassResetSubfileMessageIdMethod.html)
             </td>

@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ ActiveRecords](dcsIMemberClassActiveRecordsProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ ActiveRecords](dcsIMemberClassActiveRecordsProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The number of active records in the database file member object represented by *
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ DeletedRecords](dcsIMemberClassDeletedRecordsProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ DeletedRecords](dcsIMemberClassDeletedRecordsProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ The number of deleted records in the database file member object represented by 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Extension](dcsIMemberClassExtensionProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Extension](dcsIMemberClassExtensionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -64,7 +64,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Clear](dcsIMemberClassClearMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Clear](dcsIMemberClassClearMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -74,7 +74,7 @@ Deletes all records in the member.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Initialize](dcsIMemberClassInitializeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Initialize](dcsIMemberClassInitializeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

@@ -24,7 +24,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl. 
           <th>Description</th>
           </tr>
             <tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [Alias](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [Alias](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -35,14 +35,14 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl. 
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfddsTimeFieldClassAutoPostBackProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfddsTimeFieldClassAutoPostBackProperty.html)</td>
             <td>Gets or sets a boolean
             value that if true, causes the control to generate a
             post back to the server when the field is
             output-only.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
             [
             AutoPostBackKey](amfddsTimeFieldClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the

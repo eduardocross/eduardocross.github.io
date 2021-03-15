@@ -23,7 +23,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AddPreparedRowAndSetActive](dcsAdgDataSetClassAddPreparedRowAndSetActiveMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AddPreparedRowAndSetActive](dcsAdgDataSetClassAddPreparedRowAndSetActiveMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ An integer containing the index value of the file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AddRow](dcsAdgDataSetClassAddRowMethods.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AddRow](dcsAdgDataSetClassAddRowMethods.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Overloaded. Add a prepared row to the table for a particular format.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteRow](dcsAdgDataSetClassDeleteRowMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteRow](dcsAdgDataSetClassDeleteRowMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ Mark a DataRow in the AdgDataSet as deleted
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetFormatIndex](dcsAdgDataSetClassGetFormatIndexMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetFormatIndex](dcsAdgDataSetClassGetFormatIndexMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ Returns an integer identifying a DataGate file format.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetFormatName](dcsAdgDataSetClassGetFormatNameMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetFormatName](dcsAdgDataSetClassGetFormatNameMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ Returns a string identifying a DataGate file format.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetFormatTable](dcsAdgDataSetClassGetFormatTableMethods.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetFormatTable](dcsAdgDataSetClassGetFormatTableMethods.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ Returns the DataTable object for a particular file format, specified by index or
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Initialize](dcsAdgDataSetClassInitializeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Initialize](dcsAdgDataSetClassInitializeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ Initialize an instance of AdgDataSet.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> InitializeCommon
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> InitializeCommon
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ DCS internal use only .
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ InitializeFormats](dcsAdgDataSetClassInitializeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ InitializeFormats](dcsAdgDataSetClassInitializeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -113,7 +113,7 @@ Initialize an instance of AdgDataSet.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ InsertRow](dcsAdgDataSetClassInsertRowMethods.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ InsertRow](dcsAdgDataSetClassInsertRowMethods.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -123,7 +123,7 @@ Overloaded. Add a row to the dataset table for a particular format and position.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewKeyTable](dcsAdgDataSetClassNewKeyTableMethods.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ NewKeyTable](dcsAdgDataSetClassNewKeyTableMethods.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -133,7 +133,7 @@ Overloaded. Create a key buffer for keyed access operations.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ PrepareRow](dcsAdgDataSetClassPrepareRowMethodMain.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ PrepareRow](dcsAdgDataSetClassPrepareRowMethodMain.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -143,7 +143,7 @@ Overloaded. Create a DataRow object in preparation for adding it to the AdgDataS
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SetActive](dcsAdgDataSetClassSetActiveMethods.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SetActive](dcsAdgDataSetClassSetActiveMethods.html) 
 </td>
             <td colspan="1" rowspan="1">
 

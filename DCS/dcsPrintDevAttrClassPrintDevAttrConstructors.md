@@ -28,7 +28,7 @@ Constructs an instance of a **PrintDevAttr** object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ PrintDevAttr()](dcsPrintDevAttrClassPrintDevAttrConstructor.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ PrintDevAttr()](dcsPrintDevAttrClassPrintDevAttrConstructor.html) 
 </td>
             <td colspan="1" rowspan="1">
 

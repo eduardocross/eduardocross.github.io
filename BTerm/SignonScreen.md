@@ -40,7 +40,7 @@ The ASNA Browser Terminal signon screen, SignOn.aspx, works in conjunction with 
 #### Sign On Display
 The SignOn.aspx, if left unchanged, will resemble the image below and have the data fields shown in the subsequent table.
 
-![Runtime view of Original Signon.aspx](../Images/SignonRuntime.png)
+![Runtime view of Original Signon.aspx](Images/SignonRuntime.png)
 <table  class="members" id="memberList" width="90%"><colgroup><col width="15%" /><col width="70%" /></colgroup>
 
 					   <tr><th style="height: 19px">Data Fields</th>
@@ -75,11 +75,11 @@ One option is to set all of the variable values except for the user name and pas
 In practice, instead of a single program (Custinqcl in the example), a menu may be the starting program which the user works from throughout the day. In that case, set the menu name instead of the program name and set the <span style="color:red">Usage</span> attribute to <span style="color:blue">"OutputOnly"</span> for both the program and menu.
 <pre class="prettyprint"></pre>
 
-![WingsJob.cs with variable settings shown](../Images/WingsJobLogonInfo.png)
+![WingsJob.cs with variable settings shown](Images/WingsJobLogonInfo.png)
 <br />
 Next, you want to change the Signon.aspx to reflect a <span style="color:red">Usage</span> attribute of <span style="color:blue">"OutputOnly" for </span> those variables that you preset in WingsJob that you do not want the user to override, namely server, program, menu, library, and port. The following image shows the <span style="color:red">Usage</span> attribute changed to <span style="color:blue">"OutputOnly"</span> for the server field.
 
-![SignOn.aspx shownwith usageequal outputonly](../Images/SignonASPXLogonInfo.png)
+![SignOn.aspx shownwith usageequal outputonly](Images/SignonASPXLogonInfo.png)
 <br />
 **Preload Variable and Remove from the SignOn.aspx** 
 

@@ -25,7 +25,7 @@ keywords: SqlCursor class, methods
             <th>Description</th>
           </tr>
           <tr>
-            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
               [
               Close](amfProgramSqlCursorClassCloseMethod.html)
             </td>
@@ -34,7 +34,7 @@ keywords: SqlCursor class, methods
           </tr>
           <tr>
             <td> 
-                <img id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+                <img id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
               [
               Fetch](amfProgramSqlCursorClassFetchMethod.html)
             </td>
@@ -46,7 +46,7 @@ keywords: SqlCursor class, methods
             </td>
           </tr>
           <tr>
-            <td>  <img id="Img8" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td>  <img id="Img8" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
               [
               Open](amfProgramSqlCursorClassOpenMethods.html)
             </td>
@@ -56,7 +56,7 @@ keywords: SqlCursor class, methods
             </td>
           </tr>
           <tr>
-            <td><img id="Img9" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="Img9" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
               [
               SqlQueryResultsByIndex](amfProgramSqlCursorClassSqlQueryResultsByIndexMethod.html)
             </td>

@@ -23,7 +23,7 @@ keywords: members [ASNA.Monarch], Program.DBStrParm class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               Program.DBStrParm](amfProgramDBStrParmClassConstructors.html)
             </td>

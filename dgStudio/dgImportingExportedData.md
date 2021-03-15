@@ -23,7 +23,7 @@ DataGate Studio export files can be restored to a database using the DataGate Im
 				Import/Export tool window will display.
 2. Click the **Load for Import**  button on the window's toolbar. A file chooser dialog will be shown.		
 
-![](../images/dgImpExpCommands.png)
+![](Images/dgImpExpCommands.png)
 3. Select the export file to be opened. By default, the chooser will display only files
 				with the extension . **dgie** , the registered extension for DataGate export file.  
 				The .dgie extension is registered with Windows when DataGate Studio is installed.

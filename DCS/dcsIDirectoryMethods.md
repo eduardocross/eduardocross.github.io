@@ -23,7 +23,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AttachRemoteDirectory](dcsIDirectoryClassAttachRemoteDirectoryMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AttachRemoteDirectory](dcsIDirectoryClassAttachRemoteDirectoryMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Attaches a remote directory to an database library object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ CreateSubDirectory](dcsIDirectoryClassCreateSubDirectoryMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ CreateSubDirectory](dcsIDirectoryClassCreateSubDirectoryMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Creates a new library contained by the library represented by **IDirectory** .
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [Enumerate](dcsIDirectoryClassEnumerateMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [Enumerate](dcsIDirectoryClassEnumerateMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ Enumerate the object contents of the library represented by **IDirectory** with 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [RepairObjects](dcsIDirectoryClassRepairObjectsMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [RepairObjects](dcsIDirectoryClassRepairObjectsMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 

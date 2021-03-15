@@ -35,7 +35,7 @@ If you have insufficient authority to create a new database, the command will fa
 					box will display.
 
 *Note that this is the same command and dialog used to label an existing database. In this case however, we will invoke a DataGate command to create the files and folder comprising a new database. The Label Database dialog box is shown below.* 
-![](../images/AddNewDatabase.png)		
+![](Images/AddNewDatabase.png)		
 
 **Note** - Label Database Dialog can also be accessed by right-clicking a server in the DataGate Explorer treeview and selecting **New Database** .
 5. Enter a name for the database in the **Label**  field. The label is the database's name with

@@ -13,7 +13,7 @@ keywords: Document Editor
 The designer allows you to make changes to an underlying source file. This source file is an XML document, which adheres to the DataGate File Definition XML Schema. If you wish, you can edit the document directly, using the DataGate Studio XML editor. You can even have your file definition open in both the designer and XML editor simultaneously – changes made in one are reflected immediately in the other.
 
 When the file definition is open in the designer view window, you may use the **Code** command on the View menu to open the definition in the XML editor view, as shown below. You can alternately open the source file in the XML editor view by rightclicking on the source file in the DataGate project in Solution Explorer, and selecting the **View Code** command.
-![](../images/FileDefinitionDocumentEditor.bmp)
+![](Images/FileDefinitionDocumentEditor.bmp)
 
 DataGate Studio uses the File Definition XML Schema to provide integrated file definition syntax error checking, highlighting, and IntelliSense® features when editing the file definition in the XML editor.
 

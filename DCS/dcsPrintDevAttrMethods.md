@@ -21,7 +21,7 @@ For additional information see [PrintDevAttr Overview](dcsPrintDevAttrClass.html
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadXml](dcsPrintDevAttrClassReadXmlMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadXml](dcsPrintDevAttrClassReadXmlMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -31,7 +31,7 @@ Creates an instance of a **PrintDevAttr** XML object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteXml](dcsPrintDevAttrClassWriteXmlMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteXml](dcsPrintDevAttrClassWriteXmlMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 

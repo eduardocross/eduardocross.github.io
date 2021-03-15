@@ -23,7 +23,7 @@ Constructors
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ DatabaseAttributes](dcsDatabaseAttributesConstructors.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ DatabaseAttributes](dcsDatabaseAttributesConstructors.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -46,7 +46,7 @@ Public Fields
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ BusySeats](dcsDatabaseAttributesClassBusySeatsField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ BusySeats](dcsDatabaseAttributesClassBusySeatsField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -56,7 +56,7 @@ The total number of 'busy seats' for the database. All application running from 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ Database](dcsDatabaseAttributesClassDatabaseField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ Database](dcsDatabaseAttributesClassDatabaseField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -66,7 +66,7 @@ The database name.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ Hardware](dcsDatabaseAttributesClassHardwareField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ Hardware](dcsDatabaseAttributesClassHardwareField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -76,7 +76,7 @@ The name of the hardware on which the database file resides.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OperatingSystem](dcsDatabaseAttributesClassOperatingSystemField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OperatingSystem](dcsDatabaseAttributesClassOperatingSystemField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -86,7 +86,7 @@ The name of the operating system on which the database resides.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OriginalLabel](dcsDatabaseAttributesClassOriginalLabelField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ OriginalLabel](dcsDatabaseAttributesClassOriginalLabelField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -96,7 +96,7 @@ The original database label name.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ ProxyName](dcsDatabaseAttributesClassProxyNameField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ ProxyName](dcsDatabaseAttributesClassProxyNameField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -106,7 +106,7 @@ The name of the server that services the requests of its clients by forwarding r
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ ProxyVersion](dcsDatabaseAttributesClassProxyVersionField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ ProxyVersion](dcsDatabaseAttributesClassProxyVersionField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -116,7 +116,7 @@ The version number of the server that services the requests of its clients by fo
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ Secure](dcsDatabaseAttributesClassSecureField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ Secure](dcsDatabaseAttributesClassSecureField.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -126,7 +126,7 @@ Indicates if security is used on the database.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="../Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ TotalSeats](dcsDatabaseAttributesClassTotalSeatsField.html) 
+<img style="WIDTH: 8px; HEIGHT: 11px" height="11" src="Images/field.bmp" width="8" border="0" x-maintain-ratio="TRUE" /> [ TotalSeats](dcsDatabaseAttributesClassTotalSeatsField.html) 
 </td>
             <td colspan="1" rowspan="1">
 

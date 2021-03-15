@@ -24,7 +24,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           <th>Description</th>
           </tr>
         <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" />
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" />
               [
               AspectRatio](amfDdsSignatureClassAspectRatioProperty.html)
             </td>

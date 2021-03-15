@@ -23,7 +23,7 @@ keywords: methods [ASNA.Monarch.WebDspF], ConditionalProperty class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img  height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img  height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               Clone](amfConditionalPropertyClassCloneMethod.html)
             </td>
@@ -31,7 +31,7 @@ keywords: methods [ASNA.Monarch.WebDspF], ConditionalProperty class
  **ConditionalProperty**  object.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img  height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               GetValidValues](amfConditionalPropertyClassGetValidValuesMethod.html)
             </td>
@@ -39,7 +39,7 @@ keywords: methods [ASNA.Monarch.WebDspF], ConditionalProperty class
             method is provided in the derived classes.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img  height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               NewInstance](amfConditionalPropertyClassNewInstanceMethod.html)
             </td>
@@ -47,7 +47,7 @@ keywords: methods [ASNA.Monarch.WebDspF], ConditionalProperty class
             method is provided in the derived classes.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img  height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               Reset](amfConditionalPropertyClassResetMethod.html)
             </td>
@@ -56,7 +56,7 @@ keywords: methods [ASNA.Monarch.WebDspF], ConditionalProperty class
             values.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img  height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               ToString](amfConditionalPropertyClassToStringMethod.html)
             </td>

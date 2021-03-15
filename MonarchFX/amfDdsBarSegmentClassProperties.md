@@ -25,7 +25,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <th>Description</th>
           </tr>
             <tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [Alignment](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [Alignment](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>

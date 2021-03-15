@@ -26,7 +26,7 @@ This document lists the members of the DdsCharField class. It does not include p
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsCharField](amfDdsCharFieldClassConstructors.html)
             </td>
             <td>Creates a new instance of a
@@ -48,7 +48,7 @@ This document lists the members of the DdsCharField class. It does not include p
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />[
+            <td><img alt="public property" src="Images/property.bmp" />[
               Alias](amfDdsDataFieldClassAliasProperty.html)
             </td>
             <td>Gets or sets an alternate
@@ -61,20 +61,20 @@ This document lists the members of the DdsCharField class. It does not include p
 			auto-capitalization of text elements.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoC](amfDdsCharFieldClassAutoCorrectProperty.html)[<span class="auto-style1">orrect</span>](amfDdsCharFieldClassAutoCorrectProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoC](amfDdsCharFieldClassAutoCorrectProperty.html)[<span class="auto-style1">orrect</span>](amfDdsCharFieldClassAutoCorrectProperty.html)</td>
             <td>Gets or sets a boolean
             value that if true, activates automatic spelling correction of text 
 			elements.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsCharFieldClassAutoPostBackProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsCharFieldClassAutoPostBackProperty.html)</td>
             <td>Gets or sets a boolean
             value that if true, causes the control to generate a
             post back to the server when the field is
             output-only.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsCharFieldClassAutoPostBackKeyProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsCharFieldClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the
             aidkey to return to the server when 
             <a> **AutoPostBack** </a> is True.</td>

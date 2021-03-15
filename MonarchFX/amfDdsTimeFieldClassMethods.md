@@ -22,7 +22,7 @@ This member's page does not includes inherited members from System.Web.UI.WebCon
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" width="16" height="16" border="0" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" width="16" height="16" border="0" /> 
             [
             LoadPostData](amfDdsTimeFieldClassLoadPostDataMethod.html)</td>
             <td>Processes post back data
@@ -32,7 +32,7 @@ This member's page does not includes inherited members from System.Web.UI.WebCon
  **False** .</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [ValueToString](amfDdsTimeFieldClassValueToStringMethod.html)</td>
+            <td><img alt="public method" src="Images/Methods.bmp" width="16" height="16" border="0" /> [ValueToString](amfDdsTimeFieldClassValueToStringMethod.html)</td>
             <td>Return the value for the
             field as a string.</td>
           </tr>

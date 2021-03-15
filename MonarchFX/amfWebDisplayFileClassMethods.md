@@ -23,7 +23,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               Attach](amfWebDisplayFileClassAttachMethod.html)
             </td>
@@ -33,7 +33,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               ClearSubfile](amfWebDisplayFileClassClearSubfileMethod.html)
             </td>
@@ -41,7 +41,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             for the subfile named.</td>
           </tr>
           <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/Methods.bmp" />
+            <td style="height: 31px"><img alt="public property" src="Images/Methods.bmp" />
               [
               Close](amfWebDisplayFileClassCloseMethod.html)
             </td>
@@ -50,7 +50,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               DeactivateFormats](amfWebDisplayFileClassDeactivateFormatsMethod.html)
             </td>
@@ -58,7 +58,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             named.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               DisplaySubfileRecords](amfWebDisplayFileClassDisplaySubfileRecordsMethod.html)
             </td>
@@ -66,7 +66,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             for the subfile named.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               GetCurrentRow](amfWebDisplayFileClassGetCurrentRowMethod.html)
             </td>
@@ -74,7 +74,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             number of the format name specified.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               GetSharedFile](amfWebDisplayFileClassGetSharedFileMethod.html)
             </td>
@@ -83,7 +83,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             file.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               InitMessageSubfile](amfWebDisplayFileClassInitMessageSubfileMethod2.html)
             </td>
@@ -94,7 +94,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             specified.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               IsActive](amfWebDisplayFileClassIsActiveMethod.html)
             </td>
@@ -104,7 +104,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
  **False** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [Open](amfWebDisplayFileClassOpenMethod.html)
             </td>
             <td>Opens the '.aspx.' web form
@@ -112,7 +112,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [Read](amfWebDisplayFileClassReadMethod.html)
             </td>
             <td>Reads an array of
@@ -121,7 +121,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             indicators.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               SetActive](amfWebDisplayFileClassSetActiveMethod.html)
             </td>
@@ -129,7 +129,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             the format name specified.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               SetCurrentRow](amfWebDisplayFileClassSetCurrentRowMethod.html)
             </td>
@@ -137,7 +137,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             row and format name specified.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               Update](amfWebDisplayFileClassUpdateMethod.html)
             </td>
@@ -147,7 +147,7 @@ keywords: methods [ASNA.Monarch], WebDisplayFile class
             subfileTable.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               Write](amfWebDisplayFileClassWriteMethod.html)
             </td>

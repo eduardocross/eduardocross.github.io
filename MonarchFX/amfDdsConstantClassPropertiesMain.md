@@ -25,7 +25,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <th>Description</th>
           </tr>
             <tr>
-            <td style="height: 31px">![](../Images/property.bmp" /> [Color](http://www.w3schools.com/aspnet/prop_webcontrol_standard_accesskey.asp">AccessKey</a></td>
+            <td style="height: 31px">![](Images/property.bmp" /> [Color](http://www.w3schools.com/aspnet/prop_webcontrol_standard_accesskey.asp">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -149,7 +149,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
 						</td>
 					</tr>
                    <tr>
-            <td style="height: 31px"><img src="../Images/property.bmp) [Text](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
+            <td style="height: 31px"><img src="Images/property.bmp) [Text](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
             <td style="height: 31px">Gets or sets the skin to use on the control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>

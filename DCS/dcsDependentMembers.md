@@ -23,7 +23,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ AdgObjectType](dcsDependentClassAdgObjectTypeProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ AdgObjectType](dcsDependentClassAdgObjectTypeProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Gets a database object ([IAdgObject](dcsIAdgObjectClass.html)) corresponding to 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ DependentType](dcsDependentClassDependentTypeProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ DependentType](dcsDependentClassDependentTypeProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Determines the relationship between a dependent database object and its' [ bases
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ PathName](dcsDependentClassPathNameProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ PathName](dcsDependentClassPathNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

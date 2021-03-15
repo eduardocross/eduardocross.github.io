@@ -23,12 +23,12 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsBaseDate class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img  alt="public method" src="../Images/Methods.bmp" width="16" border="0" /> [GetDateFormat](amfDdsBaseDateClassGetDateFormatMethod.html)</td>
+            <td><img  alt="public method" src="Images/Methods.bmp" width="16" border="0" /> [GetDateFormat](amfDdsBaseDateClassGetDateFormatMethod.html)</td>
             <td>Retrieves the format for
             the date control field.</td>
           </tr>
           <tr valign="top">
-            <td><img  alt="public method" src="../Images/Methods.bmp" width="16" border="0" />[
+            <td><img  alt="public method" src="Images/Methods.bmp" width="16" border="0" />[
               LoadPostData](amfDdsBaseDateClassLoadPostDataMethod.html)
             </td>
             <td>Processes post back data

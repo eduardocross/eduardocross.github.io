@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ DatabaseName](dcsSourceProfileClassDatabaseNameProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ DatabaseName](dcsSourceProfileClassDatabaseNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The database name (or identifier) of this set of connection parameters.
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ InitialLibl](dcsSourceProfileClassInitialLiblProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ InitialLibl](dcsSourceProfileClassInitialLiblProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Retrieves the current database’s initial library list.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Label](dcsSourceProfileClassLabelProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Label](dcsSourceProfileClassLabelProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ For host platforms that support multiple databases, the label of the database to
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Password](dcsSourceProfileClassPasswordProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Password](dcsSourceProfileClassPasswordProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ Password is a write-only property specifying the password for the user profile i
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [PasswordType](dcsSourceProfileClassPasswordTypeProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [PasswordType](dcsSourceProfileClassPasswordTypeProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ This property specifies the authentication method for initiating database sessio
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ PlatformAttribute](dcsSourceProfileClassPlatformAttributeProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ PlatformAttribute](dcsSourceProfileClassPlatformAttributeProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ This property is used when accessing SQL Server databases, and must be set to "*
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ PoolingTimeout](dcsSourceProfileClassPoolingTimeoutProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ PoolingTimeout](dcsSourceProfileClassPoolingTimeoutProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ The amount of time (in minutes) in which a connection will remain idle in the po
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Port](dcsSourceProfileClassPortProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Port](dcsSourceProfileClassPortProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ The TCP/IP port number used to initiate the connection to the database server pl
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Qualifier](dcsSourceProfileClassQualifierProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Qualifier](dcsSourceProfileClassQualifierProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -113,7 +113,7 @@ This is a reserved property and should not be set by the user.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Server](dcsSourceProfileClassServerProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Server](dcsSourceProfileClassServerProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -123,7 +123,7 @@ The network name of the server that contains the database (either a DNS hostname
           <tr>
             <td colspan="1" rowspan="1" style="height: 70px">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ Text](dcsSourceProfileClassTextProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ Text](dcsSourceProfileClassTextProperty.html) 
 </td>
             <td colspan="1" rowspan="1" style="height: 70px">
 
@@ -133,7 +133,7 @@ This property may be used to hold any comments about the database connection par
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ User](dcsSourceProfileClassUserProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ User](dcsSourceProfileClassUserProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

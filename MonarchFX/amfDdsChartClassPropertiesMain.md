@@ -26,61 +26,61 @@ This member's page includes members inherited from System.Web.UI.WebControls.Web
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
              <tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [
               AxisLabelFontColor](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" /><a href="amfDdsChartClassAxisLabelFontColorProperty.html)</td>
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" /><a href="amfDdsChartClassAxisLabelFontColorProperty.html)</td>
             <td style="height: 31px">Gets or sets the font color of the chart's 
 			axis label.</td>
           </tr>
 
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisLabelFontFamily](amfDdsChartClassAxisLabelFontFamilyProperty.html)</td>
             <td style="height: 31px">Gets or sets the font family of the chart's 
 			axis label.</td>
           </tr>
 
               <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisLabelFontSize](amfDdsChartClassAxisLabelFontSizeProperty.html)</td>
             <td style="height: 31px">Gets or sets the font size of the chart's 
 			axis label.</td>
           </tr>
 
             <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisLabelFontStyle](amfDdsChartClassAxisLabelFontStyleProperty.html)</td>
             <td style="height: 31px">Gets or sets the font style of the chart's 
 			axis label.</td>
           </tr>
 
               <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontColor](amfDdsChartClassAxisTitleFontColorProperty.html)</td>
             <td style="height: 31px">Gets or sets the font color for the axis 
 			title.</td>
           </tr>
 
              <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontFamily](amfDdsChartClassAxisTitleFontFamilyProperty.html)</td>
             <td style="height: 31px">Gets or sets the font family for the axis 
 			title.</td>
           </tr>
 
             <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontSize](amfDdsChartClassAxisTitleFontSizeProperty.html)</td>
             <td style="height: 31px">Gets or sets the font size for the axis 
 			title.</td>
           </tr>
 
            <tr>
-            <td style="height: 31px"><img alt="public property" src="../Images/property.bmp" />[
+            <td style="height: 31px"><img alt="public property" src="Images/property.bmp" />[
               AxisTitleFontStyle](amfDdsChartClassAxisTitleFontStyleProperty.html)</td>
             <td style="height: 31px">Gets or sets the font style fot the axis 
 			title.</td>
@@ -113,23 +113,23 @@ This member's page includes members inherited from System.Web.UI.WebControls.Web
 			to draw the data for the Category from.</td>
           </tr>
            <tr>
-            <td style="height: 52px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryFieldLength](amfDdsChartClassCategoryFieldLengthProperty.html)</td>
+            <td style="height: 52px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryFieldLength](amfDdsChartClassCategoryFieldLengthProperty.html)</td>
             <td style="height: 52px">Gets or sets the length of the field the Category data will be drawn 
 	  from.</td>
           </tr>
 
           <tr>
-            <td style="height: 31px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryTitle](amfDdsChartClassCategoryTitleProperty.html)</td>
+            <td style="height: 31px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryTitle](amfDdsChartClassCategoryTitleProperty.html)</td>
             <td style="height: 31px">Gets or sets the text of the category title column-header.</td>
           </tr>
                     <tr>
-            <td style="height: 31px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryTitleField](amfDdsChartClassCategoryTitleFieldProperty.html)</td>
+            <td style="height: 31px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryTitleField](amfDdsChartClassCategoryTitleFieldProperty.html)</td>
             <td style="height: 31px">Gets or sets a CharField in an IBM i record 
 			to draw the data for the Category Title from.</td>
           </tr>
 
                     <tr>
-            <td style="height: 52px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryTitleFieldLength](amfDdsChartClassCategoryTitleFieldLengthProperty.html)</td>
+            <td style="height: 52px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryTitleFieldLength](amfDdsChartClassCategoryTitleFieldLengthProperty.html)</td>
             <td style="height: 52px">Gets or sets the length of the field the Category 
 			Title data will be drawn 
 	  from.</td>

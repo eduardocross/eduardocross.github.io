@@ -22,7 +22,7 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td>![public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE](../Images/Methods.bmp" />
+            <td>![public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE](Images/Methods.bmp" />
               [Page](amfPageClassPageConstructors.html)
             </td>
             <td>Creates a new instance of a
@@ -43,7 +43,7 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
               <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img alt="public property" src="Images/property.bmp" width="16" border="0" />
               [DataSet](amfPageClassDataSetProperty.html)
             </td>
             <td>Gets an instance of 
@@ -51,7 +51,7 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
             an in-memory cache of data.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               RunProgram](amfPageClassRunProgramProperty.html)
             </td>
@@ -79,28 +79,28 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
             execution has been paused.</td>
           </tr>
 		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetDataRow](amfPageClassGetDataRowMethod.html)
             </td>
             <td>Gets the data from a row in a datatable.</td>
           </tr>
 		  	<tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetDataTable](amfPageClassGetDataTableMethod.html)
             </td>
             <td>Gets a datatable from a specified format.</td>
           </tr>
 		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetFieldValue](amfPageClassGetFieldValueMethod.html)
             </td>
             <td>Gets the value of a specified field.</td>
           </tr>
           <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetFileName](amfPageClassGetFileNameMethod.html)
             </td>
@@ -108,42 +108,42 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
             on the page.</td>
           </tr>
 		  		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetOptionIndicator](amfPageClassGetOptionIndicatorMethod.html)
             </td>
             <td>Gets the specified indicator.</td>
           </tr>
 		  		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetOptionIndicators](amfPageClassGetOptionIndicatorsMethod.html)
             </td>
             <td>Gets the specified indicators.</td>
           </tr>
 		  		  		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetResponseIndicator](amfPageClassGetResponseIndicatorMethod.html)
             </td>
             <td>Gets the specified indicator.</td>
           </tr>
 		  		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               GetResponseIndicators](amfPageClassGetResponseIndicatorsMethod.html)
             </td>
             <td>Gets the specified indicators.</td>
           </tr>
 		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
             IsFormatActive](amfPageClassIsFormatActiveMethod.html)
             </td>
             <td>Tests whether the specified record format is active.</td>
           </tr>
           <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               OnCopyBrowserToDspFile](amfPageClassOnCopyBrowserToDspFileMethod.html)
             </td>
@@ -153,7 +153,7 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
             processed here.</td>
           </tr>
           <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               OnCopyDspFileToBrowser](amfPageClassOnCopyDspFileToBrowserMethod.html)
             </td>
@@ -163,7 +163,7 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
             formulated here.</td>
           </tr>
 		 <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               Onload](amfPageClassOnLoadMethod.html)
             </td>
@@ -173,7 +173,7 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
             formulated here.</td>
           </tr>
           <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               PrepareRecord](amfPageClassPrepareRecordMethods.html)
             </td>
@@ -182,42 +182,42 @@ keywords: members [ASNA.Monarch.WebDspF], Page class
             preparation for the rendering phase.</td>
           </tr>
 		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               SetFieldValue](amfPageClassSetFieldValueMethod.html)
             </td>
             <td>Sets the value of a selected field.</td>
           </tr>
 		 <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               SetOptionIndicator](amfPageClassSetOptionIndicatorMethod.html)
             </td>
             <td>Sets the value of a selected option indicator.</td>
           </tr>
 		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               SetResponseIndicator](amfPageClassSetResponseIndicatorMethod.html)
             </td>
             <td>Sets the value of a selected response indicator.</td>
           </tr>
 		  		 <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               SetSubfileOptionIndicator](amfPageClassSetSubfileOptionIndicatorMethod.html)
             </td>
             <td>Sets the value of a selected subfile option indicator.</td>
           </tr>
 		  <tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               SetSubfileResponseIndicator](amfPageClassSetSubfileResponseIndicatorMethod.html)
             </td>
             <td>Sets the value of a selected subfile response indicator.</td>
           </tr>
 		<tr>
-            <td><img height="15" alt="public property" src="../Images/promethod.bmp" width="15" border="0"  />
+            <td><img height="15" alt="public property" src="Images/promethod.bmp" width="15" border="0"  />
               [
               SetSubfileFieldValue](amfPageClassSetSubfileFieldValueMethod.html)
             </td>

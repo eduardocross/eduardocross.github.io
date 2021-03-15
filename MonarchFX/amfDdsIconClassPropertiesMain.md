@@ -26,7 +26,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsIcon class
 
 			<tr>
             <td style="width: 218px">
-			![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" class="auto-style1" /> [
+			![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" class="auto-style1" /> [
               IconId](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.backcolor(v=vs.110).aspx">BackColor</a></td>
             <td>Sets the background for this control. (Inherited from ASP.NET 
 			WebControl.)</td>

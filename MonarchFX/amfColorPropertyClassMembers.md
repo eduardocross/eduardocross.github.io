@@ -24,7 +24,7 @@ This document contains the entire list of members for the class.
             <th>Constructor</th>
             <th>Description</th>
           </tr>          <tr valign="top">
-            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               ColorProperty](amfColorPropertyClassConstructors.html)
             </td>
@@ -46,7 +46,7 @@ This document contains the entire list of members for the class.
             <th>Description</th>
           </tr>
           <tr>
-            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               GetValidValues](amfColorPropertyClassGetValidValuesMethod.html)
             </td>
@@ -55,7 +55,7 @@ This document contains the entire list of members for the class.
  **ColorProperty**  object.</td>
           </tr>
           <tr>
-            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               NewInstance](amfColorPropertyClassNewInstanceMethod.html)
             </td>

@@ -24,7 +24,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
           <tr valign="top">
             <td><img
- class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+ class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [DdsPanel](amfDdsPanelClassConstructors.html)
             </td>
             <td>Creates a new instance of a
@@ -43,7 +43,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
           <tr valign="top">
             <td><img
- class="hcp4" alt="public methods" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+ class="hcp4" alt="public methods" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               ResetVisibleCondition](amfDdsPanelClassResetVisibleConditionMethod.html)
             </td>
@@ -63,7 +63,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th style="height: 31px">Description</th>
           </tr> 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               BackImgURL](amfDdsPanelClassBackImgURLProperty.html)
             </td>
@@ -71,7 +71,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               GroupingText](amfDdsPanelClassGroupingTextProperty.html)
             </td>
@@ -79,7 +79,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
                     <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               GroupingTextField](amfDdsPanelClassGroupingTextFieldProperty.html)
             </td>
@@ -88,7 +88,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
                     <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               GroupingTextFieldLength](amfDdsPanelClassGroupingTextFieldLengthProperty.html)
             </td>
@@ -98,7 +98,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               Visible](amfDdsPanelClassVisibleProperty.html)
             </td>
@@ -107,7 +107,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             the page.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               VisibleCondition](amfDdsPanelClassVisibleConditionProperty.html)
             </td>

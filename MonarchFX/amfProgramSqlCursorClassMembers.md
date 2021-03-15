@@ -25,7 +25,7 @@ keywords: SqlCursor class, members
             <th>Description</th>
           </tr>
          <tr>
-            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
             [
             SqlCursor](amfProgramSqlCursorClassConstructors.html)</td>
             <td>Overloaded. Creates a
@@ -46,14 +46,14 @@ keywords: SqlCursor class, members
             <th>Description</th>
           </tr>
           <tr>
-            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
             [
             Close](amfProgramSqlCursorClassCloseMethod.html)</td>
             <td>Closes a
             Program.SqlCursor.</td>
           </tr>
           <tr>
-            <td><img id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="Img7" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
             [
             Fetch](amfProgramSqlCursorClassFetchMethod.html)</td>
             <td>Determines if results
@@ -63,7 +63,7 @@ keywords: SqlCursor class, members
             SqlCursor.FetchOrientations](amfProgramSqlCursorFetchOrientationsEnumeration.html) value.</td>
           </tr>
           <tr>
-            <td><img id="Img8" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="Img8" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
             [
             Open](amfProgramSqlCursorClassOpenMethods.html)</td>
             <td>Overloaded. Executes the
@@ -71,7 +71,7 @@ keywords: SqlCursor class, members
             or without select statement variables</td>
           </tr>
           <tr>
-            <td><img id="Img9" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="../Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="Img9" style="WIDTH: 16px; HEIGHT: 16px" alt="public method" src="Images/Methods.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
             [
             SqlQueryResultsByIndex](amfProgramSqlCursorClassSqlQueryResultsByIndexMethod.html)</td>
             <td>Returns an object from the
@@ -89,7 +89,7 @@ keywords: SqlCursor class, members
             <th>Field</th>
             <th>Description</th>
           </tr>          <tr>
-            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               ScrollType](amfProgramSqlCursorClassScrollTypeField.html)
             </td>
@@ -99,7 +99,7 @@ keywords: SqlCursor class, members
             defining the type of scrolling for the cursor.</td>
           </tr>
           <tr>
-            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
               SelectStatement](amfProgramSqlCursorClassSelectStatementField.html)
             </td>
@@ -108,7 +108,7 @@ keywords: SqlCursor class, members
             created.</td>
           </tr>
           <tr>
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" border="0" x-maintain-ratio="TRUE" />
               [
               SQLCA](amfProgramSqlCursorClassSQLCAField.html)
             </td>
@@ -117,7 +117,7 @@ keywords: SqlCursor class, members
             run-time errors for the SqlCursor.</td>
           </tr>
           <tr>
-            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SqlQueryResults](amfProgramSqlCursorClassSqlQueryResultsField.html)
             </td>

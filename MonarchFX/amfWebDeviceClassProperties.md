@@ -25,7 +25,7 @@ keywords: properties [ASNA.Monarch], WebDevice class
           </tr>
 
           <tr>
-            <td>              <img alt="public property" src="../Images/property.bmp" />
+            <td>              <img alt="public property" src="Images/property.bmp" />
               [
               ActiveDisplayFile](amfWebDeviceClassActiveDisplayFileProperty.html)
             </td>

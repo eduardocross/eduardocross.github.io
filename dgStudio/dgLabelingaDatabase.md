@@ -31,7 +31,7 @@ If you have insufficient authority to label the database, the command will fail.
 4. Select the **<u>N</u>ew**  button to label a database. The Label Database dialog box will display.
 
 *Note that this is the same command and dialog used to create a database. In this case however,we have the files comprising a DataGate for Windows database in a particular folder already. The Label Database dialog box is shown below.* 
-![](../images/AddNewDatabase.png)
+![](Images/AddNewDatabase.png)
 **Note** - Label Database Dialog can also be accessed by right-clicking a server in the DataGate Explorer treeview and selecting **New Database** .
 5. Enter a name for the database in the **Label**  field. The label is the database's name with
 					respect to the server, and is distinct from the client application-oriented "database name" you

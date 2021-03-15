@@ -23,7 +23,7 @@ keywords: members [ASNA.Monarch], WebJob class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img  id="IMG1" alt="public property" src="../Images/Constructor.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img  id="IMG1" alt="public property" src="Images/Constructor.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               WebJob](amfWebJobClassWebJobConstructors.html)
             </td>
@@ -47,7 +47,7 @@ keywords: members [ASNA.Monarch], WebJob class
           </tr>
 
           <tr valign="top">
-            <td><img class="hcp4" alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               <code>[
               CurrentWebJob](amfWebJobClassCurrentWebJobProperty.html)</code>
             </td>
@@ -55,7 +55,7 @@ keywords: members [ASNA.Monarch], WebJob class
             the currently running 
  **WebJob**  object.</td>
           </tr><tr>
-            <td><img  id="Img8" alt="public property" src="../Images/
+            <td><img  id="Img8" alt="public property" src="Images/
 property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               <code>[
               Device](amfWebJobClassDeviceProperty.html)</code>
@@ -81,7 +81,7 @@ property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
             <th>Description</th>
           </tr>
           <tr>
-            <td><img  id="Img5" alt="public property" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img  id="Img5" alt="public property" src="Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               AcceptCommands](amfWebJobClassAcceptCommandsMethod.html)
             </td>
@@ -89,7 +89,7 @@ property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
             commands.</td>
           </tr>
           <tr>
-            <td><img  id="IMG2" alt="public property" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img  id="IMG2" alt="public property" src="Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               EndProgram](amfWebJobClassEndProgramsMethod.html)
             </td>
@@ -97,7 +97,7 @@ property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
  **WebJob**  program.</td>
           </tr>
           <tr>
-            <td><img  id="Img7" alt="public property" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img  id="Img7" alt="public property" src="Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               RequestShutDown](amfWebJobClassRequestShutDownMethod.html)
             </td>
@@ -105,7 +105,7 @@ property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
             request for the web job.</td>
           </tr>
           <tr>
-            <td><img  id="Img6" alt="public property" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img  id="Img6" alt="public property" src="Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [ShowPage](amfWebJobClassShowPageMethod.html)
             </td>
             <td>Prepares a job to accept
@@ -113,7 +113,7 @@ property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
             conversation with the user.</td>
           </tr>
           <tr>
-            <td><img  id="Img3" alt="public property" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img  id="Img3" alt="public property" src="Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [ShutDown](amfWebJobClassShutDownMethod.html)
             </td>
             <td>Ends all active programs,
@@ -122,7 +122,7 @@ property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
             job.</td>
           </tr>
           <tr>
-            <td><img  id="Img4" alt="public method" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img  id="Img4" alt="public method" src="Images/Methods.bmp" x-maintain-ratio="TRUE" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               Start](amfWebJobClassStartMethod.html)
             </td>
@@ -139,7 +139,7 @@ property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
             <col span="1" style="WIDTH: 70%" />
           </colgroup>
           <tr>
-            <td style="width: 173px"><img alt="public property" src="../Images/promethod.bmp" x-maintain-ratio="TRUE" border="0" />
+            <td style="width: 173px"><img alt="public property" src="Images/promethod.bmp" x-maintain-ratio="TRUE" border="0" />
               [
               ExecuteStartupProgram](amfWebJobClassExecuteStartupProgramMethod.html)
             </td>

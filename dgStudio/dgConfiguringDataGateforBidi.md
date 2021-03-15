@@ -20,7 +20,7 @@ To enable the client for bidi support, you must configure the DataGate connectio
 In this example, the user "dwarner" is selected as the iSeries user profile configured to use a bidi CCSID. Here we assume that this profile will be used to configure the DataGate/400 job CCSID (as outlined in the previous section).
 
 The bidi configuration properties for a connection are accessed by clicking the "Advanced…" button on the dialog. This will display a second dialog ([Advanced Connection Properties](dgAdvancedConnectionProperties.html)), containing a property grid control which includes the bidi configuration properties, as shown in Figure 1.
-![" align="middle](../images/dgCustomTextTrans.bmp)
+![" align="middle](Images/dgCustomTextTrans.bmp)
 
 *Figure 1. By default, no alternate text conversion is configured, as shown by the "Unicode" property value for the "Server Text Encoding" property.* 
 
@@ -35,7 +35,7 @@ You can enlarge the dialog to show all the properties for Decoder by clicking an
 In our example, two properties are changed: String Type and Insert Marks (for a complete explanation of the properties of the ASNA bidi provider's Decoder and Encoder, see [ Implementing and Configuring an Alternate Server Text Translation Provider](dgAlternateServerTextTranslationProvider.html)). The String Type has been changed from "DEFAULT" to ST4, and the Insert Marks property is enabled.
 
 Likewise, the Encoder must be configured. The properties of Encoder are identical to those of Decoder, but the values are not. In some cases, a characteristic of a transformation result of Decoder should be accounted for by the Encoder. In this example, text transformed by Decoder's enabled Insert Marks property may include special Unicode characters called "direction marks". So the configuration in Figure 2 enables the Remove Marks property so that direction mark characters affected the transformation from Unicode to EBCDIC, but are not included in the result.
-![" align="middle](../images/dgRemovemarks.bmp)
+![" align="middle](Images/dgRemovemarks.bmp)
 
 *Figure 2. Remove Marks is enabled in the Encoder, so that text obtained through the Decoder will have the direction marks removed when converting back to EBCDIC.* 
 

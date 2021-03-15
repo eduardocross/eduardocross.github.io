@@ -22,7 +22,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Clone](dcsSourceProfileClassCloneMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Clone](dcsSourceProfileClassCloneMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -32,7 +32,7 @@ Returns a copy of the <span>SourceProfile</span> object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Equals](dcsSourceProfileClassEqualsMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Equals](dcsSourceProfileClassEqualsMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -42,7 +42,7 @@ Returns **true** if the [SourceProfile](dcsAdgConnectionClassSourceProfileProper
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetHashCode](dcsSourceProfileClassGetHashCodeMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetHashCode](dcsSourceProfileClassGetHashCodeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -52,7 +52,7 @@ Invokes the <span>GetHashCode</span> method of the [SourceProfile constructor](d
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetNames](dcsSourceProfileClassGetNamesMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetNames](dcsSourceProfileClassGetNamesMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -62,7 +62,7 @@ Returns the currently registered database names available for use in a program.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Op_Equality](dcsSourceProfileClassop_EqualityMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Op_Equality](dcsSourceProfileClassop_EqualityMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -72,7 +72,7 @@ Returns **true** if the references being compared refer to the same object. Othe
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Op_InEquality](dcsSourceProfileClassop_InequalityMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Op_InEquality](dcsSourceProfileClassop_InequalityMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -82,7 +82,7 @@ Returns the opposite value returned by **op_Equality** .
           <tr>
             <td colspan="1" rowspan="1" style="height: 47px">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Register](dcsSourceProfileClassRegisterMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Register](dcsSourceProfileClassRegisterMethod.html) 
 </td>
             <td colspan="1" rowspan="1" style="height: 47px">
 
@@ -92,7 +92,7 @@ Saves the contents of the SourceProfile object to the system registry as a datab
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Unregister](dcsSourceProfileClassUnregisterMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Unregister](dcsSourceProfileClassUnregisterMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

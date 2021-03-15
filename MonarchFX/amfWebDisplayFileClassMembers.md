@@ -24,7 +24,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="constructor" src="../Images/Constructor.bmp" />
+            <td><img alt="constructor" src="Images/Constructor.bmp" />
               [
               WebDisplayFile](amfWebDisplayFileClassWebDisplayFileConstructors.html)
             </td>
@@ -47,7 +47,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               AttnID](amfWebDisplayFileClassAttnIDProperty.html)
             </td>
@@ -56,7 +56,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             subfile table.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               DataSet](amfWebDisplayFileClassdataSetProperty.html)
             </td>
@@ -67,7 +67,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               DisplayErrorMessages](amfWebDisplayFileClassDisplayErrorMessagesProperty.html)
             </td>
@@ -75,14 +75,14 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             indicating if error messages are to be displayed.</td>
           </tr>
 		  <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackActiveWindowCursor](amfWebDisplayFileClassFeedbackActiveWindowCursor.html)
 			              </td>
             <td>Gets the value of cursor coordinates relative to the Active Window/Popup.</td>
 			  </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackAID](amfWebDisplayFileClassFeedbackAIDProperty.html)
             </td>
@@ -91,7 +91,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             field on the web form.</td>
           </tr>
           <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackCursor](amfWebDisplayFileClassFeedbackCursorProperty.html)
             </td>
@@ -100,7 +100,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             field on the web form.</td>
           </tr>
           <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackField](amfWebDisplayFileClassFeedbackFieldProperty.html)
             </td>
@@ -108,7 +108,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             field for which the feedback is to be provided.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackFlags](amfWebDisplayFileClassFeedbackFlagsProperty.html)
             </td>
@@ -117,7 +117,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             form.</td>
           </tr>
 		  		   <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackLowestSubfile](amfWebDisplayFileClassFeedbackLowestSubfileProperty.html)
             </td>
@@ -125,16 +125,16 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             field for which the feedback is to be provided.</td>
           </tr>
 		  	<tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackSubfileCursorRRN](amfWebDisplayFileClassFeedbackSubfileCursorRRNProperty.html)</td>
 
-            <td><img alt="public property" src="../Images/property.bmp" /> [LastFormatName](amfWebDisplayFileClassLastFormatNameProperty.html)</td>
+            <td><img alt="public property" src="Images/property.bmp" /> [LastFormatName](amfWebDisplayFileClassLastFormatNameProperty.html)</td>
             <td>Gets or set the last format
             name for the Display File.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               ResetKeyIndicators](amfWebDisplayFileClassResetKeyIndicatorsProperty.html)
             </td>
@@ -157,7 +157,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               Attach](amfWebDisplayFileClassAttachMethod.html)
             </td>
@@ -167,7 +167,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/Methods.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/Methods.bmp" />
               [
               ClearSubfile](amfWebDisplayFileClassClearSubfileMethod.html)
             </td>
@@ -175,7 +175,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             for the subfile named.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               Close](amfWebDisplayFileClassCloseMethod.html)
             </td>
@@ -184,7 +184,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               DeactivateFormats](amfWebDisplayFileClassDeactivateFormatsMethod.html)
             </td>
@@ -192,7 +192,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             named.</td>
           </tr>
           <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/Methods.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/Methods.bmp" />
               [
               DisplaySubfileRecords](amfWebDisplayFileClassDisplaySubfileRecordsMethod.html)
             </td>
@@ -200,7 +200,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             for the subfile named.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               GetCurrentRow](amfWebDisplayFileClassGetCurrentRowMethod.html)
             </td>
@@ -208,7 +208,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             number of the format name specified.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               GetSharedFile](amfWebDisplayFileClassGetSharedFileMethod.html)
             </td>
@@ -217,7 +217,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             file.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               InitMessageSubfile](amfWebDisplayFileClassInitMessageSubfileMethod2.html)
             </td>
@@ -228,7 +228,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             specified.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               IsActive](amfWebDisplayFileClassIsActiveMethod.html)
             </td>
@@ -238,7 +238,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
  **False** .</td>
           </tr>
           <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/Methods.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/Methods.bmp" />
               [Open](amfWebDisplayFileClassOpenMethod.html)
             </td>
             <td style="height: 28px">Opens the ".aspx." web form
@@ -246,7 +246,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [Read](amfWebDisplayFileClassReadMethod.html)
             </td>
             <td>Reads an array of
@@ -255,7 +255,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             indicators.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               SetActive](amfWebDisplayFileClassSetActiveMethod.html)
             </td>
@@ -263,7 +263,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             the format name specified.</td>
           </tr>
           <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/Methods.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/Methods.bmp" />
               [
               SetCurrentRow](amfWebDisplayFileClassSetCurrentRowMethod.html)
             </td>
@@ -271,7 +271,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             row and format name specified.</td>
           </tr>
           <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/Methods.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/Methods.bmp" />
               [
               Update](amfWebDisplayFileClassUpdateMethod.html)
             </td>
@@ -281,7 +281,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             subfileTable.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/Methods.bmp" />
+            <td><img alt="public property" src="Images/Methods.bmp" />
               [
               Write](amfWebDisplayFileClassWriteMethod.html)
             </td>
@@ -304,7 +304,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public fields" src="../Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
+            <td><img alt="public fields" src="Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
               [
               Device](amfWebDisplayFileClassDeviceField.html)
             </td>
@@ -314,7 +314,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile**  object.</td>
           </tr>
           <tr>
-            <td><img alt="public fields" src="../Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
+            <td><img alt="public fields" src="Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
               [
               FileName](amfWebDisplayFileClassFileNameField.html)
             </td>
@@ -322,7 +322,7 @@ keywords: members [ASNA.Monarch], WebDisplayFile class
             the .aspx file containing the web form.</td>
           </tr>
           <tr>
-            <td><img alt="public fields" src="../Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
+            <td><img alt="public fields" src="Images/Field.bmp" x-maintain-ratio="TRUE" border="0" />
               [
               PageName](amfWebDisplayFileClassPageNameField.html)
             </td>

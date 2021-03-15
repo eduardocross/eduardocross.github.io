@@ -13,7 +13,7 @@ keywords: database folders
 ---
 
 When creating or labeling a database, you can browse for the folder in which to place or find the database by selecting the Browse button ( **...** ) to the right of the Path field, as shown below.
-![](../images/dgBrowsebutton.bmp)
+![](Images/dgBrowsebutton.bmp)
 
 ### To Browse for a Database Folder
 

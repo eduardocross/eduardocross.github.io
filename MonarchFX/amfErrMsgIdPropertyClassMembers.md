@@ -22,7 +22,7 @@ keywords: ASNA.Monarch.WebDspF.ErrMsgIdProperty class
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               ErrMsgIdProperty](amfErrMsgIdPropertyClassConstructors.html)
             </td>
@@ -42,7 +42,7 @@ keywords: ASNA.Monarch.WebDspF.ErrMsgIdProperty class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               GetValidValues](amfErrMsgIdPropertyClassGetValidValuesMethod.html)
             </td>
@@ -52,7 +52,7 @@ keywords: ASNA.Monarch.WebDspF.ErrMsgIdProperty class
        object.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               NewInstance](amfErrMsgIdPropertyClassNewInstanceMethod.html)
             </td>

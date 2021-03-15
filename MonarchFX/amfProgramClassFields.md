@@ -23,7 +23,7 @@ keywords: fields [ASNA.Monarch], Program class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img6" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               SqlQueryResults](amfProgramClassSqlQueryResultsField.html)
             </td>
@@ -43,7 +43,7 @@ keywords: fields [ASNA.Monarch], Program class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> 
+            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" /> 
             [
             SQLCA](amfProgramClassSQLCAField.html)</td>
             <td>[
@@ -53,7 +53,7 @@ keywords: fields [ASNA.Monarch], Program class
  **Program** .</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/ProtectedField.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
               StartupMoment](amfProgramClassStartupMomentField.html)
             </td>

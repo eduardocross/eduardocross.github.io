@@ -23,7 +23,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsField class
           <th>Description</th>
           </tr>
           <tr>
-            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               ResetColor](amfDdsFieldClassResetColorMethod.html)
             </td>
@@ -31,7 +31,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsField class
  **Color**  property to default values.</td>
           </tr>
           <tr>
-            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               ResetErrorMessage](amfDdsFieldClassResetErrorMessageMethod.html)
             </td>
@@ -39,7 +39,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsField class
  **ErrorMessage**  property to default values.</td>
           </tr>
           <tr>
-            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               ResetErrorMessageId](amfDdsFieldClassResetErrorMessageIdMethod.html)
             </td>
@@ -47,7 +47,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsField class
  **ErrorMessageId**  property to default values.</td>
           </tr>
           <tr>
-            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               ResetVisibleCondition](amfDdsFieldClassResetVisibleConditionMethod.html)
             </td>

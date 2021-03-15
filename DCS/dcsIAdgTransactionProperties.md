@@ -23,7 +23,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Connection](dcsIAdgTransactionClassConnectionProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Connection](dcsIAdgTransactionClassConnectionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The connection to the database representing the transaction context.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Name Property](dcsIAdgTransactionClassNameProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ Name Property](dcsIAdgTransactionClassNameProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ The name of the transaction.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ TransactionLevel](dcsIAdgTransactionClassTransactionLevelProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ TransactionLevel](dcsIAdgTransactionClassTransactionLevelProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

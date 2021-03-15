@@ -23,7 +23,7 @@ keywords: fields [ASNA.Monarch], MessageQueue class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public field" src="../Images/Field.bmp" width="16" border="0" />
+            <td><img height="16" alt="public field" src="Images/Field.bmp" width="16" border="0" />
               [
               Messages](amfMessageQueueClassMessagesField.html)
             </td>

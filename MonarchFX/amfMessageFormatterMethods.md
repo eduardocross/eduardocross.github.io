@@ -24,14 +24,14 @@ keywords: methods [ASNA.Monarch], MessageFormatter class
             <th>Description</th>
           </tr>
           <tr>
-            <td>  <img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td>  <img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               FormatMessage](amfMessageFormatterClassFormatMessageMethod.html)
             </td>
             <td>Returns a formatted message.</td>
           </tr>
           <tr>
-            <td>  <img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td>  <img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               IsPhysicalMsgFilePath](amfMessageFormatterClassIsPhysicalMsgFilePathMethod.html)
             </td>
@@ -40,7 +40,7 @@ keywords: methods [ASNA.Monarch], MessageFormatter class
             the database name, library, and file name.</td>
           </tr>
           <tr>
-            <td>  <img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td>  <img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               <a shape="rect" href="amfMessageFormatterClassFormatMessageTextMethod.htm">
               FormatMessageText</a>
             </td>

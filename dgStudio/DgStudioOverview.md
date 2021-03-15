@@ -52,7 +52,7 @@ For database management, a VSIP-based tree control, known as " **DataGate Explor
 
 For example, here you could rename a file or use drag-and-drop operations to move a library. The DataGate Explorer is the primary axis for administrative tasks, as shown below.
 
-![DataGate Menu Options](../images/DataGate_Explorer.png) 
+![DataGate Menu Options](Images/DataGate_Explorer.png) 
 DataGate Projects
 
 For development tasks, a "DataGate Projects" is used, which is similar to a Visual Studio language project. Instead of building programs however, a DataGate project is intended to be used to host database file definitions, and the commands to create files and extract their metadata.
@@ -63,11 +63,11 @@ DataGate projects are hosted by the VS Solution Explorer (in the far right pane)
 
 To date, we have completed initial development of controls used to edit connection details (and database names), browse libraries, edit/view data, and copy libraries. 
 
-![DataGate Explorer](../images/Solution.png) 
+![DataGate Explorer](Images/Solution.png) 
 
 #### DataGate Options
 The majority of the DataGate options are the same as in DataGate Database Manager, and can be found from the **DataGate** menu from within Visual Studio, as shown below.
-<img alt="DataGate Explorer" src="../images/DataGate_Menu_Options.png" />
+<img alt="DataGate Explorer" src="Images/DataGate_Menu_Options.png" />
 
 ---
 

@@ -23,7 +23,7 @@ Public Constructors
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AdgConnection](dcsAdgConnectionConstructorsMain.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ AdgConnection](dcsAdgConnectionConstructorsMain.html) 
 
 </td> <td colspan="1" rowspan="1"> <p>Overloaded. Initializes a new instance of the **AdgConnection** class, assigning an initial value to the **SourceProfile** property.
 </td>
@@ -42,7 +42,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ CurrentUserLibl](dcsAdgConnectionCurrentUserLiblProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ CurrentUserLibl](dcsAdgConnectionCurrentUserLiblProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -52,7 +52,7 @@ Set-only property used to change the current library list of an open database co
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ SourceProfile](dcsAdgConnectionClassSourceProfileProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ SourceProfile](dcsAdgConnectionClassSourceProfileProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -62,7 +62,7 @@ The [SourceProfile](dcsSourceProfileClass.html) object describing the currently 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ State](dcsAdgConnectionClassStateProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ State](dcsAdgConnectionClassStateProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ BeginAutoTransaction](dcsAdgConnectionClassBeginAutoTransactionMethodMain.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ BeginAutoTransaction](dcsAdgConnectionClassBeginAutoTransactionMethodMain.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ Overloaded method that begins an automatic database transaction creating an inst
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ BeginTransaction](dcsAdgConnectionClassBeginTransactionMethodMain.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ BeginTransaction](dcsAdgConnectionClassBeginTransactionMethodMain.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ Overloaded method that begins a manual database transaction creating an instance
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Clone](dcsAdgConnectionClassCloneMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Clone](dcsAdgConnectionClassCloneMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -113,7 +113,7 @@ Returns a copy of the **AdgConnection** object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Close](dcsAdgConnectionClassCloseMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Close](dcsAdgConnectionClassCloseMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -123,7 +123,7 @@ Closes the connection to the database.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Dispose](dcsAdgConnectionClassDisposeMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Dispose](dcsAdgConnectionClassDisposeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -133,7 +133,7 @@ Releases the resources used by the object. If in the 'Open' state, the **Close**
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Equals](dcsAdgConnectionClassEqualsMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Equals](dcsAdgConnectionClassEqualsMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -143,7 +143,7 @@ Returns **True** if the S **ourceProfile** properties of the objects being compa
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetHashCode](dcsAdgConnectionClassGetHashCodeMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ GetHashCode](dcsAdgConnectionClassGetHashCodeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -153,7 +153,7 @@ Invokes the GetHashCode method of the **SourceProfile** property.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ op_Equality](dcsAdgConnectionclassopEqualityMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ op_Equality](dcsAdgConnectionclassopEqualityMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -163,7 +163,7 @@ Returns **True** if the references being compared refer to the same object. Othe
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ op_InEquality](dcsAdgConnectionClassopInequalityMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ op_InEquality](dcsAdgConnectionClassopInequalityMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -173,7 +173,7 @@ Returns the opposite value returned by **op_Equality** .
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Open](dcsAdgConnectionClassOpenMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Open](dcsAdgConnectionClassOpenMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

@@ -24,7 +24,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public method" src="../Images/Methods.bmp" width="16" height="16" border="0" /> 
+            <td><img alt="public method" src="Images/Methods.bmp" width="16" height="16" border="0" /> 
             [
             DdsRecord](amfDdsRecordClassConstructors.html)</td>
             <td>Creates a new instance of a       
@@ -42,24 +42,24 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [CollectResponseIndicators](amfDdsRecordClassCollectResponseIndicatorsMethod.html)</td>
+            <td><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" /> [CollectResponseIndicators](amfDdsRecordClassCollectResponseIndicatorsMethod.html)</td>
             <td>Collects an array
             containing the response indicators for the record.</td>
           </tr>
           <tr>
-            <td><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [GetDdsFile](amfDdsRecordClassGetDdsFileMethod.html)</td>
+            <td><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" /> [GetDdsFile](amfDdsRecordClassGetDdsFileMethod.html)</td>
             <td>Returns an instance of a 
             [
             DdsFile](amfDdsFileClass.html) object for the 
  **DdsRecord** .</td>
           </tr>
           <tr>
-            <td style="height: 29px"><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [GetResultIndicator](amfDdsRecordClassGetResultIndicatorMethod.html)</td>
+            <td style="height: 29px"><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" /> [GetResultIndicator](amfDdsRecordClassGetResultIndicatorMethod.html)</td>
             <td style="height: 29px">Returns the integer value
             for the result indicator specified.</td>
           </tr>
           <tr>
-            <td><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [IsAidKeyInEffect](amfDdsRecordClassIsAidKeyInEffectMethods.html)</td>
+            <td><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" /> [IsAidKeyInEffect](amfDdsRecordClassIsAidKeyInEffectMethods.html)</td>
             <td>Overloaded. Returns a
             boolean value indicating if the specific key or
             indicator is in effect. If in effect, the
@@ -67,7 +67,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             also returned.</td>
           </tr>
           <tr>
-            <td><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" />
+            <td><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" />
             [
             IsNotFalse](amfDdsRecordClassIsNotFalseMethods.html)</td>
             <td>Overloaded. Returns 
@@ -75,17 +75,17 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             for a specific field is not false.</td>
           </tr>
           <tr>
-            <td><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [IsTrue](amfDdsRecordClassIsTrueMethods.html)</td>
+            <td><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" /> [IsTrue](amfDdsRecordClassIsTrueMethods.html)</td>
             <td>Overloaded. Returns 
  **true**  if the condition or the condition
             for a specific field is true.</td>
           </tr>
           <tr>
-            <td><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [ReadBrowser](amfDdsRecordClassReadBrowserMethod.html)</td>
+            <td><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" /> [ReadBrowser](amfDdsRecordClassReadBrowserMethod.html)</td>
             <td>Reads the browser.</td>
           </tr>
           <tr>
-            <td><img alt="public methods" src="../Images/Methods.bmp" width="16" height="16" border="0" /> [WasAidKeyInEffect](amfDdsRecordClassWasAidKeyInEffectMethods.html)</td>
+            <td><img alt="public methods" src="Images/Methods.bmp" width="16" height="16" border="0" /> [WasAidKeyInEffect](amfDdsRecordClassWasAidKeyInEffectMethods.html)</td>
             <td>Overloaded. Returns a
             boolean value indicating if the specific key or
             indicator expression was in effect for the
@@ -105,12 +105,12 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Alias](amfDdsRecordClassAliasProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Alias](amfDdsRecordClassAliasProperty.html)</td>
             <td>Gets or sets an alternate
             format name to be used by the compiler.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AttnKeys](amfDdsRecordClassAttnKeysProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AttnKeys](amfDdsRecordClassAttnKeysProperty.html)</td>
             <td>Gets or sets the keys the
             user can press, the message to be displayed, and the
             response indicators to turn on. No input data is

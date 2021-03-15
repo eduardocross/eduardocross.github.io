@@ -23,7 +23,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Create](dcsIAdgObjectClassCreateMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ Create](dcsIAdgObjectClassCreateMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Creates a new database object reflecting the current state of **IAdgObject** .
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Duplicate](dcsIAdgObjectClassDuplicateMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Duplicate](dcsIAdgObjectClassDuplicateMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Creates a duplicate of the database object represented by **IAdgObject** , with 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [GrantAuthority](dcsIAdgObjectClassGrantAuthorityMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [GrantAuthority](dcsIAdgObjectClassGrantAuthorityMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ Adds a user authorization to a database object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Lock](dcsIAdgObjectClassLockMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Lock](dcsIAdgObjectClassLockMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ Engages the database provider's object locking facility to set a lock restrictin
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [MoveTo](dcsIAdgObjectClassMoveToMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [MoveTo](dcsIAdgObjectClassMoveToMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ Moves a database library or file represented by **IAdgObject** to a specified li
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadBases](dcsIAdgObjectClassReadBasesMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadBases](dcsIAdgObjectClassReadBasesMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ Sets base object information for the **IAdgObject** by reading an XML document f
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Remove](dcsIAdgObjectClassRemoveMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Remove](dcsIAdgObjectClassRemoveMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ Removes an existing database object from the database.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Rename](dcsIAdgObjectClassRenameMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Rename](dcsIAdgObjectClassRenameMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ Renames an object without changing its location in the database.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [RevokeAuthority](dcsIAdgObjectClassRevokeAuthorityMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [RevokeAuthority](dcsIAdgObjectClassRevokeAuthorityMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -113,7 +113,7 @@ Removes a previously granted or denied user authorization to a database object.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ToString](dcsIAdgObjectClassToStringMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ToString](dcsIAdgObjectClassToStringMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -123,7 +123,7 @@ Returns the path name of the database object represented by **IAdgObject** .
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Unlock](dcsIAdgObjectClassUnlockMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [Unlock](dcsIAdgObjectClassUnlockMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -133,7 +133,7 @@ Reverses the effects of a previously successful [ Lock](dcsIAdgObjectClassLockMe
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteBases](dcsIAdgObjectClassWriteBasesMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteBases](dcsIAdgObjectClassWriteBasesMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -143,7 +143,7 @@ Creates an XML document fragment describing the base objects of a single databas
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteXml](dcsIAdgObjectClassWriteXmlMethods.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteXml](dcsIAdgObjectClassWriteXmlMethods.html)
 </td>
             <td colspan="1" rowspan="1">
 

@@ -26,7 +26,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsGeolocation](amfDdsClassConstructors.html)</td>
             <td style="height: 31px">Creates a new instance of a DdsGeolocation.</td>
           </tr>
@@ -53,7 +53,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
 			AccuracyFieldLength and AccuracyFieldDecimals.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AccuracyFieldLength](amfDdsGeolocationClassAccuracyFieldLengthProperty.html)</td>
             <td>Gets or sets the length of the AccuracyField.</td>

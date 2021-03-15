@@ -27,7 +27,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [AttnID](amfDdsFileClassAttnIdProperty.html)
             </td>
             <td>Gets the identification of
@@ -35,7 +35,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             control.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               AttnKeys](amfDdsFileClassAttnKeysProperty.html)
             </td>
@@ -85,7 +85,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             key other than "enter".</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               CursorField](amfDdsFileClassCursorFieldProperty.html)
             </td>
@@ -94,7 +94,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             position.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               CursorLocation](amfDdsFileClassCursorLocationProperty.html)
             </td>
@@ -102,7 +102,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             cursor within the current field.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               CursorRecord](amfDdsFileClassCursorRecordProperty.html)
             </td>
@@ -112,7 +112,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
           <tr>
-            <td style="height: 52px"><img alt="public property" src="../Images/property.bmp" /> [DisableControlsOnSubmit](amfDdsFileClassDisableControlsOnSubmitProperty.html)</td>
+            <td style="height: 52px"><img alt="public property" src="Images/property.bmp" /> [DisableControlsOnSubmit](amfDdsFileClassDisableControlsOnSubmitProperty.html)</td>
             <td style="height: 52px">Gets or sets the
             boolean value to disable or enable web
             controls when submitting the form.  The default
@@ -120,7 +120,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
  **True** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" /> [DisplayErrorMessages](amfDdsFileClassDisplayErrorMessagesProperty.html)</td>
+            <td><img alt="public property" src="Images/property.bmp" /> [DisplayErrorMessages](amfDdsFileClassDisplayErrorMessagesProperty.html)</td>
             <td>Gets or sets a boolean
             value 
  **True**  if messages will be rendered
@@ -173,7 +173,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <td>Gets or sets the width (in pixels) to apply to a Windowed record file.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               PopUpWindows](amfDdsFileClassPopUpWindowsProperty.html)
             </td>
@@ -196,7 +196,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
 	  saved when the file is suspended.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               SetDefaultFocus](amfDdsFileClassSetDefaultFocusProperty.html)
             </td>
@@ -223,7 +223,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" /> [ValidateError](amfDdsFileClassValidateErrorProperty.html)</td>
+            <td><img alt="public property" src="Images/property.bmp" /> [ValidateError](amfDdsFileClassValidateErrorProperty.html)</td>
             <td>Gets a boolean value 
  **True**  if there is a validation
             error, otherwise 

@@ -22,16 +22,16 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsDataField class
           </tr>
 
           <tr>
-<td><img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />  [  Alias](amfDdsDataFieldClassAliasProperty.html)</td>
+<td><img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />  [  Alias](amfDdsDataFieldClassAliasProperty.html)</td>
  <td>Gets or sets an alternate field name for the field.</td>
           </tr>
-          <tr><td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsDataFieldClassAutoPostBackProperty.html)</td>
+          <tr><td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsDataFieldClassAutoPostBackProperty.html)</td>
  <td>Gets or sets a boolean value that if true, causes the control to generate a post back to the server when the field is output-only.</td>
           </tr>
-          <tr><td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDataFieldClassAutoPostBackKeyProperty.html)</td>
+          <tr><td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDataFieldClassAutoPostBackKeyProperty.html)</td>
  <td>Gets or sets the aidkey to return to the server when <a> **AutoPostBack** </a> is True.</td>
           </tr>
-          <tr><td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" />  [  ChangeInd](amfDdsDataFieldClassChangeIndProperty.html)</td>
+          <tr><td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" />  [  ChangeInd](amfDdsDataFieldClassChangeIndProperty.html)</td>
  <td>Gets or sets the response indicator to set 'on' when this field changes.</td>
           </tr>
           <tr>

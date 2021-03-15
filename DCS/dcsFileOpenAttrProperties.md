@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ BlockingFactor](dcsFileOpenAttrClassBlockingFactorProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ BlockingFactor](dcsFileOpenAttrClassBlockingFactorProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Specify network blocking feature in the open file.
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FileLocks](dcsFileOpenAttrClassFileLocksProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FileLocks](dcsFileOpenAttrClassFileLocksProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Specify record locking mechanisms in opened files.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FormatIDs](dcsFileOpenAttrClassFormatIDsProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ FormatIDs](dcsFileOpenAttrClassFormatIDsProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ The set of binary format identifiers associated with the set of formats availabl
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ InhibitWrites](dcsFileOpenAttrClassInhibitWriteProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ InhibitWrites](dcsFileOpenAttrClassInhibitWriteProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ Specify write-access enabling on the open file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ ShareTypes](dcsFileOpenAttrClassShareTypesProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ ShareTypes](dcsFileOpenAttrClassShareTypesProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ Specify concurrent access on the open file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForEOF](dcsFileOpenAttrClassWaitForEOFProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForEOF](dcsFileOpenAttrClassWaitForEOFProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ Time, in seconds, that a process will wait for more records at end of file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForFile](dcsFileOpenAttrClassWaitForFileProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForFile](dcsFileOpenAttrClassWaitForFileProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ Time, in seconds, that a process will wait to access a file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForRecord](dcsFileOpenAttrClassWaitForRecordProperty.html) 
+<img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" /> [ WaitForRecord](dcsFileOpenAttrClassWaitForRecordProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

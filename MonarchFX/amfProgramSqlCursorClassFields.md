@@ -23,7 +23,7 @@ keywords: SqlCursor class, fields
             <th>Field</th>
             <th>Description</th>
           </tr>          <tr valign="top">
-            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img2" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
             ScrollType](amfProgramSqlCursorClassScrollTypeField.html)
             </td>
@@ -33,7 +33,7 @@ keywords: SqlCursor class, fields
           the type of scrolling for the cursor.</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img3" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="16" border="0" x-maintain-ratio="TRUE" />
               [
             SelectStatement](amfProgramSqlCursorClassSelectStatementField.html)
             </td>
@@ -42,7 +42,7 @@ keywords: SqlCursor class, fields
           created.</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img5" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" border="0" x-maintain-ratio="TRUE" />
               [SQLCA](amfProgramSqlCursorClassSQLCAField.html)
             </td>
             <td>[
@@ -50,7 +50,7 @@ keywords: SqlCursor class, fields
           run-time errors for the SqlCursor.</td>
           </tr>
           <tr valign="top">
-            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="../Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
+            <td><img id="Img4" style="WIDTH: 16px; HEIGHT: 16px" alt="fields" src="Images/Field.bmp" width="15" border="0" x-maintain-ratio="TRUE" />
               [
             SqlQueryResults](amfProgramSqlCursorClassSqlQueryResultsField.html)
             </td>

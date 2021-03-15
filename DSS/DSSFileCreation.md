@@ -39,7 +39,7 @@ When a simple logical file is created, it is possible to establish the underlyin
 - Select individual columns from the table.
 - Select all columns via a '<code>Select * from TableX</code>' by checking the 'Clone base file fields in new format' check box.
 
-<img alt="" border="0" width="381" height="355" src="../images/dss_image016.jpg" />
+<img alt="" border="0" width="381" height="355" src="Images/dss_image016.jpg" />
 
 In either case, the <code> **SCHEMABINDING** </code> option is not used; this permits the table to be altered, thus new columns can be added to an existing table without having to drop the views first. However, SQL Server does not reflect the new columns in the corresponding views (those with the 'Select * ' command) until such views are recreated. 
 

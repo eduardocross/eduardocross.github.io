@@ -24,7 +24,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           <th>Description</th>
           </tr>
         	<tr>
-            <td style="height: 31px; width: 218px;">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [ActualMode](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
+            <td style="height: 31px; width: 218px;">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [ActualMode](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -34,7 +34,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             fold state of the subfile control.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             Alias](amfDdsRecordClassAliasProperty.html)</td>
             <td>Gets or sets an alternate
@@ -42,7 +42,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsRecord.)</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [
               AttnKeys](amfDdsRecordClassAttnKeysProperty.html)
             </td>
@@ -53,7 +53,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             DdsRecord.)</td>
           </tr>
             <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" class="auto-style1" /> [BackImgURL](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.backcolor(v=vs.110).aspx">BackColor</a></td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" class="auto-style1" /> [BackImgURL](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.backcolor(v=vs.110).aspx">BackColor</a></td>
             <td>Sets the background for this control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -106,7 +106,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <td>Determines whether clicking will set the current record.</td>
             </tr>
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [CommandKeyInd](amfDdsRecordClassCommandKeyIndProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [CommandKeyInd](amfDdsRecordClassCommandKeyIndProperty.html)</td>
             <td>Gets or sets the response
             indicator to set 'on' when the user presses any command
             key other than "enter". (Inherited from
@@ -119,7 +119,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [CursorField](amfDdsRecordClassCursorFieldProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [CursorField](amfDdsRecordClassCursorFieldProperty.html)</td>
             <td>Gets or sets the field
             name that contains the name of the field
             where the cursor is located. (Inherited from
@@ -326,27 +326,27 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <td>Sets the columns of the subfile.</td>
             </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SflDropKey](amfDdsSubfileControlClassSflDropKeyProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SflDropKey](amfDdsSubfileControlClassSflDropKeyProperty.html)</td>
             <td>Gets or sets the function
             key to press to switch between
             a truncated and folded display of the
             subfile record.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SflFoldKey](amfDdsSubfileControlClassSflFoldKeyProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SflFoldKey](amfDdsSubfileControlClassSflFoldKeyProperty.html)</td>
             <td>Gets or sets the function
             key to press to switch between
             a folded and truncated display of the subfile
             record.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SflMode](amfDdsSubfileControlClassSflModeProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SflMode](amfDdsSubfileControlClassSflModeProperty.html)</td>
             <td>Gets or sets the name
             of the field in which the state of the subfile will be
             contained.</td>
           </tr>
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> S[howRecordAtTop](amfDdsSubfileControlClassShowRecordAtTopProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> S[howRecordAtTop](amfDdsSubfileControlClassShowRecordAtTopProperty.html)</td>
             <td>Gets or sets a boolean
             value to indicate if the record number, contained
             in the hidden field in the 
@@ -389,7 +389,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             form.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SubfileFold](amfDdsSubfileControlClassSubfileFoldProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SubfileFold](amfDdsSubfileControlClassSubfileFoldProperty.html)</td>
             <td>Gets or sets a set of
             conditional indicators that determine when
             the display of the subfile records is in folded

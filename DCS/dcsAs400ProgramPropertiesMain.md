@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ Connection](dcsAs400ProgramClassConnectionProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ Connection](dcsAs400ProgramClassConnectionProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ The [AdgConnection](dcsAdgConnectionClass.html) object of the database server ho
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ Parameters](dcsAs400ProgramClassParametersProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ Parameters](dcsAs400ProgramClassParametersProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Contains the description and value of program parameters.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [ ProgramPath](dcsAs400ProgramClassProgramPathProperty.html) 
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [ ProgramPath](dcsAs400ProgramClassProgramPathProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

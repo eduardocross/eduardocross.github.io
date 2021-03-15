@@ -23,7 +23,7 @@ keywords: fields [ASNA.Monarch], Message class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img class="hcp4" height="16" alt="public field" src="../Images/field.bmp" width="16" border="0" />
+            <td><img class="hcp4" height="16" alt="public field" src="Images/field.bmp" width="16" border="0" />
               [
             Data](amfMessageClassDataField.html)
             </td>
@@ -32,7 +32,7 @@ keywords: fields [ASNA.Monarch], Message class
           the substitution variables for the message.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public field" src="../Images/field.bmp" width="16" border="0" />
+            <td><img height="16" alt="public field" src="Images/field.bmp" width="16" border="0" />
               [
             Id](amfMessageClassIdField.html)
             </td>
@@ -40,7 +40,7 @@ keywords: fields [ASNA.Monarch], Message class
           identifier for a predefined message.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public field" src="../Images/field.bmp" width="16" border="0" />
+            <td><img height="16" alt="public field" src="Images/field.bmp" width="16" border="0" />
               [
             Key](amfMessageClassKeyField.html)
             </td>
@@ -48,7 +48,7 @@ keywords: fields [ASNA.Monarch], Message class
           message identification key.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public field" src="../Images/Field.bmp" width="16" border="0" />
+            <td><img height="16" alt="public field" src="Images/Field.bmp" width="16" border="0" />
               [
             MessageFile](amfMessageClassMessageFileField.html)
             </td>
@@ -56,7 +56,7 @@ keywords: fields [ASNA.Monarch], Message class
           the Message File in which the message is contained.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public field" src="../Images/Field.bmp" width="16" border="0" />
+            <td><img height="16" alt="public field" src="Images/Field.bmp" width="16" border="0" />
               [
             MessageType](amfMessageClassMessageTypeField.html)
             </td>
@@ -65,7 +65,7 @@ keywords: fields [ASNA.Monarch], Message class
           value indicating the type of message.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public field" src="../Images/Field.bmp" width="16" border="0" />
+            <td><img height="16" alt="public field" src="Images/Field.bmp" width="16" border="0" />
               [
             Text](amfMessageClassTextField.html)
             </td>

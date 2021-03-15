@@ -24,7 +24,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsUploader class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
 			<tr>
-            <td style="height: 31px; width: 218px;">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [Directory](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
+            <td style="height: 31px; width: 218px;">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [Directory](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -65,19 +65,19 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsUploader class
             <td style="height: 31px">Gets or sets a string that defines the IFS location of the upload storage.</td>
             </tr>
 			<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [DirectoryField](amfDdsUploaderClassDirectoryFieldProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [DirectoryField](amfDdsUploaderClassDirectoryFieldProperty.html)</td>
             <td style="height: 31px">Gets or sets the IFS path to a field that defines the location of the upload storage.
 			</td>
             </tr>
             		<tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [DirectoryFieldLength](amfDdsUploaderClassDirectoryFieldLengthProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [DirectoryFieldLength](amfDdsUploaderClassDirectoryFieldLengthProperty.html)</td>
             <td style="height: 31px">Gets or sets the length of the 
 			[DirectoryField](amfDdsUploaderClassDirectoyFieldProperty.html) that 
 			contains the uploaded files.</td>
             </tr>
 
             <tr>
-            <td style="width: 218px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [NameField](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.enabled(v=vs.110).aspx">Enabled</a></td>
+            <td style="width: 218px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [NameField](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.enabled(v=vs.110).aspx">Enabled</a></td>
             <td>Sets whether or not the control is enabled. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -110,14 +110,14 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsUploader class
             <td>Gets or sets the IFS path to a field that contaims the name of the uploded files.</td>
             </tr>
 			<tr>
-            <td style="width: 219px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [NameFieldLength](amfDdsUploaderClassNameFieldLengthProperty.html)</td>
+            <td style="width: 219px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [NameFieldLength](amfDdsUploaderClassNameFieldLengthProperty.html)</td>
             <td>Gets or sets the length of the [NameField](amfDdsUploaderClassNameFieldProperty.html) that 
 			contains the uploaded file name info to 
 			be displayed.</td>
             </tr>
 
 			<tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [UploadCaption](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [UploadCaption](http://msdn.microsoft.com/en-us/library/system.web.ui.control.skinid(v=vs.110).aspx">SkinID</a></td>
             <td style="height: 31px">Gets or sets the skin to use on the control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -139,23 +139,23 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsUploader class
             </tr>
 
                     <tr>
-            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadImageType](amfDdsUploaderClassUploadImageTypeProperty.html)</td>
+            <td style="height: 31px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadImageType](amfDdsUploaderClassUploadImageTypeProperty.html)</td>
             <td style="height: 31px">Sets the filetype to convert to when uploading.</td>
             </tr>
 			<tr>
-            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadMaxH<span class="auto-style1">eight</span>](amfDdsUploaderClassUploadedNameFieldProperty.html)</td>
+            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadMaxH<span class="auto-style1">eight</span>](amfDdsUploaderClassUploadedNameFieldProperty.html)</td>
             <td style="height: 29px">Sets the vertical measurement to reduce the 
 			image to (in pixels).</td>
             </tr>
 
 			<tr>
-            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UploadM<span class="auto-style1">axWidth</span>](amfDdsUploaderClassUploadedNameFieldProperty.html)</td>
+            <td style="height: 29px; width: 219px;"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UploadM<span class="auto-style1">axWidth</span>](amfDdsUploaderClassUploadedNameFieldProperty.html)</td>
             <td style="height: 29px">Sets the horizontal measurement to reduce 
 			the image to (in pixels).</td>
             </tr>
 
 			<tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [VisibleCondition](http://msdn.microsoft.com/en-us/library/system.web.ui.control.validaterequestmode(v=vs.110).aspx">ValidateRequestMode</a></td>
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [VisibleCondition](http://msdn.microsoft.com/en-us/library/system.web.ui.control.validaterequestmode(v=vs.110).aspx">ValidateRequestMode</a></td>
             <td style="height: 31px">Sets whether the control checks client input from the browser for potentially dangerous values. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>

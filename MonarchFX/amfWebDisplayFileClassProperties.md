@@ -25,7 +25,7 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               AttnID](amfWebDisplayFileClassAttnIDProperty.html)</code>
             </td>
@@ -34,7 +34,7 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
             subfile table.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               DataSet](amfWebDisplayFileClassdataSetProperty.html)</code>
             </td>
@@ -45,7 +45,7 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
  **WebDisplayFile** .</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               DisplayErrorMessages](amfWebDisplayFileClassDisplayErrorMessagesProperty.html)</code>
             </td>
@@ -53,14 +53,14 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
             indicating if error messages are to be displayed.</td>
           </tr>
 		  <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackActiveWindowCursor](amfWebDisplayFileClassFeedbackActiveWindowCursor.html)
 			              </td>
             <td>Gets the value of cursor coordinates relative to the Active Window/Popup.</td>
 			  </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               FeedbackAID](amfWebDisplayFileClassFeedbackAIDProperty.html)</code>
             </td>
@@ -69,7 +69,7 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
             field on the web form.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               FeedbackCursor](amfWebDisplayFileClassFeedbackCursorProperty.html)</code>
             </td>
@@ -78,7 +78,7 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
             field on the web form.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               FeedbackField](amfWebDisplayFileClassFeedbackFieldProperty.html)</code>
             </td>
@@ -86,7 +86,7 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
             field for which the feedback is to be provided.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               FeedbackFlags](amfWebDisplayFileClassFeedbackFlagsProperty.html)</code>
             </td>
@@ -95,27 +95,27 @@ keywords: properties [ASNA.Monarch], WebDisplayFile class
             form.</td>
           </tr>
 		  		   <tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackLowestSubfile](amfWebDisplayFileClassFeedbackLowestSubfileProperty.html)
             </td>
             <td style="height: 28px">Gets the lowest subfile used to provide feedback.</td>
           </tr>
 		  	<tr>
-            <td style="height: 28px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="height: 28px"><img alt="public property" src="Images/property.bmp" />
               [
               FeedbackSubfileCursorRRN](amfWebDisplayFileClassFeedbackSubfileCursorRRNProperty.html)</td>
 			 <td>Gets the Subfile Record row number where the cursor is currently located.</td>
 			 </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" /> 
+            <td><img alt="public property" src="Images/property.bmp" /> 
             <code>[
             LastFormatName](amfWebDisplayFileClassLastFormatNameProperty.html)</code></td>
             <td>Gets or sets the last
             format name for the Display File.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               <code>[
               ResetKeyIndicators](amfWebDisplayFileClassResetKeyIndicatorsProperty.html)</code>
             </td>

@@ -33,7 +33,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl. 
             </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" /> <a href="amfDdsButtonClassAidKeyProperty.html)</td>
+            <td><img alt="public property" src="Images/property.bmp" /> <a href="amfDdsButtonClassAidKeyProperty.html)</td>
             <td>Gets or sets
             the function key defined in the 
  **DdsRecord**  to which this button control

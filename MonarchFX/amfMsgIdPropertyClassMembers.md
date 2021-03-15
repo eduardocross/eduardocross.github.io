@@ -23,7 +23,7 @@ keywords: ASNA.Monarch.WebDspF.MsgIdProperty class
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               MsgIdProperty](amfMsgIdPropertyClassConstructors.html)
             </td>
@@ -44,7 +44,7 @@ keywords: ASNA.Monarch.WebDspF.MsgIdProperty class
               <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               GetValidValues](amfMsgIdPropertyClassGetValidValuesMethod.html)
             </td>
@@ -53,7 +53,7 @@ keywords: ASNA.Monarch.WebDspF.MsgIdProperty class
  **MsgIdProperty**  object.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               NewInstance](amfMsgIdPropertyClassNewInstanceMethod.html)
             </td>

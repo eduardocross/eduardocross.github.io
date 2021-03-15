@@ -57,7 +57,7 @@ A ***condition*** is an expression involving indicators and operators. The speci
 
 To use the tool, the checkboxes represent the state of the 99 indicators where checked means *True (on) and unchecked means *False (off). You enter an expression and click the " **Evaluate** " button to see the result. Any runtime exceptions that may be thrown due to an invalid expression are shown in the textbox at the bottom of the dialog box.
 <dl>
-          <dd>![Monarch Web Control Indicator Expression Tester](../Images/zzIndicatorExpressionTester.JPG) </dd>
+          <dd>![Monarch Web Control Indicator Expression Tester](Images/zzIndicatorExpressionTester.JPG) </dd>
 </dl>
 
 #### Next: [Monarch Framework ASPX Session Overview](amfconFrameworkASPXSessionOverview.html)

@@ -26,7 +26,7 @@ This document contains all members listed for the class.
           </tr>
           <tr>
             <td>
-              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/methods.bmp" width="16" border="0" />
+              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/methods.bmp" width="16" border="0" />
               [
               ActivationGroupAttribute](amfActivationGroupAttributeClassConstructors.html)
             </td>
@@ -48,7 +48,7 @@ This document contains all members listed for the class.
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td>              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td>              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               GroupName](amfActivationGroupAttributeClassGroupNameProperty.html)
             </td>

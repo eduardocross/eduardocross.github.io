@@ -22,7 +22,7 @@ keywords: session, using Page_Load
 
 **!EoJ** is an application "End of Job" page. Use !Eoj to redirect the user to the main menu or home page. This file is replaceable by the Migrator and is delivered as "!EoJ.aspx", "!EoJ.aspx.vr" (AVR), "!EoJ.aspx.vb" (Visual Basic), and "!EoJ.aspx.cs" (C#).
 <dl>
-        <dd>![end of job image](../Images/Eoj1.jpg)</dd>
+        <dd>![end of job image](Images/Eoj1.jpg)</dd>
 </dl>
 
 #### Example

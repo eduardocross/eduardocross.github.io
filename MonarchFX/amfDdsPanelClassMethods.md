@@ -23,7 +23,7 @@ keywords: methods [ASNA.Monarch.WebDspF], DdsPanel class
           </tr>
           <tr valign="top">
             <td><img
- class="hcp4" alt="public methods" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+ class="hcp4" alt="public methods" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               ResetVisibleCondition](amfDdsPanelClassResetVisibleConditionMethod.html)
             </td>

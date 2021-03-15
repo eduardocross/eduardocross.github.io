@@ -25,7 +25,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
           </tr>
 
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [<code>Call</code>](amfCommandClassCallMethods.html)
             </td>
             <td>Overloaded. Call allows
@@ -33,7 +33,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             program functions within a Job.</td>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>CallSilent</code>](amfCommandClassCallSilentMethod.html)
             </td>
@@ -43,7 +43,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             file in the browser.</td>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>GetLdaField</code>](amfCommandClassGetLdaFieldMethod.html)
             </td>
@@ -52,7 +52,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             area).  </td>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>GetLdcObject</code>](amfCommandClassGetLdcObjectMethod.html)
             </td>
@@ -61,7 +61,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             (local data collection).</td>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>PushKeyFocus</code>](amfCommandClassPushKeyFocusMethod.html)
             </td>
@@ -72,7 +72,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             by those parameters.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>RemoveLdcObject</code>](amfCommandClassRemoveLdcObjectMethod.html)
             </td>
@@ -80,7 +80,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             from the jobs' LDC (local data collection).</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>RequestShutdown</code>](amfCommandClassRequestShutdownMethod.html)
             </td>
@@ -89,14 +89,14 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             ended.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [<code>Return</code>](amfCommandClassReturnMethod.html)
             </td>
             <td>Returns a job to procedural
             processing.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>SetLdaField</code>](amfCommandClassSetLdaFieldMethod.html)
             </td>
@@ -105,7 +105,7 @@ This topic contains a listing of the methods in the [Command Class](amfCommandCl
             data area).  </td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>SetLdcObject</code>](amfCommandClassSetLdcObjectMethod.html)
             </td>

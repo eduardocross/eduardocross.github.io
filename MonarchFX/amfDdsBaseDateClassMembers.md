@@ -26,7 +26,7 @@ This document lists all the members for the class.
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsBaseDate](amfDdsBaseDateClassConstructors.html)
             </td>
             <td>Creates a new instance of a
@@ -55,7 +55,7 @@ This document lists all the members for the class.
             output-only.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsBaseDateClassAutoPostBackKeyProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsBaseDateClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the
             aidkey to return to the server when 
             <a> **AutoPostBack** </a> is True.</td>
@@ -225,12 +225,12 @@ This document lists all the members for the class.
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td><img  alt="public method" src="../Images/Methods.bmp" width="16" border="0" /> [GetDateFormat](amfDdsBaseDateClassGetDateFormatMethod.html)</td>
+            <td><img  alt="public method" src="Images/Methods.bmp" width="16" border="0" /> [GetDateFormat](amfDdsBaseDateClassGetDateFormatMethod.html)</td>
             <td>Retrieves the format for
             the date control field.</td>
           </tr>
           <tr valign="top">
-            <td><img  alt="public method" src="../Images/Methods.bmp" width="16" border="0" />[
+            <td><img  alt="public method" src="Images/Methods.bmp" width="16" border="0" />[
               LoadPostData](amfDdsBaseDateClassLoadPostDataMethod.html)
             </td>
             <td>Processes post back data

@@ -21,7 +21,7 @@ keywords: IFileObject class, properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [MemberCount](dcsIFileObjectClassMemberCountProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [MemberCount](dcsIFileObjectClassMemberCountProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -31,7 +31,7 @@ keywords: IFileObject class, properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Members](dcsIFileObjectClassMembersProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Members](dcsIFileObjectClassMembersProperty.html)
 </td>
             <td colspan="1" rowspan="1">
  **Members** is an array of [IMember](dcsIMemberClass.html)

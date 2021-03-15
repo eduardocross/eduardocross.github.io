@@ -101,7 +101,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             </tr>
 
                     <tr>
-            <td style="width: 196px; height: 31px;"><img alt="public property" src="../Images/property.bmp" />
+            <td style="width: 196px; height: 31px;"><img alt="public property" src="Images/property.bmp" />
               [
               GroupingTextField](amfDdsPanelClassGroupingTextFieldProperty.html)
             </td>
@@ -110,7 +110,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
                     <tr>
-            <td style="width: 196px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="width: 196px"><img alt="public property" src="Images/property.bmp" />
               [
               GroupingTextFieldLength](amfDdsPanelClassGroupingTextFieldLengthProperty.html)
             </td>
@@ -159,7 +159,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             </tr>
 
           <tr>
-            <td style="width: 196px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="width: 196px"><img alt="public property" src="Images/property.bmp" />
               <a href="amfDdsPanelClassVisibleProperty.html)
             </td>
             <td>Gets or sets a boolean
@@ -167,7 +167,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             the page.</td>
           </tr>
             <tr>
-            <td style="width: 196px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="width: 196px"><img alt="public property" src="Images/property.bmp" />
               [
               VisibleCondition](amfDdsPanelClassVisibleConditionProperty.html)
             </td>

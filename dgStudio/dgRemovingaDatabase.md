@@ -37,7 +37,7 @@ If you have insufficient authority to remove the database, the command will fail
 4. Select the **<u>R</u>emove**  button to remove the selected database. The Remove a Database dialog
 					box will display to confirm the database to remove.
 
-![](../images/DeleteUnlabelDatabaseDialog.bmp)
+![](Images/DeleteUnlabelDatabaseDialog.bmp)
 
 **Note** - The Remove Database Dialog can also be accessed by right-clicking a database in the DataGate Explorer treeview and selecting **Remove** .
 5. Select the **<u>D</u>elete the Database**  option to unlabel AND delete the database files and folders.

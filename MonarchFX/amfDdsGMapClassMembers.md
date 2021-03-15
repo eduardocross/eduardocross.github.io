@@ -26,7 +26,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsGMap](amfDdsGMapClassConstructors.html)
             </td>
             <td>Creates a new instance of a DdsGMap.</td>
@@ -52,12 +52,12 @@ This member's page does not include members inherited from System.Web.UI.WebCont
 	  data will be drawn.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AddressFieldLength](amfDdsGMapClassAddressFieldLengthProperty.html)</td>
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AddressFieldLength](amfDdsGMapClassAddressFieldLengthProperty.html)</td>
             <td>Gets or sets an integer value that defines the length of the 
 			AddressField from which the data to be displayed is drawn.</td>
           </tr>
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [ClearIndicator](amfDdsGmapClassClearIndicatorProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [ClearIndicator](amfDdsGmapClassClearIndicatorProperty.html)</td>
             <td>Sets the IBM i clear indicator for the subfile underlying the map.</td>
           </tr>
           <tr>
@@ -91,7 +91,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
 			PinIconField.</td>
           </tr>
 		  		  <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [PinLabelField](amfDdsGMapClassPinLabelFieldProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [PinLabelField](amfDdsGMapClassPinLabelFieldProperty.html)</td>
             <td>Gets or sets the IBM i field that the holds the data for the Pin Label.</td>
           </tr>
 		            <tr>

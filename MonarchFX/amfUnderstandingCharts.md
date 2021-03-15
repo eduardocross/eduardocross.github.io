@@ -138,11 +138,11 @@ Column and bar charts function very similarly; the rotation of the axes is the o
 
 Taking the above subfile and using it as the basis of a bar chart yields the following:
 
-<img alt="" src="../Images/img55.jpg" />
+<img alt="" src="Images/img55.jpg" />
 
 Each type of vehicle comprises a Series of data with 3 data points, as does the "sizes" column, and each datapoint is represented by a bar of the color tied to the series. Each rows of data in the subfile makes up a unique cluster of datapoints on the map, called a "datasegment." Things behave similarly if the data is presented as a column chart:
 
-<img alt="" src="../Images/img56.jpg"/>
+<img alt="" src="Images/img56.jpg"/>
 
 The series and datasegments remain the same; only the orientation of the chart is changed.
 
@@ -150,13 +150,13 @@ The series and datasegments remain the same; only the orientation of the chart i
 
 Line charts provide a simple visual shorthand by linking datapoints over time (or another fixed variable). They can save some screen space by presenting a full datasegment on a single vertical axis, but may be more difficult to read depending on the size, closeness, and colors of the lines. When the lines cross, the series listed first will always display on top.
 
-<img alt="" src="../Images/img59.jpg"/>
+<img alt="" src="Images/img59.jpg"/>
 
 **Pie Charts** 
 
 A pie chart, by contrast, uses only the first series, and varying shades of the color tied to the series. In this case it shows only the data for sedans:
 
-<img alt="" src="../Images/img60.jpg"/>
+<img alt="" src="Images/img60.jpg"/>
 
 Pie charts should be used with some care, as they can become difficult to read on a small screen if too many data points are included.
 

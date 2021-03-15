@@ -26,7 +26,7 @@ This page does not include members inherited from System.Web.UI.WebControls.WebC
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsList](amfDdsClassConstructors.html)</td>
             <td>Creates a new instance of a
             DdsList.</td>
@@ -51,7 +51,7 @@ This page does not include members inherited from System.Web.UI.WebControls.WebC
 			divided into Categories.</td>
           </tr>
           <tr>
-            <td style="width: 216px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CategoryField](amfDdsListClassCategoryFieldProperty.html)</td>
+            <td style="width: 216px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CategoryField](amfDdsListClassCategoryFieldProperty.html)</td>
             <td>Gets or sets a CharField in an IBM i record to draw the data for 
 			the Category from.</td>
           </tr>

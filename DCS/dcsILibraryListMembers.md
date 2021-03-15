@@ -23,7 +23,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CurrentSystemLibs](dcsILibraryListClassCurrentSystemLibsProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CurrentSystemLibs](dcsILibraryListClassCurrentSystemLibsProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Returns a string array containing a list of the current system and user portion 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [CurrentUserLibs](dcsILibraryListClassCurrentUserLibsProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [CurrentUserLibs](dcsILibraryListClassCurrentUserLibsProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Sets or returns a string array containing a list of the user portion of the dire
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [SystemConfig](dcsILibraryListClassSystemConfigProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [SystemConfig](dcsILibraryListClassSystemConfigProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ Sets or returns a string array containing a list of the system and user portion 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [UserConfig](dcsILibraryListClassUserConfigProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [UserConfig](dcsILibraryListClassUserConfigProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -74,7 +74,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [AddEntry](dcsILibraryListClassAddEntryMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [AddEntry](dcsILibraryListClassAddEntryMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -84,7 +84,7 @@ Adds a library list entry to a database in the library represented by **ILibrary
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [EnumerateCurrentSystem](dcsILibraryListClassEnumerateCurrentSystemMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [EnumerateCurrentSystem](dcsILibraryListClassEnumerateCurrentSystemMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -94,7 +94,7 @@ Enumerates the object contents of the system and user portion of the library lis
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [EnumerateCurrentUser](dcsILibraryListClassEnumerateCurrentUserMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [EnumerateCurrentUser](dcsILibraryListClassEnumerateCurrentUserMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -104,7 +104,7 @@ Enumerates the object contents of the user portion of the library list represent
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [RemoveEntry](dcsILibraryListClassRemoveEntryMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [RemoveEntry](dcsILibraryListClassRemoveEntryMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 

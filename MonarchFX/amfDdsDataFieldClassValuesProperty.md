@@ -39,11 +39,11 @@ For the user to see these **Values** , the [ ValuesStyle](amfDdsDataFieldClassVa
 
 For example, using **A B C D** in **Values** , **Add Browse Change Delete** in **ValuesText** , and **DropDownBoth** in **ValuesStyle** , the user would see the following in the field:
 
-<img alt="" src="../Images/DropdownBoth.jpg" border="0" /> 
+<img alt="" src="Images/DropdownBoth.jpg" border="0" /> 
 
 Changing **ValuesStyle** to **DropdownValues** , the following will display:
 
-<img alt="" src="../Images/Values_entries.jpg" border="0" /> 
+<img alt="" src="Images/Values_entries.jpg" border="0" /> 
 
 ***Note:** If there are no entries in the **Values** property, then regardless if there are entries for the **ValuesStyle** and **ValuesText** properties, they will be disregarded and the field will display as a **TextBox** .* 
 

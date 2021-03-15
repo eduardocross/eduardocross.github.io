@@ -24,7 +24,7 @@ A listing of the properties in the Page Class.
           </tr>
 
           <tr valign="top">
-            <td><img class="hcp4" alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img class="hcp4" alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [DataSet](amfPageClassDataSetProperty.html)
             </td>
             <td>Gets an instance of 
@@ -32,7 +32,7 @@ A listing of the properties in the Page Class.
             in-memory cache of data.</td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               RunProgram](amfPageClassRunProgramProperty.html)
             </td>

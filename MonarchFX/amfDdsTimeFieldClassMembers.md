@@ -24,7 +24,7 @@ This member's page does not includes inherited members from System.Web.UI.WebCon
               <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img height="16" alt="public method" src="../Images/Methods.bmp" width="16" border="0" />
+            <td><img height="16" alt="public method" src="Images/Methods.bmp" width="16" border="0" />
               [
               DdsTimeField](amfDdsTimeFieldClassConstructors.html)
             </td>
@@ -42,7 +42,7 @@ This member's page does not includes inherited members from System.Web.UI.WebCon
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" width="16" height="16" border="0" />  
+            <td><img alt="public method" src="Images/Methods.bmp" width="16" height="16" border="0" />  
             [
             LoadPostData](amfDdsTimeFieldClassLoadPostDataMethod.html)</td>
             <td>Processes post back data
@@ -52,7 +52,7 @@ This member's page does not includes inherited members from System.Web.UI.WebCon
  **False** .</td>
           </tr>
           <tr>
-            <td><img alt="public method" src="../Images/Methods.bmp" width="16" height="16" border="0" />  
+            <td><img alt="public method" src="Images/Methods.bmp" width="16" height="16" border="0" />  
             [
             ValueToString](amfDdsTimeFieldClassValueToStringMethod.html)</td>
             <td>Return the value for the
@@ -70,20 +70,20 @@ This member's page does not includes inherited members from System.Web.UI.WebCon
           <th>Description</th>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Alias](amfDdsDataFieldClassAliasProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Alias](amfDdsDataFieldClassAliasProperty.html)</td>
             <td>Gets or sets an alternate
             field name for the field. (Inherited from
             DdsDataField.)</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfddsTimeFieldClassAutoPostBackProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfddsTimeFieldClassAutoPostBackProperty.html)</td>
             <td>Gets or sets a boolean
             value that if true, causes the control to generate a
             post back to the server when the field is
             output-only.</td>
           </tr>
           <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
             [
             AutoPostBackKey](amfddsTimeFieldClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the

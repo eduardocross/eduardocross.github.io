@@ -23,7 +23,7 @@ keywords: members [ASNA.Monarch], Program.DBParm class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="../Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
+            <td><img id="IMG1" style="WIDTH: 16px; HEIGHT: 16px" alt="public property" src="Images/Constructor.bmp" width="15" border="0" x-maintain-ratio="TRUE" />  
             [
             DBParm](amfProgramDBParmClassConstructors.html)</td>
             <td>Overloaded. Creates a

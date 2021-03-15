@@ -25,7 +25,7 @@ keywords: properties [ASNA.Monarch], ActivationGroupAttribute class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr valign="top">
-            <td>              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td>              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               GroupName](amfActivationGroupAttributeClassGroupNameProperty.html)
             </td>

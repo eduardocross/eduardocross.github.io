@@ -112,13 +112,13 @@ A field is the smallest unit of data that is recognized and handled by the data 
 
 There is some commonality in the behavior to these fields. Monarch captures this commonality in a class hierarchy as shown in the following diagram.
 <dl><dd>
-        <img id="IMG1" src="../Images/zzFieldHierarchy1.jpg" />
+        <img id="IMG1" src="Images/zzFieldHierarchy1.jpg" />
       </dd></dl>
 
 #### Display Files
 The image below shows a sample of a display file rendered by the browser with the server controls noted.
 <dl><dd>
-        <img id="IMG2" src="../Images/ServerControls.JPG" />
+        <img id="IMG2" src="Images/ServerControls.JPG" />
     </dd></dl>
 
 #### Setting Properties

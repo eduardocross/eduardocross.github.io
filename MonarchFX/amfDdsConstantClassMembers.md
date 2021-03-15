@@ -27,7 +27,7 @@ This member's page does not include inherited properties, methods, or fields. Se
           </tr>
 
           <tr>
-            <td>![](../Images/Methods.bmp" />
+            <td>![](Images/Methods.bmp" />
               [
               DdsConstant](amfDdsConstantClassConstructors.html)
             </td>
@@ -112,7 +112,7 @@ This member's page does not include inherited properties, methods, or fields. Se
 						</td>
 					</tr>
           <tr>
-            <td>![public methods](../Images/property.bmp)
+            <td>![public methods](Images/property.bmp)
               [Text](amfDdsConstantClassTextProperty.html)
             </td>
             <td>Gets or sets a string
@@ -163,7 +163,7 @@ This member's page does not include inherited properties, methods, or fields. Se
             replaced with "&amp;nbsp;".</td>
           </tr>
           <tr>
-            <td>![public methods](../Images/Methods.bmp)[
+            <td>![public methods](Images/Methods.bmp)[
               EncodedNonBlank](amfDdsConstantClassEncodedNonBlankMethod.html)
             </td>
             <td>Takes a string value and
@@ -172,14 +172,14 @@ This member's page does not include inherited properties, methods, or fields. Se
             respectively.</td>
           </tr>
           <tr>
-            <td>![public methods](../Images/Methods.bmp)[
+            <td>![public methods](Images/Methods.bmp)[
               ResetText](amfDdsConstantClassResetTextMethod.html)
             </td>
             <td>Resets the 
  **Text**  property to default values.</td>
           </tr>
 		  <tr>
-		  <td><img src="../Images/property.bmp)
+		  <td><img src="Images/property.bmp)
 		   [Underline](amfDdsFieldClassUnderlineProperty.html)</td>
 		   <td>Applies an underline to the text, and implements the DSPATR:UL keyword. (Inherited from DdsField.)</td>
 		   </tr>

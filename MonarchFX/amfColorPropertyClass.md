@@ -26,7 +26,7 @@ Any public static (Shared) members of this type are safe for multithreaded opera
 ### Remarks
 An instance of **ColorProperty** represents a collection of value/conditions for a field control when the field's [ Color](amfDdsFieldClassColorProperty.html) property is selected causing the **Color Property Editor** dialog to display as shown below.
 
-<img alt="color editor" src="../Images/zzColorPropertyEditor.jpg" /> 
+<img alt="color editor" src="Images/zzColorPropertyEditor.jpg" /> 
 <!-- -->
 
 ### Requirements

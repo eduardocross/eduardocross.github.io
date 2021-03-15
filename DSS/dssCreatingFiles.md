@@ -39,7 +39,7 @@ When a simple logical file is created, it is possible to establish the underlyin
 						in new format' check box.
 						<ul>
 							<li>
-							<img alt="" border="0" height="355" src="../Images/dss_image016.jpg" width="381" />
+							<img alt="" border="0" height="355" src="Images/dss_image016.jpg" width="381" />
 
 </li>
 					</ul>

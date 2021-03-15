@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [MemberCount](dcsIFileObjectClassMemberCountProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [MemberCount](dcsIFileObjectClassMemberCountProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Public Properties
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [Members](dcsIFileObjectClassMembersProperty.html)
+<img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [Members](dcsIFileObjectClassMembersProperty.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -54,7 +54,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1" style="height: 47px">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [Copy](dcsIFileObjectClassCopyMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [Copy](dcsIFileObjectClassCopyMethod.html)
 </td>
             <td colspan="1" rowspan="1" style="height: 47px">
 
@@ -64,7 +64,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [GetAdgDataSet](dcsIFileObjectClassGetAdgDataSetMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [GetAdgDataSet](dcsIFileObjectClassGetAdgDataSetMethod.html)
 
 </td> <td colspan="1" rowspan="1"> <p> **GetAdgDataSet** method returns an instance of [ AdgDataSet](dcsAdgDataSetClass.html) modeling the formats of the database file represented by **IFileObject** .
 </td>
@@ -72,7 +72,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadCreationAttributes](dcsIFileObjectClassReadCreationAttributesMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadCreationAttributes](dcsIFileObjectClassReadCreationAttributesMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -82,7 +82,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadDefinition](dcsIFileObjectClassReadDefinitionMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ReadDefinition](dcsIFileObjectClassReadDefinitionMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -92,7 +92,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [RepairFile](dcsIFileObjectClassRepairFileMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [RepairFile](dcsIFileObjectClassRepairFileMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -102,7 +102,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteCreationAttributes](dcsIFileObjectClassWriteCreationAttributesMethod.html)
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [WriteCreationAttributes](dcsIFileObjectClassWriteCreationAttributesMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 
@@ -112,7 +112,7 @@ Public Methods
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [WriteDefinition](dcsIFileObjectClassWriteDefinitionMethod.html)
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [WriteDefinition](dcsIFileObjectClassWriteDefinitionMethod.html)
 </td>
             <td colspan="1" rowspan="1">
 

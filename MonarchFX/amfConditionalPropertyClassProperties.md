@@ -24,7 +24,7 @@ keywords: properties [ASNA.Monarch.WebDspF], ConditionalProperty class
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />
               [
               Property](amfConditionalPropertyClassPropertyProperty.html)
             </td>

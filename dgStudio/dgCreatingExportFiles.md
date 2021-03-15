@@ -26,7 +26,7 @@ With the DataGate Import/Export tool, you can create a database snapshot of part
 				Import/Export tool window will display.
 2. Click the **New Export**  button on the window™s toolbar. A drop down list of current
 				DataGate Explorer connections is shown.		
-				![](../images/dgImpExpCommands.png)
+				![](Images/dgImpExpCommands.png)
 3. Select the connection to use to export objects and data from. The root library of
 				the database is shown in the main window tree view.
 

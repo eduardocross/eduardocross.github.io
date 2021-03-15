@@ -13,14 +13,14 @@ keywords: Database Field Data Types
 ---
 
 To set the data type of a field in Database File Definition Designer, you must enter a data type keyword, and optional parameters corresponding to the type, in the Data Type cell of the field row, as shown below.
-![](../images/DataTypeCol.bmp)
+![](Images/DataTypeCol.bmp)
 
 As you enter the type, a "most recently used" list of similarly named types may be shown, as with the Packed type in the above example, which can help you quickly enter the type definition.
 
 Also, the Data Type grid cell validates your entry, and displays an error icon on the row if your data type selection is invalid.
 
 Placing your mouse cursor over the error icon will display a pop-up panel detailing the problem, as shown below. The error in this case is that the user has entered an invalid value for the precision of the Packed field.
-![](../images/DataTypeError.bmp)
+![](Images/DataTypeError.bmp)
 
 #### Section summary:
 

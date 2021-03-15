@@ -25,7 +25,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl. 
             <th>Description</th>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
            [
             AccuracyField](amfDdsGeolocationClassAccuracyFieldProperty.html)</td>
             <td>Gets or sets an IBM i number field that determines the accuracy 
@@ -33,7 +33,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl. 
 			AccuracyFieldLength and AccuracyFieldDecimals.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AccuracyFieldLength](amfDdsGeolocationClassAccuracyFieldLengthProperty.html)</td>
             <td>Gets or sets the length of the AccuracyField.</td>

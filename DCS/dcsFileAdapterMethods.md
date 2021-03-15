@@ -23,7 +23,7 @@ Public Methods
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AddRecord](dcsFileAdapterClassAddRecordMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ AddRecord](dcsFileAdapterClassAddRecordMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Adds a record to a file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ChangeCurrent](dcsFileAdapterClassChangeCurrentMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ChangeCurrent](dcsFileAdapterClassChangeCurrentMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ Updates the current database file record with the contents of the specified [Adg
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ChangeRRN](dcsFileAdapterClassChangeRRNMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ChangeRRN](dcsFileAdapterClassChangeRRNMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -53,7 +53,7 @@ Updates the database file record specified by relative record number with the co
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Close](dcsFileAdapterClassCloseMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Close](dcsFileAdapterClassCloseMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -63,7 +63,7 @@ Closes the currently open file (synonymous with **Dispose).**
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteAllRecords](dcsFileAdapterClassDeleteAllRecordsMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteAllRecords](dcsFileAdapterClassDeleteAllRecordsMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -73,7 +73,7 @@ Deletes all records in the file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteCurrent](dcsFileAdapterClassDeleteCurrentMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteCurrent](dcsFileAdapterClassDeleteCurrentMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -83,7 +83,7 @@ Deletes the current record associated with an open file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteKey](dcsFileAdapterClassDeleteKeyMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteKey](dcsFileAdapterClassDeleteKeyMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -93,7 +93,7 @@ Deletes a database file record containing the specified key, if any.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteRange](dcsFileAdapterClassDeleteRangeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteRange](dcsFileAdapterClassDeleteRangeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -103,7 +103,7 @@ Deletes a range of records in an open file.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteRRN](dcsFileAdapterClassDeleteRRNMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ DeleteRRN](dcsFileAdapterClassDeleteRRNMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -113,7 +113,7 @@ Deletes the database file record at the specified position.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Dispose](dcsFileAdapterClassDisposeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Dispose](dcsFileAdapterClassDisposeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -123,7 +123,7 @@ Closes the currently open file (synonymous with **Close** ).
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ForceEOD](dcsFileAdapterClassForceEODMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ForceEOD](dcsFileAdapterClassForceEODMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -133,7 +133,7 @@ Synchronizes the state of the **FileAdapter** object with the open database file
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetPrintProperties](dcsFileAdapterClassGetPrintPropertiesMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetPrintProperties](dcsFileAdapterClassGetPrintPropertiesMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -143,7 +143,7 @@ The [ IPrintProperties](dcsIPrintPropertiesClass.html) associated with the open 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Open](dcsFileAdapterClassOpenMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ Open](dcsFileAdapterClassOpenMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -153,7 +153,7 @@ Open a database file for access with the specified **AdgDataSet** .
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ OpenNewAdgDataSet](dcsFileAdapterClassOpenNewAdgDataSetMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ OpenNewAdgDataSet](dcsFileAdapterClassOpenNewAdgDataSetMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -163,7 +163,7 @@ Opens a database file for access and returns a new <span> **AdgDataset** </span>
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ OpenSimpleQuery](dcsFileAdapterClassOpenSimpleQueryMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ OpenSimpleQuery](dcsFileAdapterClassOpenSimpleQueryMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -173,7 +173,7 @@ Open a database file for access using the specified query and the specified **Ad
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadRandomKey](dcsFileAdapterClassReadRandomKeyMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadRandomKey](dcsFileAdapterClassReadRandomKeyMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -183,7 +183,7 @@ Read a database file record using the specified key.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadRandomRRN](dcsFileAdapterClassReadRandomRRNMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadRandomRRN](dcsFileAdapterClassReadRandomRRNMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -193,7 +193,7 @@ Read the database file record specified.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadRange](dcsFileAdapterClassReadRangeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadRange](dcsFileAdapterClassReadRangeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -203,7 +203,7 @@ Read a database file record containing a key within a given range of values.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadSequential](dcsFileAdapterClassReadSequentialMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadSequential](dcsFileAdapterClassReadSequentialMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -213,7 +213,7 @@ Read a single record from the file in sequential order.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadSequentialEqual](dcsFileAdapterClassReadSequentialEqualMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReadSequentialEqual](dcsFileAdapterClassReadSequentialEqualMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -223,7 +223,7 @@ Read a database file record adjacent to the current position with a key equal to
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReleaseCurrent](dcsFileAdapterClassReleaseCurrentMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReleaseCurrent](dcsFileAdapterClassReleaseCurrentMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -233,7 +233,7 @@ Release the currently locked record.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReleaseRRN](dcsFileAdapterClassReleaseRRNMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReleaseRRN](dcsFileAdapterClassReleaseRRNMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -243,7 +243,7 @@ Release the specified record.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img height="11" alt="public property" src="../Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ResetFormat](dcsFileAdapterClassResetFormatMethod.html) 
+<img height="11" alt="public property" src="Images/PUBLIC%20METHOD.GIF" width="15" border="0" x-maintain-ratio="TRUE" /> [ ResetFormat](dcsFileAdapterClassResetFormatMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -253,7 +253,7 @@ For multi-format file access, reset the file to access a record of any format in
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ResetPrintAttr](dcsFileAdapterClassResetPrintAttrMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ResetPrintAttr](dcsFileAdapterClassResetPrintAttrMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -263,7 +263,7 @@ Complete the current printer job, change device-related parameters associated wi
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReuseRRN](dcsFileAdapterClassReUseRRNMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ ReuseRRN](dcsFileAdapterClassReUseRRNMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -273,7 +273,7 @@ Change the status of a deleted record to undeleted, and update its contents.
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SeekKey](dcsFileAdapterClassSeekKeyMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SeekKey](dcsFileAdapterClassSeekKeyMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -283,7 +283,7 @@ Moves the record pointer associated with the currently open file without reading
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SeekRange](dcsFileAdapterClassSeekRangeMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SeekRange](dcsFileAdapterClassSeekRangeMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -293,7 +293,7 @@ Moves the record pointer associated with the currently open file without reading
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SeekRRN](dcsFileAdapterClassSeekRRNMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SeekRRN](dcsFileAdapterClassSeekRRNMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -303,7 +303,7 @@ Moves the record pointer associated with the currently open file without reading
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SetFormat](dcsFileAdapterClassSetFormatMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ SetFormat](dcsFileAdapterClassSetFormatMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

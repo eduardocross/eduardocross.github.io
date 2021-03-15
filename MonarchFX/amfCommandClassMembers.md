@@ -24,7 +24,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             <th>Constructor</th>
             <th>Description</th>
           </tr>          <tr>
-            <td>  <img class="hcp4" alt="constructor" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="constructor" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [Command](amfCommandClassConstructors.html)
             </td>
             <td>Constructs a new instance
@@ -43,7 +43,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             <th>Method</th>
             <th>Description</th>
           </tr><tr>
-            <td style="height: 57px">  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td style="height: 57px">  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [<code>Call</code>](amfCommandClassCallMethods.html)
             </td>
             <td style="height: 57px">Overloaded. Call allows
@@ -51,7 +51,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             to invoke diverse program functions within a Job.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>CallSilent</code>](amfCommandClassCallSilentMethod.html)
             </td>
@@ -61,7 +61,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             file in the browser.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>GetLdaField</code>](amfCommandClassGetLdaFieldMethod.html)
             </td>
@@ -70,7 +70,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             area).  </td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>GetLdcObject</code>](amfCommandClassGetLdcObjectMethod.html)
             </td>
@@ -79,7 +79,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             (local data collection).</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>PushKeyFocus</code>](amfCommandClassPushKeyFocusMethod.html)
             </td>
@@ -90,7 +90,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             by those parameters.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>RemoveLdcObject</code>](amfCommandClassRemoveLdcObjectMethod.html)
             </td>
@@ -98,7 +98,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             from the jobs' LDC (local data collection).</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>RequestShutdown</code>](amfCommandClassRequestShutdownMethod.html)
             </td>
@@ -107,14 +107,14 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             ended.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [<code>Return</code>](amfCommandClassReturnMethod.html)
             </td>
             <td>Returns a job to procedural
             processing.</td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>SetLdaField</code>](amfCommandClassSetLdaFieldMethod.html)
             </td>
@@ -123,7 +123,7 @@ This topic contains a listing of all the members in the [Command Class](amfComma
             data area).  </td>
           </tr>
           <tr>
-            <td>  <img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td>  <img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               <code>SetLdcObject</code>](amfCommandClassSetLdcObjectMethod.html)
             </td>

@@ -23,7 +23,7 @@ keywords: methods [ASNA.Monarch], WebJob class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="method" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
+            <td><img alt="method" src="Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               [
               AcceptCommands](amfWebJobClassAcceptCommandsMethod.html)
             </td>
@@ -31,7 +31,7 @@ keywords: methods [ASNA.Monarch], WebJob class
             commands.</td>
           </tr>
           <tr>
-            <td><img  id="IMG2" alt="method" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
+            <td><img  id="IMG2" alt="method" src="Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               [
               EndProgram](amfWebJobClassEndProgramsMethod.html)
             </td>
@@ -39,7 +39,7 @@ keywords: methods [ASNA.Monarch], WebJob class
  **WebJob**  program.</td>
           </tr>
           <tr>
-            <td><img id="Img1" alt="method" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
+            <td><img id="Img1" alt="method" src="Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               [
               RequestShutDown](amfWebJobClassRequestShutDownMethod.html)
             </td>
@@ -47,7 +47,7 @@ keywords: methods [ASNA.Monarch], WebJob class
             request for the web job.</td>
           </tr>
           <tr>
-            <td><img id="Img5" alt="method" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
+            <td><img id="Img5" alt="method" src="Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               [ShowPage](amfWebJobClassShowPageMethod.html)
             </td>
             <td>Prepares a job to accept
@@ -55,7 +55,7 @@ keywords: methods [ASNA.Monarch], WebJob class
             conversation with the user.</td>
           </tr>
           <tr>
-            <td><img id="Img3" alt="method" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
+            <td><img id="Img3" alt="method" src="Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               [ShutDown](amfWebJobClassShutDownMethod.html)
             </td>
             <td>Ends all active programs,
@@ -64,7 +64,7 @@ keywords: methods [ASNA.Monarch], WebJob class
             job.</td>
           </tr>
           <tr>
-            <td><img id="Img4" alt="public method" src="../Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
+            <td><img id="Img4" alt="public method" src="Images/Methods.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               [
               Start](amfWebJobClassStartMethod.html)
             </td>
@@ -86,7 +86,7 @@ keywords: methods [ASNA.Monarch], WebJob class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img alt="method" src="../Images/promethod.bmp" x-maintain-ratio="TRUE" width="15" height="15" border="0" />
+            <td><img alt="method" src="Images/promethod.bmp" x-maintain-ratio="TRUE" width="15" height="15" border="0" />
               [
               ExecuteStartupProgram](amfWebJobClassExecuteStartupProgramMethod.html)
             </td>

@@ -39,15 +39,15 @@ The default style for **ValuesStyle** is **Textbox.** However, if there are entr
 
 Choose **DropdownBoth** to display a drop-down box containing the entries for the **Values** AND [ ValuesText](amfDdsDataFieldClassValuesTextProperty.html) properties. For example, entries of **<span style="color:#000099">A B C D</span>** in the **Values** property, AND entries of **Add Browse Change Delete** in the **ValuesText** property will display:
 
-<img alt="" src="../Images/DropdownBoth.jpg" border="0" /> 
+<img alt="" src="Images/DropdownBoth.jpg" border="0" /> 
 
 Choose **DropdownText** to display a drop-down box containing the entries for the **ValuesText** property. For example, entries of **Add Browse Change Delete** in the **ValuesText** property will display:
 
-<img alt="" src="../Images/ValuesText_entries.jpg" border="0" /> 
+<img alt="" src="Images/ValuesText_entries.jpg" border="0" /> 
 
 Choose **DropdownValues** to display a drop-down box containing the entries for the **Values** property. For example, entries of **<span style="color:#000099">A B C D</span>** in the **Values** property will display:
 
-<img alt="" src="../Images/Values_entries.jpg" border="0" /> 
+<img alt="" src="Images/Values_entries.jpg" border="0" /> 
 
 For the user to see the entries in the **Values** property, the **ValuesStyle** property must be set to either **DropdownValues** or **DropdownBoth** (also displays **ValuesText** property).
 

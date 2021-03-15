@@ -25,7 +25,7 @@ This documents shows all of the members for the class.
             <th>Description</th>
           </tr>
           <tr valign="top">
-            <td>              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="../Images/methods.bmp" width="16" border="0" />
+            <td>              <img class="hcp4" style="WIDTH: 16px; HEIGHT: 16px" height="16" alt="public method" src="Images/methods.bmp" width="16" border="0" />
               <code>[
               CallerActivationGroupAttribute](amfCallerActivationGroupAttributeClassConstructors.html)</code>
             </td>

@@ -21,7 +21,7 @@ keywords: fields [ASNA.Monarch.WebDspF], DdsField class
   <th>Description</th>
           </tr>
           <tr valign="top">
-            <td><img alt="public fields" src="../images/field.bmp" />
+            <td><img alt="public fields" src="Images/field.bmp" />
               [
               IsDesignTime](amfDdsFieldClassIsDesignTimeField.html)
             </td>

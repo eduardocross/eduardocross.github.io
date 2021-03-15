@@ -23,7 +23,7 @@ keywords: members [ASNA.Monarch.WebDspF], DdsDataField class
           </tr>
 
           <tr>
-<td><img  alt="public method" src="../Images/Methods.bmp" width="16" border="0" />  [DdsDataField](amfDdsDataFieldClassConstructors.html)</td>
+<td><img  alt="public method" src="Images/Methods.bmp" width="16" border="0" />  [DdsDataField](amfDdsDataFieldClassConstructors.html)</td>
           <td>Instances of this class cannot be created directly; they can only be created as base class instances of the [derived classes](amfDdsDataFieldDerivedClasses.html).</td>
           </tr>
 </table>
@@ -40,16 +40,16 @@ keywords: members [ASNA.Monarch.WebDspF], DdsDataField class
           <th>Description</th>
           </tr>
           <tr>
-<td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" />  [  Alias](amfDdsDataFieldClassAliasProperty.html)</td>
+<td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" />  [  Alias](amfDdsDataFieldClassAliasProperty.html)</td>
  <td>Gets or sets an alternate field name for the field.</td>
           </tr>
-          <tr><td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsDataFieldClassAutoPostBackProperty.html)</td>
+          <tr><td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBack](amfDdsDataFieldClassAutoPostBackProperty.html)</td>
  <td>Gets or sets a boolean value that if true, causes the control to generate a post back to the server when the field is output-only.</td>
           </tr>
-          <tr><td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDataFieldClassAutoPostBackKeyProperty.html)</td>
+          <tr><td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AutoPostBackKey](amfDdsDataFieldClassAutoPostBackKeyProperty.html)</td>
  <td>Gets or sets the aidkey to return to the server when **AutoPostBack**  is True.</td>
           </tr>
-          <tr><td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" />  [ChangeInd](amfDdsDataFieldClassChangeIndProperty.html)</td>
+          <tr><td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" />  [ChangeInd](amfDdsDataFieldClassChangeIndProperty.html)</td>
  <td>Gets or sets the response indicator to set 'on' when this field changes.</td>
           </tr>
           <tr>
@@ -110,26 +110,26 @@ keywords: members [ASNA.Monarch.WebDspF], DdsDataField class
           <th>Description</th>
           </tr>
           <tr>
-<td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  LoadPostData](amfDdsDataFieldClassLoadPostDataMethods.html)</td>
+<td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  LoadPostData](amfDdsDataFieldClassLoadPostDataMethods.html)</td>
  <td>Overloaded. Processes postback data for an ASP.NET server control and returns **True**  if the server control's state changed as a result of the postback; otherwise **False** .</td>
           </tr>
-          <tr><td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  ParseValues](amfDdsDataFieldClassParseValuesMethod.html)</td>
+          <tr><td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  ParseValues](amfDdsDataFieldClassParseValuesMethod.html)</td>
  <td>Parses the values to be displayed when the field is of type dropdown.</td>
           </tr>
           <tr>
-<td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  RaisePostDataChangedEvent](amfDdsDataFieldClassRaisePostDataChangedEventMethod.html)</td>
+<td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  RaisePostDataChangedEvent](amfDdsDataFieldClassRaisePostDataChangedEventMethod.html)</td>
  <td>Signals the server control object to notify the ASP.NET application that the state of the control has changed.</td>
           </tr>
           <tr>
-<td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  RenderBeginTag](amfDdsDataFieldClassRenderBeginTagMethod.html)</td>
+<td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  RenderBeginTag](amfDdsDataFieldClassRenderBeginTagMethod.html)</td>
  <td>Renders the HTML opening tag of the control into the specified *writer* .</td>
           </tr>
           <tr>
-<td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  RenderEndTag](amfDdsDataFieldClassRenderEndTagMethod.html)</td>
+<td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  RenderEndTag](amfDdsDataFieldClassRenderEndTagMethod.html)</td>
  <td>Renders the HTML closing tag of the control into the specified *writer* .</td>
           </tr>
           <tr>
-<td><img alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  ResetMessageId](amfDdsDataFieldClassResetMessageIdMethod.html)</td>
+<td><img alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" border="0" />  [  ResetMessageId](amfDdsDataFieldClassResetMessageIdMethod.html)</td>
  <td>Resets the [MessageId](amfDdsDataFieldClassMessageIdProperty.html) property.</td>
           </tr>
 </table>

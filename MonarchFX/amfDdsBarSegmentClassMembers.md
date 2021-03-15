@@ -26,7 +26,7 @@ This document lists the members of the DdsBarSegment class. It does not include 
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
           <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/Methods.bmp" />[
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/Methods.bmp" />[
               DdsBarSegment](amfDdsBarSegmentClassConstructors.html)</td>
             <td>Creates a new instance of a
             DdsBarSegment.</td>

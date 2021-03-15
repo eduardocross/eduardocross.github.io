@@ -23,7 +23,7 @@ Public Properties
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ CurrentUserLibl](dcsAdgConnectionCurrentUserLiblProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ CurrentUserLibl](dcsAdgConnectionCurrentUserLiblProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -33,7 +33,7 @@ Set-only property used to change the current library list of an open database co
           <tr valign="top">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ SourceProfile](dcsAdgConnectionClassSourceProfileProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ SourceProfile](dcsAdgConnectionClassSourceProfileProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 
@@ -43,7 +43,7 @@ The [SourceProfile](dcsSourceProfileClass.html) object describing the currently 
           <tr>
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/property.bmp" width="16" height="16" border="0" /> [ State](dcsAdgConnectionClassStateProperty.html) 
+<img alt="public property" src="Images/property.bmp" width="16" height="16" border="0" /> [ State](dcsAdgConnectionClassStateProperty.html) 
 </td>
             <td colspan="1" rowspan="1">
 

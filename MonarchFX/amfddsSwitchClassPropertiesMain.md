@@ -24,7 +24,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           <th>Description</th>
           </tr>
             <tr>
-            <td style="height: 31px; width: 218px;">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" style="height: 16px" /> [CssLabelText](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.CssClass(v=vs.110).aspx">CssClass</a></td>
+            <td style="height: 31px; width: 218px;">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" style="height: 16px" /> [CssLabelText](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.CssClass(v=vs.110).aspx">CssClass</a></td>
             <td style="height: 31px">Gets or sets the CSS Class of the control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -33,7 +33,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <td>Sets the CSS class to use when styling the label text.</td>
           </tr>
 			<tr>
-            <td style="width: 218px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [LabelText](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.Forecolorv=vs.110).aspx">Forecolor</a></td>
+            <td style="width: 218px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [LabelText](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.Forecolorv=vs.110).aspx">Forecolor</a></td>
             <td>Sets the foreground (usually the text) color for the control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -42,15 +42,15 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             <td>Sets the text for the Switch label.</td>
           </tr>
            <tr>
-            <td><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [LabelTextField](amfDdsSwitchClassLabelTextFieldProperty.html)</td>
+            <td><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [LabelTextField](amfDdsSwitchClassLabelTextFieldProperty.html)</td>
             <td>Sets the name of the field that holds the label text.</td>
           </tr>
  <tr>
-            <td style="height: 31px"><img height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [LabelTextFieldLength](amfDdsSwitchClassLabelTextFieldLengthProperty.html)</td>
+            <td style="height: 31px"><img height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [LabelTextFieldLength](amfDdsSwitchClassLabelTextFieldLengthProperty.html)</td>
             <td style="height: 31px">Sets the length of the LabelTextField.</td>
           </tr>
  		   <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [Protect](amfDdsButtonClassProtectProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [Protect](amfDdsButtonClassProtectProperty.html)</td>
             <td>Gets or sets the 
  *RPG indicator*  expression that when evaluated,
             determines if the field is output-only
@@ -62,7 +62,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           </tr>
 
             <tr>
-            <td style="height: 31px">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [Usage](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.tabindex(v=vs.110).aspx">TabIndex</a></td>
+            <td style="height: 31px">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [Usage](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.tabindex(v=vs.110).aspx">TabIndex</a></td>
             <td style="height: 31px">Sets the Tab Index for this control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -84,7 +84,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
           	[ValueOff](amfDdsSwitchClassValueOffProperty.html). </td>
           </tr>
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" />
+            <td><img alt="public property" src="Images/property.bmp" />
               [ValueField](amfDdsSwitchClassValueFieldProperty.html)
 
             </td>
@@ -120,7 +120,7 @@ This page includes members inherited from System.Web.UI.WebControls.WebControl a
             file.</td>
             </tr>
 			<tr>
-            <td style="width: 196px"><img alt="public property" src="../Images/property.bmp" />
+            <td style="width: 196px"><img alt="public property" src="Images/property.bmp" />
               [
               VisibleCondition](amfDdsPanelClassVisibleConditionProperty.html)
             </td>

@@ -23,7 +23,7 @@ Public Methods
           <tr valign="top" style="x-cell-content-align: top;">
             <td colspan="1" rowspan="1">
 
-<img alt="public property" src="../Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetVerboseText](dcsdgExceptionClassGetVerboseTextMethod.html) 
+<img alt="public property" src="Images/PUBLIC%20METHOD.GIF" x-maintain-ratio="TRUE" width="15" height="11" border="0" /> [ GetVerboseText](dcsdgExceptionClassGetVerboseTextMethod.html) 
 </td>
             <td colspan="1" rowspan="1">
 

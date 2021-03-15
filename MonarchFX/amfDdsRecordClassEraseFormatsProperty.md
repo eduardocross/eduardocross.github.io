@@ -44,7 +44,7 @@ The **EraseFormats** property allows you to specify which record formats you wan
 
 To set the **EraseFormats** property at design-time, click on the far right side of the **EraseFormats** property and the **EraseFormats Property Editor** will display as shown below. See [Conditional Properties Overview](amfconConditionalPropertiesOverview.html) and [ Monarch Web Control Indicator Expression Tester](amfMonarchWebControlIndicatorExpressionTester.html) for more information on setting the conditional indicators and testing your expressions.
 
-<img id="Img1" src="../Images/zzDdsRecordEraseFormats.JPG" /> 
+<img id="Img1" src="Images/zzDdsRecordEraseFormats.JPG" /> 
 
 #### Requirements
 **Namespace:** [ASNA.Monarch.WebDspF](amfWebDspFNamespace.html)

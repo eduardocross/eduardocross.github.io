@@ -24,7 +24,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsGMap class
           </tr>
 <!-- end copy BUT put in extra div and end of table -->
             <tr>
-            <td style="height: 31px; width: 218px;">![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [AddressField](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
+            <td style="height: 31px; width: 218px;">![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [AddressField](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.accesskey(v=vs.110).aspx">AccessKey</a></td>
             <td style="height: 31px">Gets or sets a key used to access the Bar control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -34,13 +34,13 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsGMap class
 	  data will be drawn.</td>
           </tr>
           <tr>
-            <td style="width: 185px"><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> [AddressFieldLength](amfDdsGMapClassAddressFieldLengthProperty.html)</td>
+            <td style="width: 185px"><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> [AddressFieldLength](amfDdsGMapClassAddressFieldLengthProperty.html)</td>
             <td>Gets or sets an integer value that defines the length of the 
 			AddressField from which the data to be displayed is drawn.</td>
           </tr>
             <tr>
             <td style="width: 218px">
-			![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" class="auto-style1" /> [ClearIndicator](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.backcolor(v=vs.110).aspx">BackColor</a></td>
+			![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" class="auto-style1" /> [ClearIndicator](http://msdn.microsoft.com/en-us/library/system.web.ui.webcontrols.webcontrol.backcolor(v=vs.110).aspx">BackColor</a></td>
             <td>Sets the background for this control. (Inherited from ASP.NET 
 			WebControl.)</td>
             </tr>
@@ -132,7 +132,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsGMap class
 			PinIconField.</td>
           </tr>
 		  		  <tr>
-            <td>![public property" src="../Images/property.bmp" width="16" border="0](../Images/property.bmp" /> [PinLabelField](amfDdsGMapClassPinLabelFieldProperty.html)</td>
+            <td>![public property" src="Images/property.bmp" width="16" border="0](Images/property.bmp" /> [PinLabelField](amfDdsGMapClassPinLabelFieldProperty.html)</td>
             <td>Gets or sets the IBM i field that the holds the data for the Pin Label.</td>
           </tr>
 		            <tr>

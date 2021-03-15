@@ -24,7 +24,7 @@ keywords: properties [ASNA.Monarch], WebJob class
           </tr>
 
           <tr>
-            <td><img alt="public property" src="../Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
+            <td><img alt="public property" src="Images/property.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />
               [
               CurrentWebJob](amfWebJobClassCurrentWebJobProperty.html)
             </td>
@@ -32,7 +32,7 @@ keywords: properties [ASNA.Monarch], WebJob class
             the currently running 
  **WebJob**  object.</td>
           </tr><tr>
-            <td><img id="Img8" alt="public property" src="../Images/
+            <td><img id="Img8" alt="public property" src="Images/
 property.bmp" x-maintain-ratio="TRUE" width="16" height="16" border="0" />
               [
               Device](amfWebJobClassDeviceProperty.html)

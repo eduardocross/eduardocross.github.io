@@ -23,7 +23,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsBaseDate class
             <th>Description</th>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AutoPostBack](amfDdsBaseDateClassAutoPostBackProperty.html)</td>
             <td>Gets or sets a boolean
@@ -32,7 +32,7 @@ keywords: properties [ASNA.Monarch.WebDspF], DdsBaseDate class
             output-only.</td>
           </tr>
           <tr>
-            <td><img  height="16" alt="public property" src="../Images/property.bmp" width="16" border="0" /> 
+            <td><img  height="16" alt="public property" src="Images/property.bmp" width="16" border="0" /> 
             [
             AutoPostBackKey](amfDdsBaseDateClassAutoPostBackKeyProperty.html)</td>
             <td>Gets or sets the

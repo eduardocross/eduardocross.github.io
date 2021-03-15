@@ -22,7 +22,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
             <th>Description</th>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />  
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />  
             [
             LoadPostData](amfDdsTimestampFieldClassLoadPostDataMethod.html)</td>
                 <td>Processes post back data
@@ -32,7 +32,7 @@ This member's page does not include members inherited from System.Web.UI.WebCont
  **False** .</td>
           </tr>
           <tr>
-            <td><img class="hcp4" alt="public method" src="../Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />  
+            <td><img class="hcp4" alt="public method" src="Images/Methods.bmp" style="WIDTH:16px; HEIGHT:16px" width="16" height="16" border="0" />  
             [
             ValueToString](amfDdsTimestampFieldClassValueToStringMethod.html)</td>
                 <td>Return the value for the
